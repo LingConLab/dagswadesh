@@ -1,0 +1,61 @@
+---
+output: 
+  html_document:
+    include:
+     after_body: footer.html
+knit: (function(inputFile, encoding) { out_dir <- 'docs'; rmarkdown::render(inputFile, encoding=encoding, output_file=file.path(dirname(inputFile), out_dir, 'index.html')) })
+---
+<style>
+.main-container {
+    max-width: 1200px;
+    margin-left: 20;
+    margin-right: auto;
+}
+</style>
+
+```{r setup, include=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo=FALSE, message=FALSE)
+```
+###  An index of Anchiq verbs and their inflectional properties {.tabset .tabset-fade .tabset-pills}
+
+Download the database of Anchiq verbs: [.csv]()
+
+#### About the index
+This index contains 200 Anchiq verb roots and some information on their inflectional properties.
+
+
+The columns of the index indicate the following information:
+
+-   **Id** — identificator of a root, retained for the sake of compatibility with printed index.
+
+-   **Label** — a lexical label of a verb
+
+-   **Translation** - russian translation of a lexical label
+
+-   **Root** - a root of a verb in ist underlying form
+
+-	  **Slot** - presence of class agreement clot --- indicates whether a verb can agree with its absolutive argument
+
+-   **Conj** - conjugation type: *A*, *E* or *U*.
+
+-	  **Nas** - indicates if a verb is mophophonologically nasalized
+
+-   **Lab** - indicates if a verb is mophophonologically labialized, +Lp stands for parasytic labialization, +Lr stands for robust labialization of velars, uvulars and laryngeals
+
+-	  **Son** - indicates, whether a verb has a mophophonologically sonorant auslaut
+
+-	  **Defic** - paradigm deficiency type: *Norm* means non-deficient paradigm, *Incr* denotes that a verb can attach only causativized (increased) morphology, *Std* denotes that a verb can attach only non-causativized (standard) morphology
+
+-	  **Irreg** - contains all known paradigm irregularities: *AltIPFV* means that a verb chooses an alternative set of imperfective morphology, *AddIPFV* means that a verb has an additional form of imperfective in analytic paradigm. 
+
+
+#### Search
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE, fig.width = 9.5}
+library(DT)
+library(tidyverse)
+library(dplyr)
+dtable = read.csv("idxrsort.csv") 
+datatable(dtable, filter = list(position = 'top', clear = FALSE, plain = TRUE), rownames = FALSE,  extensions = 'Buttons', options = list(pageLength = 20, dom = 'Bfrtip' , buttons = I('colvis'),autoWidth = TRUE), escape = FALSE) 
+```
+
