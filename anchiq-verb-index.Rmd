@@ -16,9 +16,9 @@ knit: (function(inputFile, encoding) { out_dir <- 'docs'; rmarkdown::render(inpu
 ```{r setup, include=FALSE, warning=FALSE}
 knitr::opts_chunk$set(echo=FALSE, message=FALSE)
 ```
-###  An index of Anchiq verbs and their inflectional properties {.tabset .tabset-fade .tabset-pills}
+###  Index of Anchiq verbs and their inflectional properties {.tabset .tabset-fade .tabset-pills}
 
-Download the database of Anchiq verbs: [.csv]()
+Download the database of Anchiq verbs: [.csv](https://raw.githubusercontent.com/triolo/anchiq-verb-index/master/idxrsort.csv)
 
 #### About the index
 This index contains 200 Anchiq verb roots and some information on their inflectional properties.
