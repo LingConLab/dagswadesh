@@ -1,0 +1,24 @@
+---
+title: Compare data
+---
+
+
+<style>
+.main-container {
+    max-width: 1200px;
+    margin-left: 20;
+    margin-right: auto;
+}
+</style>
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, fig.width = 9.5}
+library(tidyr)
+library(dplyr)
+library(DT)
+library(tidyverse)
+library(dplyr)
+dtable = read_delim("../data/andic.tsv", delim ="\t")#, header = T)
+dtable = select(dtable, c(-SEGMENTS, -COG_ID))
+data_wide = pivot_wider(dtable, names_from = IDIOM, values_from = TRANSCRIPTION, id_cols = c(CONCEPT_ID, CONCEPT), values_fill = NA)
+datatable(data_wide, filter = list(position = 'top', clear = FALSE, plain = TRUE), rownames = FALSE,  extensions = c( 'Buttons','ColReorder'), options = list(pageLength = 20, dom = 'Bfrtip' , buttons = list(list(extend = 'colvis', columns = 2:21)), autoWidth = F, colReorder = list(realtime = FALSE), fixedHeader = TRUE), escape = FALSE)
+```

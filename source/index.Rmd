@@ -1,0 +1,18 @@
+---
+title: "Swadesh lists with village granularity"
+output: html_document
+---
+
+
+***
+There will be some nice introductory text...
+
+
+***
+
+
+***
+
+***
+
+

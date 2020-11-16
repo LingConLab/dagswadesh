@@ -1,0 +1,17 @@
+---
+title: Search data
+---
+
+```{r setup, include=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo=FALSE, message=FALSE)
+```
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE, fig.width = 9.5}
+library(DT)
+library(tidyverse)
+library(dplyr)
+dtable = read.table("../data/andic.tsv", sep="\t", header = T)
+dtable = select(dtable, -SEGMENTS)
+datatable(dtable, colnames = c('ID' = 1,'Concept ID' = 2,'Concept'= 3,'Idiom' = 4,'Transcription' = 5,'Cognate set ID'= 6), filter = list(position = 'top', clear = FALSE, plain = TRUE), rownames = FALSE,  extensions = c('Select', 'SearchPanes', 'Buttons'), options = list(pageLength = 20, dom = 'Pfrtip' , buttons = I('colvis'), autoWidth = F, columnDefs = list(list(searchPanes = list(show = FALSE), targets = c(0,1,4)))), escape = FALSE)
+```
+

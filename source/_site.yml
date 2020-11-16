@@ -1,0 +1,21 @@
+name: "svg"
+output_dir: ".."
+navbar:
+  title: "SVG"
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Search data"
+      icon: fa-search
+      href: database.html
+    - text: "Compare data"
+      icon: fa-balance-scale
+      href: database_compar.html
+  right:
+    - icon: fa-question fa-lg
+      href: somepage.html
+    - text: "Download"
+      icon: fa-download
+      href: download.html
