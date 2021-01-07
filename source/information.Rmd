@@ -1,0 +1,57 @@
+---
+title: "Information"
+output:
+  html_document:
+    fig_cap: yes
+    highlight: tango
+    smooth_scroll: no
+    toc: yes
+    toc_float: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F)
+library(tidyverse)
+library(DT)
+library(RefManageR)
+library(bibtex)
+metadata <- read_tsv("../data/metadata.tsv")
+```
+### Wordlists
+```{r}
+bib <- ReadBib(file = "../data/bibliography.bib")
+BibOptions(style = "html", bib.style = "authoryear", cite.style = "authoryear", max.names = 2)
+
+dtable <- metadata
+
+cit <- vector("character", length(dtable$source))  
+for (i in seq_along(dtable$source)) 
+  {
+  if(dtable$source[[i]] == "Fieldwork"){next()}
+  if (grepl("; ", dtable$source[[i]], fixed = TRUE) == TRUE) 
+    {
+  cits = strsplit(dtable$source[[i]], "; ")
+    for (j in seq_along(cits))
+      { 
+        cits[[j]] <- RefManageR::Cite(bib = bib, cits[[j]], .opt = list(max.names = 2))
+      }
+  dtable$source[[i]] = paste(cits, sep = "; ")
+    } 
+  else 
+    {
+      dtable$source[[i]] <- RefManageR::Cite(bib = bib, dtable$source[[i]], .opt = list(max.names = 2))
+    }
+}
+
+# generate searchable datatable
+
+DT::datatable(dtable, escape = FALSE, rownames = FALSE,
+              options = list(pageLength = 15, dom = 'ftip'))
+
+```
+
+### References
+
+```{r results = "asis", echo = FALSE}
+PrintBibliography(bib, .opts = list(check.entries = FALSE, sorting = "nyt"))
+```

@@ -13,6 +13,9 @@ navbar:
     - text: "Compare data"
       icon: fa-balance-scale
       href: database_compar.html
+    - text: "Information"
+      icon: fa-book
+      href: information.html
   right:
     - icon: fa-question fa-lg
       href: somepage.html
