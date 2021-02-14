@@ -1,36 +1,36 @@
 ID	CONCEPT_ID	CONCEPT	IDIOM	TRANSCRIPTION	SEGMENTS	COG_ID
 1	2	ashes	Anchiq	ʟ’ej	ʟ’ e j	5
-2	3	bark	Anchiq	qale	q a l e	7
+2	3	bark	Anchiq	qale	q a l e	55
 3	4	belly	Anchiq	bak’ʷal	b a k’ʷ a l	11
 4	5	big	Anchiq	hič’uχʷab	h i č’ u χʷ a b	15
 5	6	bird	Anchiq	šːakibo	šː a k i b o	19
 6	7	bite (V)	Anchiq	q’ame	q’ a m e	23
-7	8	black	Anchiq	beč’at’ob	b e č’ a t’ o b	28
+7	8	black	Anchiq	beč’at’ob	b e č’ a t’ o b	33
 8	9	blood	Anchiq	heri	h e r i	31
 9	10	bone	Anchiq	raʟ’e	r a ʟ’ e	34
 10	11	breast	Anchiq	niχe	n i χ e	16
-11	12	burn (V, TR)	Anchiq	c’ahaː 	c’ a h aː	42
+11	12	burn (V, TR)	Anchiq	c’ahaː 	c’ a h aː	43
 12	13	cloud	Anchiq	hanʔu	h a n ʔ u	47
-13	14	cold	Anchiq	zaraχub	z a r a χ u b	54
+13	14	cold	Anchiq	zaraχub	z a r a χ u b	42
 14	16	die (V)	Anchiq	wulʔa	w u l ʔ a	61
 15	17	dog	Anchiq	χʷaj	χʷ a j	358
-16	18	drink (V)	Anchiq	c’ːare	c’ː a r e	63
-17	19	dry	Anchiq	beq’ub	b e q’ u b	68
-18	20	ear	Anchiq	hant’ik’a	h a n t’ i k’ a	69
+16	18	drink (V)	Anchiq	c’ːare	c’ː a r e	52
+17	19	dry	Anchiq	beq’ub	b e q’ u b	2
+18	20	ear	Anchiq	hant’ik’a	h a n t’ i k’ a	366
 19	21	earth	Anchiq	ũšːi	ũ šː i	73
-20	22	eat (V)	Anchiq	ame	a m e	76
-21	23	egg	Anchiq	k’ark’an	k’ a r k’ a n	81
+20	22	eat (V)	Anchiq	ame	a m e	75
+21	23	egg	Anchiq	k’ark’an	k’ a r k’ a n	80
 22	24	eye	Anchiq	hark’a	h a r k’ a	86
-23	25	fat	Anchiq	xʷamu	xʷ a m u	92
-24	26	feather	Anchiq	ħuli	ħ u l i	99
+23	25	fat	Anchiq	xʷamu	xʷ a m u	96
+24	26	feather	Anchiq	ħuli	ħ u l i	
 25	27	fire	Anchiq	c’ej	c’ e j	102
-26	28	fish	Anchiq	čːuʕa	čː u ʕ a	108
+26	28	fish	Anchiq	čːuʕa	čː u ʕ a	
 27	29	fly (V)	Anchiq	ardira	a r d i r a	111
 28	30	foot	Anchiq	c’ek’a	c’ e k’ a	116
-29	31	full	Anchiq	bec’ob	b e c’ o b	124
-30	32	give (V)	Anchiq	ekːe	e kː e	129
+29	31	full	Anchiq	bec’ob	b e c’ o b	128
+30	32	give (V)	Anchiq	ekːe	e kː e	4
 31	33	go (V)	Anchiq	woʟe	w o ʟ e	39
-32	34	good	Anchiq	xohow	x o h o w	132
+32	34	good	Anchiq	xohow	x o h o w	135
 33	35	green	Anchiq	arčob	a r č o b	137
 34	36	hair	Anchiq	kara	k a r a	142
 35	37	hand	Anchiq	relʔa	r e l ʔ a	144
@@ -39,20 +39,20 @@ ID	CONCEPT_ID	CONCEPT	IDIOM	TRANSCRIPTION	SEGMENTS	COG_ID
 38	40	heart	Anchiq	rak’ʷa	r a k’ʷ a	152
 39	41	horn	Anchiq	bulʔa	b u l ʔ a	154
 40	42	I	Anchiq	de	d e	158
-41	43	kill (V)	Anchiq	k’ːobe	k’ː o b e	160
+41	43	kill (V)	Anchiq	k’ːobe	k’ː o b e	129
 42	44	knee	Anchiq	nuku	n u k u	162
-43	45	know (V)	Anchiq	biʔa	b i ʔ a	167
-44	46	leaf	Anchiq	ale	a l e	171
+43	45	know (V)	Anchiq	biʔa	b i ʔ a	169
+44	46	leaf	Anchiq	ale	a l e	173
 45	47	lie (V)	Anchiq	girdaː	g i r d aː	174
-46	48	liver	Anchiq	elagiʟ	e l a g i ʟ	262
-47	49	long	Anchiq	beχːelab	b e χː e l a b	184
-48	50	louse	Anchiq	nacʼːe	n a cʼː e	185
+46	48	liver	Anchiq	elagiʟ	e l a g i ʟ	180
+47	49	long	Anchiq	beχːelab	b e χː e l a b	183
+48	50	louse	Anchiq	nac’ːe	n a c’ː e	185
 49	51	man	Anchiq	hek’ʷa	h e k’ʷ a	187
 50	53	many	Anchiq	ʟ’ani	ʟ’ a n i	191
 51	54	meat	Anchiq	riʟ’i	r i ʟ’ i	192
 52	55	moon	Anchiq	boc’ːu	b o c’ː u	71
-53	57	mouth	Anchiq	eli	e l i	200
-54	58	nail	Anchiq	muʟu / muɬu	m u ʟ u	206
+53	57	mouth	Anchiq	eli	e l i	203
+54	58	nail	Anchiq	muʟu	m u ʟ u	205
 55	59	name	Anchiq	c’ːeri	c’ː e r i	209
 56	60	neck	Anchiq	garu	g a r u	210
 57	61	new	Anchiq	c’inob	c’ i n o b	213
@@ -61,179 +61,179 @@ ID	CONCEPT_ID	CONCEPT	IDIOM	TRANSCRIPTION	SEGMENTS	COG_ID
 60	64	not	Anchiq	č’e	č’ e	218
 61	65	one	Anchiq	ceb	c e b	220
 62	66	rain	Anchiq	orčar	o r č a r	221
-63	67	red	Anchiq	herob	h e r o b	226
+63	67	red	Anchiq	herob	h e r o b	223
 64	68	road	Anchiq	miq’e	m i q’ e	227
-65	69	root	Anchiq	reʟ’ebo	r e ʟ’ e b o	230
+65	69	root	Anchiq	reʟ’ebo	r e ʟ’ e b o	228
 66	70	round	Anchiq	gergamob	g e r g a m o b	231
 67	71	sand	Anchiq	sora	s o r a	237
 68	72	say (V)	Anchiq	heʟ’e	h e ʟ’ e	240
 69	73	see (V)	Anchiq	hãʔa	h ã ʔ a	244
 70	74	seed	Anchiq	xũj	x ũ j	250
 71	75	sit (V)	Anchiq	k’uc’ire	k’ u c’ i r e	254
-72	77	sleep (V)	Anchiq	ʟ’ihãs gira	ʟ’ i h ã s  g i r a	264
+72	77	sleep (V)	Anchiq	ʟ’ihãs gira	ʟ’ i h ã s  g i r a	251
 73	78	small	Anchiq	nik’ob	n i k’ o b	267
 74	79	smoke	Anchiq	cːure	cː u r e	271
 75	80	stand (V)	Anchiq	heč’ːe	h e č’ː e	274
-76	81	star	Anchiq	cˈːoj	cˈː o j	279
+76	81	star	Anchiq	c’ːoj	c’ː o j	278
 77	82	stone	Anchiq	qit’a	q i t’ a	281
 78	83	sun	Anchiq	miɬe	m i ɬ e	282
-79	84	swim (V)	Anchiq	ɬẽj χandaː	ɬ ẽ j  χ a n d aː	289
+79	84	swim (V)	Anchiq	ɬːẽj χːandaː	ɬː ẽ j  χː a n d aː	289
 80	85	tail	Anchiq	miʁa	m i ʁ a	292
 81	88	tongue	Anchiq	mac’ːi	m a c’ː i	294
-82	89	tooth	Anchiq	sala	s a l a	295
+82	89	tooth	Anchiq	sala	s a l a	296
 83	90	tree	Anchiq	roša	r o š a	297
 84	91	two	Anchiq	k’era	k’ e r a	298
 85	92	warm	Anchiq	ãsːab	ã sː a b	299
-86	93	water	Anchiq	ɬẽj	ɬ ẽ j	300
-87	94	we	Anchiq	išːi	i šː i	301
-88	95	what	Anchiq	e<b>o	e b o	304
+86	93	water	Anchiq	ɬːẽj	ɬː ẽ j	300
+87	94	we	Anchiq	išːi	i šː i	201
+88	95	what	Anchiq	ebo	e b o	229
 89	96	white	Anchiq	hac’ab	h a c’ a b	307
-90	97	who	Anchiq	e<m>o	e m o	312
+90	97	who	Anchiq	emo	e m o	311
 91	98	woman	Anchiq	hak’ːoj	h a k’ː o j	317
-92	99	yellow	Anchiq	opilab	o p i l a b	322
+92	99	yellow	Anchiq	opilab	o p i l a b	
 93	100	you	Anchiq	me	m e	328
 94	101	far	Anchiq	č’ːiro	č’ː i r o	329
-95	102	heavy	Anchiq	hak’ibab	h a k’ i b a b	334
+95	102	heavy	Anchiq	hak’ibab	h a k’ i b a b	335
 96	103	near	Anchiq	saru	s a r u	340
 97	104	salt	Anchiq	c’ːẽj	c’ː ẽ j	342
 98	105	short	Anchiq	bačak’ob	b a č a k’ o b	343
 99	106	snake	Anchiq	berka	b e r k a	346
 100	107	thin	Anchiq	belʔarab	b e l ʔ a r a b	347
 101	108	wind	Anchiq	muču	m u č u	349
-102	109	worm	Anchiq	žuržul	ž u r ž u l	353
+102	109	worm	Anchiq	žuržul	ž u r ž u l	350
 103	110	year	Anchiq	niši	n i š i	357
 104	2	ashes	Andi-D	ʟ’e	ʟ’ e	5
-105	3	bark	Andi-D	qal	q a l	7
+105	3	bark	Andi-D	qal	q a l	
 106	4	belly	Andi-D	ʁʷaʁʷači	ʁʷ a ʁʷ a č i	12
 107	5	big	Andi-D	beč’uχʷa	b e č’ u χʷ a	15
 108	6	bird	Andi-D	šːekib	šː e k i b	19
 109	7	bite (V)	Andi-D	q’ammi	q’ a m m i	23
-110	8	black	Andi-D	beč’edir	b e č’ e d i r	28
+110	8	black	Andi-D	beč’edir	b e č’ e d i r	33
 111	9	blood	Andi-D	hin	h i n	32
 112	10	bone	Andi-D	roʟ’i	r o ʟ’ i	34
-113	11	breast	Andi-D	labur	l a b u r	37
+113	11	breast	Andi-D	labur	l a b u r	428
 114	12	burn (V, TR)	Andi-D	c’atidu	c’ a t i d u	43
 115	13	cloud	Andi-D	lerčol	l e r č o l	51
 116	14	cold	Andi-D	sodo	s o d o	53
 117	16	die (V)	Andi-D	wuč’idu	w u č’ i d u	60
 118	17	dog	Andi-D	χʷoj	χʷ o j	358
-119	18	drink (V)	Andi-D	c’ːadu	c’ː a d u	62
-120	19	dry	Andi-D	beq’ub	b e q’ u b	68
-121	20	ear	Andi-D	hant’ik’a	h a n t’ i k’ a	69
+119	18	drink (V)	Andi-D	c’ːadu	c’ː a d u	52
+120	19	dry	Andi-D	beq’ub	b e q’ u b	2
+121	20	ear	Andi-D	hant’ik’a	h a n t’ i k’ a	366
 122	21	earth	Andi-D	onšːi	o n šː i	73
-123	22	eat (V)	Andi-D	ikʷon	i kʷ o n	
-124	23	egg	Andi-D	k’ork’on	k’ o r k’ o n	81
+123	22	eat (V)	Andi-D	ikʷon	i kʷ o n	441
+124	23	egg	Andi-D	k’ork’on	k’ o r k’ o n	80
 125	24	eye	Andi-D	hark’u	h a r k’ u	86
 126	25	fat	Andi-D	sosi	s o s i	93
 127	26	feather	Andi-D	ɬiru	ɬ i r u	100
 128	27	fire	Andi-D	c’a	c’ a	102
 129	28	fish	Andi-D	χʷami	χʷ a m i	105
 130	29	fly (V)	Andi-D	burdi	b u r d i	109
-131	30	foot	Andi-D	čuk’a	č u k’ a	115
-132	31	full	Andi-D	wuc’ib	w u c’ i b	
-133	32	give (V)	Andi-D	iči	i č i	131
-134	33	go (V)	Andi-D	jilon	j i l o n	
+131	30	foot	Andi-D	čuk’a	č u k’ a	9
+132	31	full	Andi-D	wuc’ib	w u c’ i b	128
+133	32	give (V)	Andi-D	ičːi	i čː i	4
+134	33	go (V)	Andi-D	jilon	j i l o n	67
 135	35	green	Andi-D	χʷːoči	χʷː o č i	138
 136	36	hair	Andi-D	ɬin	ɬ i n	143
 137	37	hand	Andi-D	ʁažu	ʁ a ž u	145
 138	38	head	Andi-D	mijar	m i j a r	147
 139	39	hear (V)	Andi-D	anɬidu	a n ɬ i d u	150
 140	40	heart	Andi-D	rok’ʷo	r o k’ʷ o	152
-141	41	horn	Andi-D	ɡʷon	ɢʷ o n	157
+141	41	horn	Andi-D	ɢʷon	ɢʷ o n	157
 142	42	I	Andi-D	din	d i n	158
-143	43	kill (V)	Andi-D	džːabu	ǯː a b u	161
-144	44	knee	Andi-D	nikʷolluʟi q’innil	n i kʷ o l l u ʟ i  q’ i n n i l	164
+143	43	kill (V)	Andi-D	ӡ̌ːabu	ӡ̌ː a b u	161
+144	44	knee	Andi-D	nikʷolluʟi q’innil	n i kʷ o l l u ʟ i  q’ i n n i l	162
 145	45	know (V)	Andi-D	c’inni	c’ i n n i	166
-146	46	leaf	Andi-D	ɬaχib	ɬ a χ i b	172
+146	46	leaf	Andi-D	ɬaχib	ɬ a χ i b	168
 147	47	lie (V)	Andi-D	girdi	g i r d i	174
 148	48	liver	Andi-D	reliʟi	r e l i ʟ i	180
-149	49	long	Andi-D	woχːula	w o χː u l a	184
-150	50	louse	Andi-D	noc’ːi	n o cʼː i	185
+149	49	long	Andi-D	woχːula	w o χː u l a	183
+150	50	louse	Andi-D	noc’ːi	n o c’ː i	185
 151	51	man	Andi-D	hek’ʷa	h e k’ʷ a	187
-152	53	many	Andi-D	wuholɡu	w u h o l ɡ u	326
+152	53	many	Andi-D	wuholgu	w u h o l g u	423
 153	54	meat	Andi-D	riʟ’i	r i ʟ’ i	192
 154	55	moon	Andi-D	borc’ːi	b o r c’ː i	71
 155	57	mouth	Andi-D	k’ol	k’ o l	198
 156	58	nail	Andi-D	muɬa	m u ɬ a	205
 157	59	name	Andi-D	c’ːer	c’ː e r	209
-158	60	neck	Andi-D	ɡaru	ɡ a r u	210
+158	60	neck	Andi-D	garu	g a r u	210
 159	61	new	Andi-D	c’iw	c’ i w	213
 160	62	night	Andi-D	reɬo	r e ɬ o	214
 161	63	nose	Andi-D	mahar	m a h a r	215
 162	65	one	Andi-D	sew	s e w	220
 163	66	rain	Andi-D	c’ːa	c’ː a	222
-164	67	red	Andi-D	hiri	h i r i	226
+164	67	red	Andi-D	hiri	h i r i	223
 165	68	road	Andi-D	miq’i	m i q’ i	227
-166	69	root	Andi-D	hiʟ’im	h i ʟ’ i m	229
-167	70	round	Andi-D	ɡurɡuma	ɡ u r ɡ u m a	231
+166	69	root	Andi-D	hiʟ’im	h i ʟ’ i m	228
+167	70	round	Andi-D	gurguma	g u r g u m a	231
 168	71	sand	Andi-D	sur	s u r	237
-169	72	say (V)	Andi-D	hit’onnu	h i t’ o n n u	240
-170	73	see (V)	Andi-D	haɢidu	h a ɢ i d u	247
-171	74	seed	Andi-D	šen	š e n	251
-172	75	sit (V)	Andi-D	hoɢu wuk’udu	h o ɢ u  w u k’ u d u	255
-173	77	sleep (V)	Andi-D	ʟ’iχinnu	ʟ’ i χ i n n u	264
+169	72	say (V)	Andi-D	hit’onnu	h i t’ o n n u	226
+170	73	see (V)	Andi-D	haɢidu	h a ɢ i d u	244
+171	74	seed	Andi-D	šen	š e n	250
+172	75	sit (V)	Andi-D	hoɢu wuk’udu	h o ɢ u  w u k’ u d u	230
+173	77	sleep (V)	Andi-D	ʟ’iχinnu	ʟ’ i χ i n n u	251
 174	78	small	Andi-D	mič’i	m i č’ i	267
-175	79	smoke	Andi-D	k’ʷːoj	k’ʷː o j	272
+175	79	smoke	Andi-D	k’ːʷoj	k’ːʷ o j	272
 176	80	stand (V)	Andi-D	wuʁidu	w u ʁ i d u	273
-177	81	star	Andi-D	c’ːa	c’ː a	279
+177	81	star	Andi-D	c’ːa	c’ː a	278
 178	82	stone	Andi-D	hinc’o	h i n c’ o	425
 179	83	sun	Andi-D	miɬi	m i ɬ i	282
-180	85	tail	Andi-D	miʁerč’u	m i ʁ e r č’ u	293
+180	85	tail	Andi-D	miʁerč’u	m i ʁ e r č’ u	292
 181	88	tongue	Andi-D	mic’ːi	m i c’ː i	294
-182	89	tooth	Andi-D	sol	s o l	295
+182	89	tooth	Andi-D	sol	s o l	296
 183	90	tree	Andi-D	reša	r e š a	297
-184	91	two	Andi-D	č’eɡu	č’ e g u	298
+184	91	two	Andi-D	č’egu	č’ e g u	298
 185	92	warm	Andi-D	onsːa	o n sː a	299
 186	93	water	Andi-D	ɬːen	ɬː e n	300
-187	94	we	Andi-D	išːil	i šː i l	301
-188	95	what	Andi-D	ebiʁil	e b i ʁ i l	304
+187	94	we	Andi-D	išːil	i šː i l	201
+188	95	what	Andi-D	ebiʁil	e b i ʁ i l	229
 189	96	white	Andi-D	hac’a	h a c’ a	307
-190	97	who	Andi-D	emiʁil	e m i ʁ i l	313
+190	97	who	Andi-D	emiʁil	e m i ʁ i l	311
 191	98	woman	Andi-D	jošk’ʷa	j o š k’ʷ a	319
 192	99	yellow	Andi-D	cakːu	c a kː u	321
 193	100	you	Andi-D	min	m i n	328
 194	101	far	Andi-D	lelo	l e l o	330
 195	102	heavy	Andi-D	hok’oru	h o k’ o r u	335
-196	103	near	Andi-D	ʟeru	ʟ e r u	337
+196	103	near	Andi-D	ʟeru	ʟ e r u	427
 197	104	salt	Andi-D	c’ːon	c’ː o n	342
-198	105	short	Andi-D	bočo	b o č o	345
+198	105	short	Andi-D	bočo	b o č o	343
 199	106	snake	Andi-D	berča	b e r č a	346
 200	107	thin	Andi-D	wolora	w o l o r a	347
 201	108	wind	Andi-D	moči	m o č i	349
 202	109	worm	Andi-D	berča	b e r č a	351
 203	110	year	Andi-D	rešin	r e š i n	357
 204	2	ashes	Archo	ʟ’aj	ʟ’ a j	5
-205	3	bark	Archo	qalu	q a l u	7
+205	3	bark	Archo	qalu	q a l u	55
 206	4	belly	Archo	bak’ʷal	b a k’ʷ a l	11
-207	5	big	Archo	ħek’am	ħ e k’ a m	17
+207	5	big	Archo	ħek’am	ħ e k’ a m	64
 208	6	bird	Archo	šːakibo	šː a k i b o	19
 209	7	bite (V)	Archo	q’ʷare	q’ʷ a r e	22
-210	8	black	Archo	beč’et’irob	b e č’ e t’ i r o b	29
+210	8	black	Archo	beč’et’irob	b e č’ e t’ i r o b	33
 211	9	blood	Archo	heri	h e r i	31
 212	10	bone	Archo	raʟ’e	r a ʟ’ e	34
 213	11	breast	Archo	niχe	n i χ e	16
-214	12	burn (V, TR)	Archo	c’ahe	c’ a h e	42
+214	12	burn (V, TR)	Archo	c’ahe	c’ a h e	43
 215	13	cloud	Archo	halʔũ	h a l ʔ ũ	47
-216	14	cold	Archo	zaraχub	z a r a χ u b	54
+216	14	cold	Archo	zaraχub	z a r a χ u b	42
 217	16	die (V)	Archo	wuč’a	w u č’ a	60
 218	17	dog	Archo	χʷaj	χʷ a j	358
-219	18	drink (V)	Archo	c’ːare	c’ː a r e	63
-220	19	dry	Archo	beq’uq’ub	b e q’ u q’ u b	68
-221	20	ear	Archo	hant’ik’a	h a n t’ i k’ a	69
+219	18	drink (V)	Archo	c’ːare	c’ː a r e	52
+220	19	dry	Archo	beq’uq’ub	b e q’ u q’ u b	2
+221	20	ear	Archo	hant’ik’a	h a n t’ i k’ a	366
 222	21	earth	Archo	ũšːi	ũ šː i	73
 223	22	eat (V)	Archo	q’ame	q’ a m e	74
-224	23	egg	Archo	k’ark’an	k’ a r k’ a n	81
+224	23	egg	Archo	k’ark’an	k’ a r k’ a n	80
 225	24	eye	Archo	hark’a	h a r k’ a	86
-226	25	fat	Archo	xʷajmo	xʷ a j m o	92
-227	26	feather	Archo	ħuli	ħ u l i	99
+226	25	fat	Archo	xʷajmo	xʷ a j m o	96
+227	26	feather	Archo	ħuli	ħ u l i	
 228	27	fire	Archo	c’aj	c’ a j	102
-229	28	fish	Archo	čuʕa	č u ʕ a	108
+229	28	fish	Archo	čuʕa	č u ʕ a	
 230	29	fly (V)	Archo	erta	e r t a	110
-231	30	foot	Archo	šunk’a	š u n k’ a	119
-232	31	full	Archo	bec’ob	b e c’ o b	124
-233	32	give (V)	Archo	ekːe	e kː e	129
+231	30	foot	Archo	šːunk’a	šː u n k’ a	115
+232	31	full	Archo	bec’ob	b e c’ o b	128
+233	32	give (V)	Archo	ekːe	e kː e	4
 234	33	go (V)	Archo	woʔã	w o ʔ ã	20
-235	34	good	Archo	xohow	x o h o w	132
+235	34	good	Archo	xohow	x o h o w	135
 236	35	green	Archo	ʕačob	ʕ a č o b	137
 237	36	hair	Archo	buhura	b u h u r a	141
 238	37	hand	Archo	relʔa	r e l ʔ a	144
@@ -242,19 +242,19 @@ ID	CONCEPT_ID	CONCEPT	IDIOM	TRANSCRIPTION	SEGMENTS	COG_ID
 241	40	heart	Archo	rak’ʷa	r a k’ʷ a	152
 242	41	horn	Archo	bulʔa	b u l ʔ a	154
 243	42	I	Archo	den	d e n	158
-244	43	kill (V)	Archo	k’obe	k’ o b e	160
+244	43	kill (V)	Archo	k’ːobe	k’ː o b e	129
 245	44	knee	Archo	nuku	n u k u	162
-246	45	know (V)	Archo	biʔida	b i ʔ i d a	167
-247	46	leaf	Archo	ale	a l e	171
+246	45	know (V)	Archo	biʔida	b i ʔ i d a	169
+247	46	leaf	Archo	ale	a l e	173
 248	47	lie (V)	Archo	gire	g i r e	174
 249	48	liver	Archo	relʔajʟ	r e l ʔ a j ʟ	180
-250	49	long	Archo	beχːelab	b e χː e l a b	184
-251	50	louse	Archo	nacʼːe	n a c’ː e	185
+250	49	long	Archo	beχːelab	b e χː e l a b	183
+251	50	louse	Archo	nac’ːe	n a c’ː e	185
 252	51	man	Archo	kunt’o	k u n t’ o	188
 253	53	many	Archo	ʟ’uni	ʟ’ u n i	191
 254	54	meat	Archo	riʟ’i	r i ʟ’ i	192
 255	55	moon	Archo	boc’ːo	b o c’ː o	71
-256	57	mouth	Archo	helʔi	h e l ʔ i	201
+256	57	mouth	Archo	helʔi	h e l ʔ i	203
 257	58	nail	Archo	muɬu	m u ɬ u	205
 258	59	name	Archo	c’ːeri	c’ː e r i	209
 259	60	neck	Archo	garu	g a r u	210
@@ -264,41 +264,41 @@ ID	CONCEPT_ID	CONCEPT	IDIOM	TRANSCRIPTION	SEGMENTS	COG_ID
 263	64	not	Archo	č’e	č’ e	218
 264	65	one	Archo	ceb	c e b	220
 265	66	rain	Archo	c’ːaj	c’ː a j	222
-266	67	red	Archo	herob	h e r o b	226
+266	67	red	Archo	herob	h e r o b	223
 267	68	road	Archo	miq’e	m i q’ e	227
-268	69	root	Archo	reʟ’abo	r e ʟ’ a b o	230
+268	69	root	Archo	reʟ’abo	r e ʟ’ a b o	228
 269	70	round	Archo	gergamob	g e r g a m o b	231
 270	71	sand	Archo	sora	s o r a	237
 271	72	say (V)	Archo	heʟ’om	h e ʟ’ o m	240
 272	73	see (V)	Archo	hãʔa	h ã ʔ a	244
 273	74	seed	Archo	gaga	g a g a	249
 274	75	sit (V)	Archo	k’usi	k’ u s i	254
-275	77	sleep (V)	Archo	ʟ’ihã ida	ʟ’ i h ã  i d a	264
+275	77	sleep (V)	Archo	ʟ’ihã ida	ʟ’ i h ã  i d a	251
 276	78	small	Archo	mik’ob	m i k’ o b	267
 277	79	smoke	Archo	cːure	cː u r e	271
 278	80	stand (V)	Archo	eχːati	e χː a t i	275
-279	81	star	Archo	c’ʷaj	c’ʷ a j	279
+279	81	star	Archo	c’ːʷaj	c’ːʷ a j	278
 280	82	stone	Archo	qit’a	q i t’ a	281
 281	83	sun	Archo	miɬe	m i ɬ e	282
-282	84	swim (V)	Archo	kʷalda	kʷ a l d a	285
+282	84	swim (V)	Archo	kʷalda	kʷ a l d a	104
 283	85	tail	Archo	miʁa	m i ʁ a	292
 284	88	tongue	Archo	mac’ːe	m a c’ː e	294
-285	89	tooth	Archo	sale	s a l e	295
+285	89	tooth	Archo	sale	s a l e	296
 286	90	tree	Archo	roša	r o š a	297
 287	91	two	Archo	k’eda	k’ e d a	298
 288	92	warm	Archo	ansːab	a n sː a b	299
-289	93	water	Archo	ɬãj	ɬ ã j	300
-290	94	we	Archo	išːi	i šː i	301
+289	93	water	Archo	ɬːãj	ɬː ã j	300
+290	94	we	Archo	išːi	i šː i	201
 291	95	what	Archo	hedda	h e d d a	305
 292	96	white	Archo	hac’ab	h a c’ a b	307
 293	97	who	Archo	hemeda	h e m e d a	311
 294	98	woman	Archo	jaše	j a š e	319
-295	99	yellow	Archo	obilab	o b i l a b	322
-296	100	you	Archo	men dua	m e n	328
+295	99	yellow	Archo	obilab	o b i l a b	
+296	100	you	Archo	men	m e n	328
 297	101	far	Archo	č’ːida	č’ː i d a	329
-298	102	heavy	Archo	hark’ibob	h a r k’ i b o b	334
+298	102	heavy	Archo	hark’ibob	h a r k’ i b o b	335
 299	103	near	Archo	sarugʷal	s a r u gʷ a l	340
-300	104	salt	Archo	c’ãj	c’ ã j	342
+300	104	salt	Archo	c’ːãj	c’ː ã j	342
 301	105	short	Archo	mik’ob	m i k’ o b	344
 302	106	snake	Archo	berka	b e r k a	346
 303	107	thin	Archo	belʔarab	b e l ʔ a r a b	347
@@ -310,53 +310,53 @@ ID	CONCEPT_ID	CONCEPT	IDIOM	TRANSCRIPTION	SEGMENTS	COG_ID
 309	5	big	Botlikh	beč’uχa	b e č’ u χ a	15
 310	6	bird	Botlikh	šːikib	šː i k i b	19
 311	7	bite (V)	Botlikh	q’amdi	q’ a m d i	23
-312	8	black	Botlikh	beč’er	b e č’ e r	30
+312	8	black	Botlikh	beč’er	b e č’ e r	33
 313	9	blood	Botlikh	hiri	h i r i	31
 314	10	bone	Botlikh	raʟ’il	r a ʟ’ i l	34
 315	11	breast	Botlikh	niχil	n i χ i l	16
 316	12	burn (V, TR)	Botlikh	c’ati	c’ a t i	43
 317	13	cloud	Botlikh	hira	h i r a	48
-318	14	cold	Botlikh	saʔi	s a ʔ i	55
+318	14	cold	Botlikh	saʔi	s a ʔ i	53
 319	16	die (V)	Botlikh	wiʔi	w i ʔ i	61
 320	17	dog	Botlikh	χʷaj	χʷ a j	358
-321	18	drink (V)	Botlikh	χudi	χ u d i	65
-322	19	dry	Botlikh	beq’u	b e q’ u	68
-323	20	ear	Botlikh	hant’uk’a	h a n t’ u k’ a	69
+321	18	drink (V)	Botlikh	χːudi	χː u d i	65
+322	19	dry	Botlikh	beq’u	b e q’ u	2
+323	20	ear	Botlikh	hant’uk’a	h a n t’ u k’ a	366
 324	21	earth	Botlikh	unšːi	u n šː i	73
-325	22	eat (V)	Botlikh	ʁamdi	ʁ a m d i	77
-326	23	egg	Botlikh	k’ark’anu	k’ a r k’ a n u	81
-327	24	eye	Botlikh	haj	h a j	89
-328	25	fat	Botlikh	šamu	š a m u	97
+325	22	eat (V)	Botlikh	ʁamdi	ʁ a m d i	75
+326	23	egg	Botlikh	k’ark’anu	k’ a r k’ a n u	80
+327	24	eye	Botlikh	haj	h a j	86
+328	25	fat	Botlikh	šamu	š a m u	96
 329	27	fire	Botlikh	c’aj	c’ a j	102
-330	28	fish	Botlikh	qʷaj	qʷ a j	106
+330	28	fish	Botlikh	qʷaj	qʷ a j	105
 331	29	fly (V)	Botlikh	burdi	b u r d i	109
 332	30	foot	Botlikh	c’ek’a	c’ e k’ a	116
-333	31	full	Botlikh	hibc’ab	h i b c’ a b	125
-334	32	give (V)	Botlikh	kːi	kː i	129
-335	33	go (V)	Botlikh	waʔi	w a ʔ i	20
+333	31	full	Botlikh	hibc’ab	h i b c’ a b	128
+334	32	give (V)	Botlikh	kːi	kː i	4
+335	33	go (V)	Botlikh	waʔi	w a ʔ i	67
 336	34	good	Botlikh	gʷanzi	gʷ a n z i	133
 337	35	green	Botlikh	aču	a č u	137
 338	36	hair	Botlikh	base	b a s e	140
 339	37	hand	Botlikh	reʔa	r e ʔ a	144
-340	38	head	Botlikh	ʁʷani	ʁʷ a n i	195
+340	38	head	Botlikh	ʁʷani	ʁʷ a n i	149
 341	39	hear (V)	Botlikh	ahĩ	a h ĩ	150
 342	40	heart	Botlikh	rak’ʷa	r a k’ʷ a	152
 343	41	horn	Botlikh	k’amu	k’ a m u	155
 344	42	I	Botlikh	den	d e n	158
 345	43	kill (V)	Botlikh	kːʷandi	kːʷ a n d i	159
 346	44	knee	Botlikh	nuku	n u k u	162
-347	45	know (V)	Botlikh	beʁi	b e ʁ i	170
-348	46	leaf	Botlikh	ʕali	ʕ a l i	171
-349	47	lie (V)	Botlikh	baraχi	b a r a χ i	175
-350	49	long	Botlikh	beχːila	b e χː i l a	184
-351	50	louse	Botlikh	nac’e	n a c’ e	185
-352	51	man	Botlikh	kunt’ek’ʷa	k u n t’ e k’ʷ a	189
+347	45	know (V)	Botlikh	beʁi	b e ʁ i	169
+348	46	leaf	Botlikh	ʕali	ʕ a l i	173
+349	47	lie (V)	Botlikh	baraχːi	b a r a χː i	175
+350	49	long	Botlikh	beχːila	b e χː i l a	183
+351	50	louse	Botlikh	nac’ːe	n a c’ː e	185
+352	51	man	Botlikh	kunt’ek’ʷa	k u n t’ e k’ʷ a	188
 353	53	many	Botlikh	ʟ’uni	ʟ’ u n i	191
 354	54	meat	Botlikh	riʟ’i	r i ʟ’ i	192
-355	55	moon	Botlikh	purc’u	p u r c’ u	71
-356	57	mouth	Botlikh	ʁeli	ʁ e l i	202
-357	58	nail	Botlikh	humu	h u m u	207
-358	59	name	Botlikh	c’eri	c’ e r i	209
+355	55	moon	Botlikh	purc’ːu	p u r c’ː u	71
+356	57	mouth	Botlikh	ʁeli	ʁ e l i	203
+357	58	nail	Botlikh	humu	h u m u	205
+358	59	name	Botlikh	c’ːeri	c’ː e r i	209
 359	60	neck	Botlikh	garu	g a r u	210
 360	61	new	Botlikh	c’iw	c’ i w	213
 361	63	nose	Botlikh	miʔar	m i ʔ a r	215
@@ -365,37 +365,37 @@ ID	CONCEPT_ID	CONCEPT	IDIOM	TRANSCRIPTION	SEGMENTS	COG_ID
 364	66	rain	Botlikh	c’ːaj	c’ː a j	222
 365	67	red	Botlikh	irχːa	i r χː a	224
 366	68	road	Botlikh	miq’i	m i q’ i	227
-367	69	root	Botlikh	riʟ’ib	r i ʟ’ i b	230
-368	70	round	Botlikh	gurginab	g u r g i n a b	231
+367	69	root	Botlikh	riʟ’ib	r i ʟ’ i b	228
+368	70	round	Botlikh	gurginab	g u r g i n a b	
 369	71	sand	Botlikh	unšːi	u n šː i	238
 370	72	say (V)	Botlikh	hiʟ’i	h i ʟ’ i	240
-371	73	see (V)	Botlikh	haʁi	h a ʁ i	247
+371	73	see (V)	Botlikh	haʁi	h a ʁ i	244
 372	74	seed	Botlikh	xuni	x u n i	250
-373	75	sit (V)	Botlikh	hač’aχa wuk’i	h a č’ a χ a  w u k’ i	256
+373	75	sit (V)	Botlikh	hač’ːaχa wuk’i	h a č’ː a χ a  w u k’ i	256
 374	77	sleep (V)	Botlikh	ʁundu wahi	ʁ u n d u  w a h i	265
 375	78	small	Botlikh	zuk’ːu	z u k’ː u	269
 376	79	smoke	Botlikh	cːuri	cː u r i	271
-377	80	stand (V)	Botlikh	hirč’o wiʁi	h i r č’ o  w i ʁ i	274
-378	81	star	Botlikh	c’ʷa	c’ʷ a	279
+377	80	stand (V)	Botlikh	hirč’ːo wiʁi	h i r č’ː o  w i ʁ i	274
+378	81	star	Botlikh	c’ːʷa	c’ːʷ a	278
 379	82	stone	Botlikh	anča	a n č a	280
 380	83	sun	Botlikh	mihi	m i h i	282
 381	84	swim (V)	Botlikh	kʷajč’i t’ami	kʷ a j č’ i  t’ a m i	288
 382	85	tail	Botlikh	miʁa	m i ʁ a	292
 383	88	tongue	Botlikh	mic’ːi	m i c’ː i	294
-384	89	tooth	Botlikh	salu	s a l u	295
+384	89	tooth	Botlikh	salu	s a l u	296
 385	90	tree	Botlikh	ruša	r u š a	297
 386	91	two	Botlikh	k’eda	k’ e d a	298
-387	92	warm	Botlikh	ansa	a n s a	299
-388	93	water	Botlikh	ɬeni	ɬ e n i	300
-389	94	we	Botlikh	išːi	i šː i	301
-390	95	what	Botlikh	ebʲa	e bʲ a	304
-391	96	white	Botlikh	hac’aχa	h a c’ a χ a	307
+387	92	warm	Botlikh	ansːa	a n sː a	299
+388	93	water	Botlikh	ɬːeni	ɬː e n i	300
+389	94	we	Botlikh	išːi	i šː i	201
+390	95	what	Botlikh	ebʲa	e bʲ a	229
+391	96	white	Botlikh	hac’aχːa	h a c’ a χː a	307
 392	97	who	Botlikh	enɬila	e n ɬ i l a	309
 393	98	woman	Botlikh	ješik’ʷa	j e š i k’ʷ a	319
 394	99	yellow	Botlikh	čːakːu	čː a kː u	321
 395	100	you	Botlikh	min	m i n	328
 396	101	far	Botlikh	č’ːidure	č’ː i d u r e	329
-397	102	heavy	Botlikh	hak’uba	h a k’ u b a	334
+397	102	heavy	Botlikh	hak’uba	h a k’ u b a	335
 398	103	near	Botlikh	beʟ’aru	b e ʟ’ a r u	336
 399	104	salt	Botlikh	c’ːaj	c’ː a j	342
 400	105	short	Botlikh	beček’i	b e č e k’ i	343
@@ -403,1711 +403,1733 @@ ID	CONCEPT_ID	CONCEPT	IDIOM	TRANSCRIPTION	SEGMENTS	COG_ID
 402	107	thin	Botlikh	beʔera	b e ʔ e r a	347
 403	108	wind	Botlikh	muču	m u č u	349
 404	110	year	Botlikh	reši	r e š i	357
-405	2	ashes	Botlikh-D	ʟ’eː	ʟ’ eː	5
-406	3	bark	Botlikh-D	maq’ar	m a q’ a r	9
-407	4	belly	Botlikh-D	reka	r e k a	10
-408	5	big	Botlikh-D	beč’uχa	b e č’ u χ a	15
-409	6	bird	Botlikh-D	šːikib	šː i k i b	19
-410	7	bite (V)	Botlikh-D	q’amdi	q’ a m d i	23
-411	8	black	Botlikh-D	beč’er	b e č’ e r	30
-412	9	blood	Botlikh-D	hiri	h i r i	31
-413	10	bone	Botlikh-D	raʟ’il	r a ʟ’ i l	34
-414	11	breast	Botlikh-D	niχi	n i χ i	16
-415	12	burn (V, TR)	Botlikh-D	c’ati	c’ a t i	43
-416	13	cloud	Botlikh-D	hira	h i r a	48
-417	14	cold	Botlikh-D	saʔi	s a ʔ i	55
-418	16	die (V)	Botlikh-D	biʔi	b i ʔ i	61
-419	17	dog	Botlikh-D	χʷaj	χʷ a j	358
-420	18	drink (V)	Botlikh-D	χːudi	χː u d i	65
-421	19	dry	Botlikh-D	beq’ʷab	b e q’ʷ a b	68
-422	20	ear	Botlikh-D	hant’uk’a	h a n t’ u k’ a	69
-423	21	earth	Botlikh-D	unšːi	u n šː i	73
-424	22	eat (V)	Botlikh-D	ʁamdi	ʁ a m d i	77
-425	23	egg	Botlikh-D	k’ark’anu	k’ a r k’ a n u	81
-426	24	eye	Botlikh-D	haj	h a j	89
-427	25	fat	Botlikh-D	binaɬi	b i n a ɬ i	90
-428	27	fire	Botlikh-D	c’aj	c’ a j	102
-429	28	fish	Botlikh-D	qʷanj	qʷ a n j	106
-430	29	fly (V)	Botlikh-D	burdu	b u r d u	109
-431	30	foot	Botlikh-D	c’ek’a	c’ e k’ a	116
-432	31	full	Botlikh-D	hibc’ab	h i b c’ a b	125
-433	32	give (V)	Botlikh-D	ikːi	i kː i	129
-434	33	go (V)	Botlikh-D	mani	m a n i	20
-435	34	good	Botlikh-D	gʷanzi	gʷ a n z i	133
-436	35	green	Botlikh-D	aču	a č u	137
-437	36	hair	Botlikh-D	basa	b a s a	140
-438	37	hand	Botlikh-D	rea	r e a	144
-439	38	head	Botlikh-D	ʁʷani	ʁʷ a n i	195
-440	39	hear (V)	Botlikh-D	anhi	a n h i	150
-441	40	heart	Botlikh-D	rak’ʷa	r a k’ʷ a	152
-442	41	horn	Botlikh-D	k’amu	k’ a m u	155
-443	42	I	Botlikh-D	den	d e n	158
-444	43	kill (V)	Botlikh-D	kːʷandi	kːʷ a n d i	159
-445	44	knee	Botlikh-D	nuku	n u k u	162
-446	45	know (V)	Botlikh-D	beʁi	b e ʁ i	170
-447	46	leaf	Botlikh-D	ʕali	ʕ a l i	171
-448	47	lie (V)	Botlikh-D	beraχːi	b e r a χː i	175
-449	48	liver	Botlikh-D	rehiɬa	r e h i ɬ a	181
-450	49	long	Botlikh-D	beχːila	b e χː i l a	184
-451	50	louse	Botlikh-D	nacʼːi	n a cʼː i	185
-452	51	man	Botlikh-D	kunt’ek’ʷa	k u n t’ e k’ʷ a	189
-453	53	many	Botlikh-D	ʟ’oniχi	ʟ’ o n i χ i	394
-454	54	meat	Botlikh-D	riʟ’i	r i ʟ’ i	192
-455	55	moon	Botlikh-D	purc’ːu	p u r c’ː u	71
-456	57	mouth	Botlikh-D	ʁeli	ʁ e l i	202
-457	58	nail	Botlikh-D	humu	h u m u	207
-458	59	name	Botlikh-D	c’ːeri	c’ː e r i	209
-459	60	neck	Botlikh-D	garu	g a r u	210
-460	61	new	Botlikh-D	c’imu	c’ i m u	213
-461	62	night	Botlikh-D	reha	r e h a	214
-462	63	nose	Botlikh-D	miar	m i  a r	215
-463	65	one	Botlikh-D	ceb	c e b	220
-464	66	rain	Botlikh-D	c’ːaj	c’ː a j	222
-465	67	red	Botlikh-D	irχːa	i r χː a	224
-466	68	road	Botlikh-D	miq’i	m i q’ i	227
-467	69	root	Botlikh-D	riʟ’ib	r i ʟ’ i b	230
-468	70	round	Botlikh-D	gurginab	g u r g i n a b	231
-469	71	sand	Botlikh-D	sira	s i r a	237
-470	72	say (V)	Botlikh-D	hiʟ’i	h i ʟ’ i	240
-471	73	see (V)	Botlikh-D	haʁi	h a ʁ i	247
-472	74	seed	Botlikh-D	xuni	x u n i	250
-473	75	sit (V)	Botlikh-D	hač’ːaχi buk’i	h a č’ː a χ i  b u k’ i	256
-474	77	sleep (V)	Botlikh-D	ʁundu buk’i	ʁ u n d u  b u k’ i	265
-475	78	small	Botlikh-D	zuk’ːu	z u k’ː u	269
-476	79	smoke	Botlikh-D	cːuri	cː u r i	271
-477	80	stand (V)	Botlikh-D	hič’ːubihi	h i čˈː u  b i h i	274
-478	81	star	Botlikh-D	c’ːaj	c’ː a j	279
-479	82	stone	Botlikh-D	anča	a n č a	280
-480	83	sun	Botlikh-D	mihi	m i h i	282
-481	84	swim (V)	Botlikh-D	kʷartaɬi	kʷ a r t a ɬ i	285
-482	85	tail	Botlikh-D	miʁa	m i ʁ a	292
-483	88	tongue	Botlikh-D	mic’ːi	m i c’ː i	294
-484	89	tooth	Botlikh-D	salu	s a l u	295
-485	90	tree	Botlikh-D	ruša	r u š a	297
-486	91	two	Botlikh-D	k’eda	k’ e d a	298
-487	92	warm	Botlikh-D	ansːa	a n sː a	299
-488	93	water	Botlikh-D	ɬːeni	ɬː e n i	300
-489	94	we	Botlikh-D	išːi	i šː i	301
-490	95	what	Botlikh-D	ebla	e b l a	304
-491	96	white	Botlikh-D	hac’aχːa	h a c’ a χː a	307
-492	97	who	Botlikh-D	enɬila	e n ɬ i l a	309
-493	98	woman	Botlikh-D	ješik’ʷa	j e š i k’ʷ a	319
-494	99	yellow	Botlikh-D	čːakːu	čː a kː u	321
-495	100	you	Botlikh-D	min	m i n	328
-496	101	far	Botlikh-D	č’ːidu	č’ː i d u	329
-497	102	heavy	Botlikh-D	hak’uba	h a k’ u b a	334
-498	103	near	Botlikh-D	beʟ’aru	b e ʟ’ a r u	336
-499	104	salt	Botlikh-D	c’ːanj	c’ː a n j	342
-500	105	short	Botlikh-D	beček’i	b e č e k’ i	343
-501	106	snake	Botlikh-D	berka	b e r k a	346
-502	107	thin	Botlikh-D	beʔera	b e ʔ e r a	347
-503	108	wind	Botlikh-D	muču	m u č u	349
-504	109	worm	Botlikh-D	berka	b e r k a	351
-505	110	year	Botlikh-D	reši	r e š i	357
-506	2	ashes	Chadokolob-D	roqo	r o q o	41
-507	3	bark	Chadokolob-D	maq’ar	m a q’ a r	9
-508	4	belly	Chadokolob-D	čex	č e x	66
-509	5	big	Chadokolob-D	k’udab	k’ u d a b	113
-510	6	bird	Chadokolob-D	ħinc’	ħ i n c’	182
-511	7	bite (V)	Chadokolob-D	q’amri	q’ a m r i	23
-512	8	black	Chadokolob-D	č’eʕerab	č’ e ʕ e r a b	359
-513	9	blood	Chadokolob-D	bi	b i	360
-514	10	bone	Chadokolob-D	raʟ’a	r a ʟ’ a	34
-515	11	breast	Chadokolob-D	keren	k e r e n	38
-516	12	burn (V, TR)	Chadokolob-D	q’aʁri	q’ a ʁ r i	361
-517	13	cloud	Chadokolob-D	nak’	n a k’	362
-518	14	cold	Chadokolob-D	c’ororab	c’ o r o r a b	363
-519	16	die (V)	Chadokolob-D	ħʷa	ħʷ a	364
-520	17	dog	Chadokolob-D	hʷe	hʷ e	358
-521	18	drink (V)	Chadokolob-D	q’a	q’ a	365
-522	19	dry	Chadokolob-D	buq’arab	b u q’ a r a b	2
-523	20	ear	Chadokolob-D	ʕin	ʕ i n	367
-524	21	earth	Chadokolob-D	raʟ’	r a ʟ’	368
-525	22	eat (V)	Chadokolob-D	kʷa	kʷ a	
-526	23	egg	Chadokolob-D	ħono	ħ o n o	84
-527	24	eye	Chadokolob-D	ber	b e r	369
-528	25	fat	Chadokolob-D	ʟ’arati	ʟ’ a r a t i	372
-529	26	feather	Chadokolob-D	mitir	m i t i r	373
-530	27	fire	Chadokolob-D	č’a	č’ a	374
-531	28	fish	Chadokolob-D	cuʕa	c u ʕ a	108
-532	29	fly (V)	Chadokolob-D	borža	b o r ž a	3
-533	30	foot	Chadokolob-D	maħu	m a ħ u	375
-534	31	full	Chadokolob-D	č’urab	č’ u r a b	376
-535	32	give (V)	Chadokolob-D	ʟ’uri	ʟ’ u r i	377
-536	33	go (V)	Chadokolob-D	baʟa	b a ʟ a	39
-537	35	green	Chadokolob-D	c’aħilab	c’ a ħ i l a b	378
-538	36	hair	Chadokolob-D	raš	r a š	380
-539	37	hand	Chadokolob-D	ruʟ’	r u ʟ’	144
-540	38	head	Chadokolob-D	bet’er	b e t’ e r	381
-541	39	hear (V)	Chadokolob-D	riʔri	r i ʔ r i	382
-542	40	heart	Chadokolob-D	rak’	r a k’	152
-543	41	horn	Chadokolob-D	ʟar	ʟ a r	151
-544	42	I	Chadokolob-D	dun	d u n	158
-545	43	kill (V)	Chadokolob-D	č’ʷari	č’ʷ a r i	
-546	44	knee	Chadokolob-D	naku	n a k u	162
-547	45	know (V)	Chadokolob-D	tari	t a r i	383
-548	46	leaf	Chadokolob-D	t’amaħ	t’ a m a ħ	386
-549	47	lie (V)	Chadokolob-D	wega	w e g a	387
-550	48	liver	Chadokolob-D	t’ul	t’ u l	388
-551	49	long	Chadokolob-D	χaladab	χ a l a d a b	390
-552	50	louse	Chadokolob-D	nac’	n a c’	185
-553	51	man	Chadokolob-D	či	č i	186
-554	53	many	Chadokolob-D	ʕemer	ʕ e m e r	392
-555	54	meat	Chadokolob-D	han	h a n	393
-556	55	moon	Chadokolob-D	moc’	m o c’	71
-557	57	mouth	Chadokolob-D	k’al	k’ a l	
-558	58	nail	Chadokolob-D	mat	m a t	395
-559	59	name	Chadokolob-D	c’ar	c’ a r	209
-560	60	neck	Chadokolob-D	gubur	g u b u r	397
-561	61	new	Chadokolob-D	č’ijab	č’ i j a b	213
-562	62	night	Chadokolob-D	šoldo	š o l d o	398
-563	63	nose	Chadokolob-D	χumuχ	χ u m u χ	399
-564	65	one	Chadokolob-D	šo	š o	220
-565	66	rain	Chadokolob-D	c’ad	c’ a d	222
-566	67	red	Chadokolob-D	baʕarab	b a ʕ a r a b	400
-567	68	road	Chadokolob-D	nuħ	n u ħ	402
-568	69	root	Chadokolob-D	ʟ’ibil	ʟ’ i b i l	403
-569	70	round	Chadokolob-D	gurginab	g u r g i n a b	231
-570	71	sand	Chadokolob-D	muceru	m u c e r u	404
-571	72	say (V)	Chadokolob-D	biša	b i š a	424
-572	73	see (V)	Chadokolob-D	bexri	b e x r i	405
-573	74	seed	Chadokolob-D	xum	x u m	250
-574	75	sit (V)	Chadokolob-D	waʕunc’ʷa	w a ʕ u n  c’ʷ a	243
-575	77	sleep (V)	Chadokolob-D	ʟ’it’ri	ʟ’ i t’ r i	407
-576	78	small	Chadokolob-D	t’iħinč’ab	t’ i ħ i n č’ a b	408
-577	79	smoke	Chadokolob-D	k’ʷi	k’ʷ i	272
-578	80	stand (V)	Chadokolob-D	t’awoqa	t’ a w o q a	
-579	81	star	Chadokolob-D	c’ʷa	c’ʷ a	279
-580	82	stone	Chadokolob-D	gamač’	g a m a č’	412
-581	83	sun	Chadokolob-D	baq’	b a q’	414
-582	85	tail	Chadokolob-D	maʁ	m a ʁ	292
-583	88	tongue	Chadokolob-D	mac’	m a c’	294
-584	89	tooth	Chadokolob-D	šibi	š i b i	
-585	90	tree	Chadokolob-D	ʁʷet’	ʁʷ e t’	416
-586	91	two	Chadokolob-D	k’igu	k’ i g u	298
-587	92	warm	Chadokolob-D	χenab	χ e n a b	417
-588	93	water	Chadokolob-D	ɬim	ɬ i m	300
-589	94	we	Chadokolob-D	niž	n i ž	
-590	95	what	Chadokolob-D	sib	s i b	418
-591	96	white	Chadokolob-D	qaħab	q a ħ a b	308
-592	97	who	Chadokolob-D	su	s u	426
-593	98	woman	Chadokolob-D	ʕadam	ʕ a d a m	318
-594	99	yellow	Chadokolob-D	mač’ab	m a č’ a b	422
-595	100	you	Chadokolob-D	mun	m u n	328
-596	101	far	Chadokolob-D	rik’ad	r i k’ a d	370
-597	102	heavy	Chadokolob-D	bak’ab	b a k’ a b	
-598	103	near	Chadokolob-D	ašk’u	a š k’ u	396
-599	104	salt	Chadokolob-D	c’am	c’ a m	342
-600	105	short	Chadokolob-D	q’uq’ab	q’ u q’ a b	406
-601	106	snake	Chadokolob-D	burux	b u r u x	410
-602	107	thin	Chadokolob-D	t’erenab	t’ e r e n a b	415
-603	108	wind	Chadokolob-D	huri	h u r i	419
-604	109	worm	Chadokolob-D	ʕarxu burux	ʕ a r x u  b u r u x	421
-605	110	year	Chadokolob-D	šon	š o n	357
-606	2	ashes	Gagatli-D	ʟ’e	ʟ’ e	5
-607	3	bark	Gagatli-D	maq’ar	m a q’ a r	9
-608	4	belly	Gagatli-D	ʁʷaʁʷači	ʁʷ a ʁʷ a č i	12
-609	5	big	Gagatli-D	beč’uχa	b e č’ u χ a	15
-610	6	bird	Gagatli-D	šːekib	šː e k i b	19
-611	7	bite (V)	Gagatli-D	q’ammu	q’ a m m u	23
-612	8	black	Gagatli-D	beč’edir	b e č’ e d i r	28
-613	9	blood	Gagatli-D	hin	h i n	32
-614	10	bone	Gagatli-D	roʟ’i	r o ʟ’ i	34
-615	11	breast	Gagatli-D	labur	l a b u r	37
-616	12	burn (V, TR)	Gagatli-D	c’atidu	c’ a t i d u	43
-617	13	cloud	Gagatli-D	hiro	h i r o	48
-618	14	cold	Gagatli-D	sodo	s o d o	53
-619	16	die (V)	Gagatli-D	bič’idu	b i č’ i d u	60
-620	17	dog	Gagatli-D	χoj	χ o j	358
-621	18	drink (V)	Gagatli-D	c’ːadu	c’ː a d u	62
-622	19	dry	Gagatli-D	beq’ub	b e q’ u b	68
-623	20	ear	Gagatli-D	hant’ik’a	h a n t’ i k’ a	69
-624	21	earth	Gagatli-D	onšːi	o n šː i	73
-625	22	eat (V)	Gagatli-D	bikunnu	b i k u n n u	75
-626	23	egg	Gagatli-D	k’ork’on	k’ o r k’ o n	81
-627	24	eye	Gagatli-D	hark’u	h a r k’ u	86
-628	25	fat	Gagatli-D	beʔenɬir	b e ʔ e n ɬ i r	90
-629	26	feather	Gagatli-D	ɬiru	ɬ i r u	100
-630	27	fire	Gagatli-D	c’a	c’ a	102
-631	28	fish	Gagatli-D	χʷami	χʷ a m i	105
-632	29	fly (V)	Gagatli-D	buru	b u r u	109
-633	30	foot	Gagatli-D	čuk’a	č u k’ a	115
-634	31	full	Gagatli-D	bic’ib	b i c’ i b	124
-635	32	give (V)	Gagatli-D	čːidu	čː i d u	
-636	33	go (V)	Gagatli-D	beʟidu	b e ʟ i d u	39
-637	34	good	Gagatli-D	šub	š u b	134
-638	35	green	Gagatli-D	χːoči	χː o č i	138
-639	36	hair	Gagatli-D	ɬin	ɬ i n	143
-640	37	hand	Gagatli-D	rela	r e l a	144
-641	38	head	Gagatli-D	mijar	m i j a r	147
-642	39	hear (V)	Gagatli-D	anɬidu	a n ɬ i d u	150
-643	40	heart	Gagatli-D	rok’o	r o k’ o	152
-644	41	horn	Gagatli-D	ɢon	ɢ o n	157
-645	42	I	Gagatli-D	den	d e n	158
-646	43	kill (V)	Gagatli-D	č’ːabu	č’ː a b u	160
-647	44	knee	Gagatli-D	nikoluʟi q’inil	n i k o l u ʟ i  q’ i n i l	164
-648	45	know (V)	Gagatli-D	c’innu	c’ i n n u	166
-649	46	leaf	Gagatli-D	ɬaχib	ɬ a χ i b	172
-650	47	lie (V)	Gagatli-D	giru	g i r u	174
-651	48	liver	Gagatli-D	reliʟi	r e l i ʟ i	180
-652	49	long	Gagatli-D	beχːula	b e χː u l a	184
-653	50	louse	Gagatli-D	noc’ːi	n o c’ː i	185
-654	51	man	Gagatli-D	kunt’ak’a	k u n t’ a k’ a	189
-655	53	many	Gagatli-D	bihu	b i h u	423
-656	54	meat	Gagatli-D	riʟ’i	r i ʟ’ i	192
-657	55	moon	Gagatli-D	porc’ːi	p o r c’ː i	71
-658	57	mouth	Gagatli-D	k’ol	k’ o l	198
-659	58	nail	Gagatli-D	muɬa	m u ɬ a	205
-660	59	name	Gagatli-D	c’ːer	c’ː e r	209
-661	60	neck	Gagatli-D	garu	g a r u	210
-662	61	new	Gagatli-D	c’iw	c’ i w	213
-663	62	night	Gagatli-D	reʟo	r e ʟ o	214
-664	63	nose	Gagatli-D	mahar	m a h a r	215
-665	65	one	Gagatli-D	seb	s e b	220
-666	66	rain	Gagatli-D	c’ːa	c’ː a	222
-667	67	red	Gagatli-D	hiri	h i r i	226
-668	68	road	Gagatli-D	miq’i	m i q’ i	227
-669	69	root	Gagatli-D	hiʟ’im	h i ʟ’ i m	229
-670	70	round	Gagatli-D	ɡurɡuma	ɡ u r ɡ u m a	231
-671	71	sand	Gagatli-D	sur	s u r	237
-672	72	say (V)	Gagatli-D	ruʟidu	r u ʟ i d u	239
-673	73	see (V)	Gagatli-D	haɢidu	h a ɢ i d u	247
-674	74	seed	Gagatli-D	šen	š e n	251
-675	75	sit (V)	Gagatli-D	hoɢubik’udu	h o ɢ u  b i k’ u d u	255
-676	77	sleep (V)	Gagatli-D	ʟ’iχinnu	ʟ’ i χ i n n u	264
-677	78	small	Gagatli-D	mit’i	m i t’ i	
-678	79	smoke	Gagatli-D	k’ːoj	k’ː o j	272
-679	80	stand (V)	Gagatli-D	zudibiʁedu	z u d i  b i ʁ e d u	277
-680	81	star	Gagatli-D	c’ːa	c’ː a	279
-681	82	stone	Gagatli-D	hinc’o	h i n c’ o	425
-682	83	sun	Gagatli-D	miɬi	m i ɬ i	282
-683	84	swim (V)	Gagatli-D	kollu	k o l l u	284
-684	85	tail	Gagatli-D	miʁerč’ːu	m i ʁ e r č’ː u	293
-685	88	tongue	Gagatli-D	mic’ːi	m i c’ː i	294
-686	89	tooth	Gagatli-D	sol	s o l	295
-687	90	tree	Gagatli-D	reša	r e š a	297
-688	91	two	Gagatli-D	č’eɡu	č’ e g u	298
-689	92	warm	Gagatli-D	unsːa	u n sː a	299
-690	93	water	Gagatli-D	ɬːen	ɬː e n	300
-691	94	we	Gagatli-D	išːil	i šː i l	301
-692	95	what	Gagatli-D	ib	i b	302
-693	96	white	Gagatli-D	hac’a	h a c’ a	307
-694	97	who	Gagatli-D	imʁi	i m ʁ i	313
-695	98	woman	Gagatli-D	ješk’a	j e š k’ a	319
-696	99	yellow	Gagatli-D	čakːu	č a kː u	321
-697	100	you	Gagatli-D	men	m e n	328
-698	101	far	Gagatli-D	lelo	l e l o	330
-699	102	heavy	Gagatli-D	hok’oru	h o k’ o r u	335
-700	103	near	Gagatli-D	ɬonnor	ɬ o n n o r	
-701	104	salt	Gagatli-D	c’ːon	c’ː o n	342
-702	105	short	Gagatli-D	bočo	b o č o	345
-703	106	snake	Gagatli-D	berka	b e r k a	346
-704	107	thin	Gagatli-D	wolora	w o l o r a	347
-705	108	wind	Gagatli-D	moči	m o č i	349
-706	109	worm	Gagatli-D	ʁabara	ʁ a b a r a	352
-707	110	year	Gagatli-D	rešin	r e š i n	357
-708	2	ashes	Gigatli-D	ʟ’ej	ʟ’ e j	5
-709	3	bark	Gigatli-D	qal	q a l	7
-710	4	belly	Gigatli-D	χunc’a	χ u n c’ a	14
-711	5	big	Gigatli-D	mihab	m i h a b	1
-712	6	bird	Gigatli-D	sečib	s e č i b	19
-713	7	bite (V)	Gigatli-D	q’ami	q’ a m i	23
-714	8	black	Gigatli-D	beč’ar	b e č’ a r	30
-715	9	blood	Gigatli-D	hiri	h i r i	31
-716	10	bone	Gigatli-D	raʟ’il	r a ʟ’ i l	34
-717	11	breast	Gigatli-D	niχi	n i χ i	16
-718	12	burn (V, TR)	Gigatli-D	bikã	b i k ã	45
-719	13	cloud	Gigatli-D	hanna	h a n n a	47
-720	14	cold	Gigatli-D	saj	s a j	55
-721	16	die (V)	Gigatli-D	bič’a	b i č’ a	60
-722	17	dog	Gigatli-D	χoj	χ o j	358
-723	18	drink (V)	Gigatli-D	χːudi	χː u d i	65
-724	19	dry	Gigatli-D	beq’u	b e q’ u	68
-725	20	ear	Gigatli-D	hanč’a	h a n č’ a	366
-726	21	earth	Gigatli-D	unsːi	u n sː i	73
-727	22	eat (V)	Gigatli-D	ami	a m i	76
-728	23	egg	Gigatli-D	k’uč’an	k’ u č’ a n	
-729	24	eye	Gigatli-D	haj	h a j	89
-730	25	fat	Gigatli-D	ɬani	ɬ a n i	95
-731	26	feather	Gigatli-D	čaj	č a j	98
-732	27	fire	Gigatli-D	c’aj	c’ a j	102
-733	28	fish	Gigatli-D	čoʕa	č o ʕ a	108
-734	29	fly (V)	Gigatli-D	wuc’ã	w u c’ ã	110
-735	30	foot	Gigatli-D	reʁil	r e ʁ i l	117
-736	31	full	Gigatli-D	bizːalib	b i zː a l i b	
-737	32	give (V)	Gigatli-D	iči	i č i	131
-738	33	go (V)	Gigatli-D	muna	m u n a	20
-739	35	green	Gigatli-D	besiʟ	b e s i ʟ	139
-740	36	hair	Gigatli-D	čaj	č a j	379
-741	37	hand	Gigatli-D	ʁažu	ʁ a ž u	145
-742	38	head	Gigatli-D	uni	u n i	149
-743	39	hear (V)	Gigatli-D	ruɬi	r u ɬ i	150
-744	40	heart	Gigatli-D	rak’a	r a k’ a	152
-745	41	horn	Gigatli-D	č’amu	č’ a m u	155
-746	42	I	Gigatli-D	dew	d e w	158
-747	43	kill (V)	Gigatli-D	hibi	h i b i	
-748	44	knee	Gigatli-D	nikal	n i k a l	162
-749	45	know (V)	Gigatli-D	beχu	b e χ u	384
-750	46	leaf	Gigatli-D	apal	a p a l	385
-751	47	lie (V)	Gigatli-D	garadi	g a r a d i	174
-752	48	liver	Gigatli-D	relːaʟ	r e lː a ʟ	389
-753	49	long	Gigatli-D	beχːilab	b e χː i l a b	184
-754	50	louse	Gigatli-D	nac’i	n a c’ i	185
-755	51	man	Gigatli-D	adan	a d a n	391
-756	53	many	Gigatli-D	beʁu	b e ʁ u	190
-757	54	meat	Gigatli-D	reʟ’i	r e ʟ’ i	192
-758	55	moon	Gigatli-D	buc’u	b u c’ u	71
-759	57	mouth	Gigatli-D	elmic’i	e l m i c’ i	204
-760	58	nail	Gigatli-D	ɬũj	ɬ ũ j	208
-761	59	name	Gigatli-D	c’eri	c’ e r i	209
-762	60	neck	Gigatli-D	ӡ̌aru	ǯ a r u	210
-763	61	new	Gigatli-D	c’ĩ	c’ ĩ	213
-764	62	night	Gigatli-D	reɬa	r e ɬ a	214
-765	63	nose	Gigatli-D	mara	m a r a	
-766	65	one	Gigatli-D	seb	s e b	220
-767	66	rain	Gigatli-D	c’aj	c’ a j	222
-768	67	red	Gigatli-D	bekuʟ	b e k u ʟ	401
-769	68	road	Gigatli-D	miq’i	m i q’ i	227
-770	69	root	Gigatli-D	hiʟ’im	h i ʟ’ i m	229
-771	70	round	Gigatli-D	gurginab	g u r g i n a b	231
-772	71	sand	Gigatli-D	sira	s i r a	237
-773	72	say (V)	Gigatli-D	hiʟ’i	h i ʟ’ i	240
-774	73	see (V)	Gigatli-D	haʔa	h a ʔ a	244
-775	74	seed	Gigatli-D	huni	h u n i	250
-776	75	sit (V)	Gigatli-D	hac’ar wuk’ula	h a c’ a r  w u k’ u l a	256
-777	77	sleep (V)	Gigatli-D	ʟ’iχã	ʟ’ i χ ã	264
-778	78	small	Gigatli-D	t’annab	t’ a n n a b	270
-779	79	smoke	Gigatli-D	sːusːu	sː u sː u	409
-780	80	stand (V)	Gigatli-D	hinc’i	h i n c’ i	
-781	81	star	Gigatli-D	c’aka	c’ a k a	411
-782	82	stone	Gigatli-D	č’aq’a	č’ a q’ a	413
-783	83	sun	Gigatli-D	miɬi	m i ɬ i	282
-784	85	tail	Gigatli-D	miʁa	m i ʁ a	292
-785	88	tongue	Gigatli-D	mic’i	m i c’ i	294
-786	89	tooth	Gigatli-D	suj	s u j	
-787	90	tree	Gigatli-D	ruša	r u š a	297
-788	91	two	Gigatli-D	č’eda	č’ e d a	298
-789	92	warm	Gigatli-D	ansːab	a n sː a b	299
-790	93	water	Gigatli-D	ɬːĩ	ɬː ĩ	300
-791	94	we	Gigatli-D	isːi	i sː i	301
-792	95	what	Gigatli-D	iχo	i χ o	
-793	96	white	Gigatli-D	hazil	h a z i l	307
-794	97	who	Gigatli-D	ik’o	i k’ o	
-795	98	woman	Gigatli-D	hac’i	h a c’ i	420
-796	99	yellow	Gigatli-D	aču	a č u	320
-797	100	you	Gigatli-D	miw	m i w	328
-798	101	far	Gigatli-D	iʔidu	i ʔ i d u	371
-799	102	heavy	Gigatli-D	hak’ubab	h a k’ u b a b	334
-800	103	near	Gigatli-D	isuqala	i s u q a l a	
-801	104	salt	Gigatli-D	c’ãj	c’ ã j	342
-802	105	short	Gigatli-D	bačak’ab	b a č a k’ a b	343
-803	106	snake	Gigatli-D	beča	b e č a	346
-804	107	thin	Gigatli-D	belːarab	b e lː a r a b	347
-805	108	wind	Gigatli-D	muču	m u č u	349
-806	109	worm	Gigatli-D	sːant’i beča	sː a n t’ i  b e č a	351
-807	110	year	Gigatli-D	reši	r e š i	357
-808	2	ashes	Godoberi-D	ʟ’ej	ʟ’ e j	5
-809	3	bark	Godoberi-D	q’eč’u	q’ e č’ u	8
-810	4	belly	Godoberi-D	rekʲa	r e kʲ a	10
-811	5	big	Godoberi-D	beč’uχa	b e č’ u χ a	15
-812	6	bird	Godoberi-D	šːikim	šː i k i m	19
-813	7	bite (V)	Godoberi-D	q’ami	q’ a m i	23
-814	8	black	Godoberi-D	beč’er	b e č’ e r	30
-815	9	blood	Godoberi-D	hiri	h i r i	31
-816	10	bone	Godoberi-D	raʟin	r a ʟ i n	34
-817	11	breast	Godoberi-D	niχi	n i χ i	16
-818	12	burn (V, TR)	Godoberi-D	c’atali	c’ a t a l i	43
-819	13	cloud	Godoberi-D	hanlu	h a n l u	47
-820	14	cold	Godoberi-D	sati	s a t i	58
-821	16	die (V)	Godoberi-D	wuč’a	w u č’ a	60
-822	17	dog	Godoberi-D	χʷaji	χʷ a j i	358
-823	18	drink (V)	Godoberi-D	χːudi	χː u d i	65
-824	19	dry	Godoberi-D	beq’u	b e q’ u	68
-825	20	ear	Godoberi-D	hant’ukʲ’a	h a n t’ u kʲ’ a	69
-826	21	earth	Godoberi-D	raʟ’i	r a ʟ’ i	
-827	22	eat (V)	Godoberi-D	ami	a m i	76
-828	23	egg	Godoberi-D	ʁarʁanu	ʁ a r ʁ a n u	82
-829	24	eye	Godoberi-D	haj	h a j	89
-830	25	fat	Godoberi-D	čaraɬir	č a r a ɬ i r	91
-831	26	feather	Godoberi-D	ɬeru	ɬ e r u	100
-832	27	fire	Godoberi-D	c’aj	c’ a j	102
-833	28	fish	Godoberi-D	čuʕa	č u ʕ a	108
-834	29	fly (V)	Godoberi-D	burdi	b u r d i	109
-835	30	foot	Godoberi-D	reʁil	r e ʁ i l	117
-836	31	full	Godoberi-D	bec’ibu	b e c’ i b u	124
-837	33	go (V)	Godoberi-D	wuna	w u n a	20
-838	34	good	Godoberi-D	šub	š u b	134
-839	35	green	Godoberi-D	χːaji	χː a j i	
-840	36	hair	Godoberi-D	basa	b a s a	140
-841	37	hand	Godoberi-D	ʁaži	ʁ a ž i	145
-842	38	head	Godoberi-D	wani	w a n i	149
-843	39	hear (V)	Godoberi-D	anɬa	a n ɬ a	150
-844	40	heart	Godoberi-D	rak’ʷa	r a k’ʷ a	152
-845	41	horn	Godoberi-D	kʲ’amil	kʲ’ a m i l	155
-846	42	I	Godoberi-D	den	d e n	158
-847	43	kill (V)	Godoberi-D	kːʷanni	kːʷ a n n i	159
-848	44	knee	Godoberi-D	nuku	n u k u	162
-849	45	know (V)	Godoberi-D	biʔa	b i ʔ a	167
-850	46	leaf	Godoberi-D	χaɬab	χ a ɬ a b	168
-851	47	lie (V)	Godoberi-D	woraχːi	w o r a χː i	176
-852	48	liver	Godoberi-D	leliʟa	l e l i ʟ a	197
-853	49	long	Godoberi-D	beχːila	b e χː i l a	184
-854	50	louse	Godoberi-D	nacːi	n a cː i	185
-855	51	man	Godoberi-D	kunt’a	k u n t’ a	188
-856	53	many	Godoberi-D	beːʁu	b eː ʁ u	190
-857	54	meat	Godoberi-D	riʟ’i	r i ʟ’ i	192
-858	55	moon	Godoberi-D	purcːu	p u r cː u	71
-859	57	mouth	Godoberi-D	elli	e lː i	200
-860	58	nail	Godoberi-D	ɬumul	ɬ u m u l	208
-861	59	name	Godoberi-D	cːeri	cː e r i	209
-862	60	neck	Godoberi-D	ᶃaru	gʲ a r u	210
-863	61	new	Godoberi-D	c’uwũ	c’ u w ũ	213
-864	62	night	Godoberi-D	reɬa	r e ɬ a	214
-865	63	nose	Godoberi-D	mihar	m i h a r	215
-866	65	one	Godoberi-D	ceb	c e b	220
-867	66	rain	Godoberi-D	cːai	cː a i	222
-868	67	red	Godoberi-D	irχːa	i r χː a	224
-869	68	road	Godoberi-D	miq’i	m i q’ i	227
-870	69	root	Godoberi-D	hiʟim	h i ʟˈ i m	229
-871	70	round	Godoberi-D	girgʲamu	g i r gʲ a m u	231
-872	71	sand	Godoberi-D	unšːi	u n šː i	238
-873	72	say (V)	Godoberi-D	hiʟ’i	h i ʟ’ i	240
-874	73	see (V)	Godoberi-D	haʔa	h a ʔ a	244
-875	74	seed	Godoberi-D	šuni	š u n i	251
-876	75	sit (V)	Godoberi-D	ačːaru wuk’a	a čː a r u  w u k’ a	258
-877	77	sleep (V)	Godoberi-D	ʁumi	ʁ u m i	265
-878	78	small	Godoberi-D	mik’isːi	m i k’ i sː i	267
-879	79	smoke	Godoberi-D	sːuri	sː u r i	271
-880	80	stand (V)	Godoberi-D	hičːi	h i čː i	274
-881	81	star	Godoberi-D	cːaj	cː a j	279
-882	82	stone	Godoberi-D	anča	a n č a	280
-883	83	sun	Godoberi-D	miɬi	m i ɬ i	282
-884	84	swim (V)	Godoberi-D	kːʷardi	kːʷ a r d i	285
-885	85	tail	Godoberi-D	miʁa	m i ʁ a	292
-886	88	tongue	Godoberi-D	micːi	m i cː i	294
-887	89	tooth	Godoberi-D	suk’i	s u k’ i	
-888	90	tree	Godoberi-D	ruša	r u š a	297
-889	91	two	Godoberi-D	k’eda	k’ e d a	298
-890	92	warm	Godoberi-D	ansːa	a n sː a	299
-891	93	water	Godoberi-D	ɬːeni	ɬː e n i	300
-892	94	we	Godoberi-D	išːe	i šː e	301
-893	95	what	Godoberi-D	e<b>u	e b u	304
-894	96	white	Godoberi-D	hac’a	h a c’ a	307
-895	97	who	Godoberi-D	e<w>u	e w u	316
-896	98	woman	Godoberi-D	harkːi	h a r kː i	317
-897	99	yellow	Godoberi-D	čːakːu	čː a kː u	321
-898	100	you	Godoberi-D	min	m i n	328
-899	101	far	Godoberi-D	beʟ’ata	b e ʟ’ a t a	333
-900	102	heavy	Godoberi-D	hak’ubab	h a k’ u b a b	334
-901	103	near	Godoberi-D	isːibala	i sː i b a l a	
-902	104	salt	Godoberi-D	cːãĩ	cː ã ĩ	342
-903	105	short	Godoberi-D	bačik’i	b a č i k’ i	343
-904	106	snake	Godoberi-D	berkʲa	b e r kʲ a	346
-905	107	thin	Godoberi-D	bellarab	b e l l a r a b	347
-906	108	wind	Godoberi-D	muču	m u č u	349
-907	109	worm	Godoberi-D	šːikʲara	šː i kʲ a r a	356
-908	110	year	Godoberi-D	reši	r e š i	357
-909	2	ashes	Karata	ʟ’ej	ʟ’ e j	5
-910	3	bark	Karata	maq’ara	m a q’ a r a	9
-911	4	belly	Karata	bak’ʷal	b a k’ʷ a l	11
-912	5	big	Karata	herk’am	h e r k’ a m	17
-913	6	bird	Karata	šːakibo	šː a k i b o	19
-914	7	bite (V)	Karata	q’ʷare	q’ʷ a r e	22
-915	8	black	Karata	beč’et’irob	b e č’ e t’ i r o b	29
-916	9	blood	Karata	heri	h e r i	31
-917	10	bone	Karata	raʟ’e	r a ʟ’ e	34
-918	11	breast	Karata	niχe	n i χ e	16
-919	12	burn (V, TR)	Karata	c’ahe	c’ a h e	42
-920	13	cloud	Karata	hank’u	h a n k’ u	47
-921	14	cold	Karata	zaruʁub	z a r u ʁ u b	54
-922	16	die (V)	Karata	wuč’a	w u č’ a	60
-923	17	dog	Karata	χʷaj	χʷ a j	358
-924	18	drink (V)	Karata	c’ːare	c’ː a r e	63
-925	19	dry	Karata	beq’ub	b e q’ u b	68
-926	20	ear	Karata	hant’ik’a	h a n t’ i k’ a	69
-927	21	earth	Karata	unši	u n š i	73
-928	22	eat (V)	Karata	q’amda	q’ a m d a	74
-929	23	egg	Karata	k’ark’an	k’ a r k’ a n	81
-930	24	eye	Karata	hark’a	h a r k’ a	86
-931	25	fat	Karata	xʷajmo	xʷ a j m o	92
-932	26	feather	Karata	ħule	ħ u l e	99
-933	27	fire	Karata	c’aj	c’ a j	102
-934	28	fish	Karata	čːuʕa	čː u ʕ a	108
-935	29	fly (V)	Karata	ertã	e r t ã	110
-936	30	foot	Karata	c’ek’a	c’ e k’ a	116
-937	31	full	Karata	bec’ob	b e c’ o b	124
-938	32	give (V)	Karata	bekːe	b e kː e	130
-939	33	go (V)	Karata	woʔã	w o ʔ ã	20
-940	34	good	Karata	xohow	x o h o w	132
-941	35	green	Karata	ʕačob	ʕ a č o b	137
-942	36	hair	Karata	buhura	b u h u r a	141
-943	37	hand	Karata	rek’a	r e k’ a	144
-944	38	head	Karata	haduʔa	h a d u ʔ a	146
-945	39	hear (V)	Karata	ãɬe	ã ɬ e	150
-946	40	heart	Karata	rak’ʷa	r a k’ʷ a	152
-947	41	horn	Karata	buk’a	b u k’ a	154
-948	42	I	Karata	den	d e n	158
-949	43	kill (V)	Karata	k’ʷabe	k’ʷ a b e	160
-950	44	knee	Karata	nuku	n u k u	162
-951	45	know (V)	Karata	biʔa	b i ʔ a	167
-952	46	leaf	Karata	k’ala	k’ a l a	171
-953	47	lie (V)	Karata	gire	g i r e	174
-954	49	long	Karata	beχːelab	b e χː e l a b	184
-955	50	louse	Karata	nac’ːe	n a c’ː e	185
-956	51	man	Karata	kunt’ik’a	k u n t’ i k’ a	189
-957	53	many	Karata	ʟ’ʷani	ʟ’ʷ a n i	191
-958	54	meat	Karata	riʟ’i	r i ʟ’ i	192
-959	55	moon	Karata	borc’ːo	b o r c’ː o	71
-960	57	mouth	Karata	eli	e l i	200
-961	58	nail	Karata	muɬu	m u ɬ u	205
-962	59	name	Karata	c’ːeri	c’ː e r i	209
-963	60	neck	Karata	garu	g a r u	210
-964	61	new	Karata	c’ĩom	c’ ĩ o m	213
-965	62	night	Karata	reɬa	r e ɬ a	214
-966	63	nose	Karata	miʕar	m i ʕ a r	215
-967	64	not	Karata	č’e	č’ e	218
-968	65	one	Karata	ceb	c e b	220
-969	66	rain	Karata	c’ːaj	c’ː a j	222
-970	67	red	Karata	herob	h e r o b	226
-971	68	road	Karata	miq’e	m i q’ e	227
-972	69	root	Karata	heʟ’ebo	h e ʟ’ e b o	229
-973	70	round	Karata	gurgimob	g u r g i m o b	231
-974	71	sand	Karata	soro	s o r o	237
-975	72	say (V)	Karata	keʟ’ẽ	k e ʟ’ ẽ	241
-976	73	see (V)	Karata	hãʔa	h ã ʔ a	244
-977	75	sit (V)	Karata	k’use	k’ u s e	254
-978	77	sleep (V)	Karata	ʟ’ihã	ʟ’ i h ã	264
-979	78	small	Karata	mik’ob	m i k’ o b	267
-980	79	smoke	Karata	cːure	cː u r e	271
-981	80	stand (V)	Karata	herčːe	h e r čː e	274
-982	81	star	Karata	c’ʷaj	c’ʷ a j	279
-983	82	stone	Karata	anča	a n č a	280
-984	83	sun	Karata	miɬe	m i ɬ e	282
-985	84	swim (V)	Karata	kʷalč’aɬa	kʷ a l č’ a ɬ a	288
-986	85	tail	Karata	miʁa	m i ʁ a	292
-987	88	tongue	Karata	mac’ːi	m a c’ː i	294
-988	89	tooth	Karata	sale	s a l e	295
-989	90	tree	Karata	roša	r o š a	297
-990	91	two	Karata	k’eda	k’ e d a	298
-991	92	warm	Karata	ansab	a n s a b	299
-992	93	water	Karata	ɬẽj	ɬ ẽ j	300
-993	94	we	Karata	išij	i š i j	301
-994	95	what	Karata	hedol	h e d o l	305
-995	96	white	Karata	hac’ab	h a c’ a b	307
-996	97	who	Karata	hemol	h e m o l	311
-997	98	woman	Karata	ʕadãj	ʕ a d ã j	318
-998	99	yellow	Karata	obiʟ	o b i ʟ	324
-999	100	you	Karata	men	m e n	328
-1000	101	far	Karata	č’idʲa	č’ i dʲ a	329
-1001	102	heavy	Karata	hak’ibob	h a k’ i b o b	334
-1002	103	near	Karata	serk’u	s e r k’ u	338
-1003	104	salt	Karata	c’ːãj	c’ː ã j	342
-1004	105	short	Karata	bačak’ob	b a č a k’ o b	343
-1005	106	snake	Karata	berka	b e r k a	346
-1006	107	thin	Karata	bek’arab	b e k’ a r a b	347
-1007	108	wind	Karata	muču	m u č u	349
-1008	109	worm	Karata	žužuka	ž u ž u k a	350
-1009	110	year	Karata	rešin	r e š i n	357
-1010	2	ashes	Khushtada	ʟeː	ʟ eː	5
-1011	3	bark	Khushtada	qal	q a l	7
-1012	4	belly	Khushtada	qĩta	q ĩ t a	14
-1013	5	big	Khushtada	hĩč’ab	h ĩ č’ a b	17
-1014	6	bird	Khushtada	šːakib	šː a k i b	19
-1015	7	bite (V)	Khushtada	salli	s a l l i	24
-1016	8	black	Khushtada	beč’et’ub	b e č’ e t’ u b	28
-1017	9	blood	Khushtada	her	h e r	31
-1018	10	bone	Khushtada	raʟ’	r a ʟ’	34
-1019	11	breast	Khushtada	nih	n i h	16
-1020	12	burn (V, TR)	Khushtada	c’ahi	c’ a h i	42
-1021	13	cloud	Khushtada	hera	h e r a	48
-1022	14	cold	Khushtada	zadub	z a d u b	57
-1023	16	die (V)	Khushtada	bič’a	b i č’ a	60
-1024	17	dog	Khushtada	hʷaːj	hʷ aː j	358
-1025	18	drink (V)	Khushtada	s’aj	s’ a j	63
-1026	19	dry	Khushtada	beq’ub	b e q’ u b	68
-1027	20	ear	Khushtada	hãč’it’a	h ã č’ i t’ a	70
-1028	21	earth	Khushtada	ũšː	ũ šː	73
-1029	22	eat (V)	Khushtada	q’ani	q’ a n i	
-1030	23	egg	Khushtada	č’ač’an	č’ a č’ a n	80
-1031	24	eye	Khushtada	hač’a	h a č’ a	88
-1032	25	fat	Khushtada	meʕẽlhar	m e ʕ ẽ l h a r	90
-1033	26	feather	Khushtada			
-1034	27	fire	Khushtada	c’aj	c’ a j	102
-1035	28	fish	Khushtada	šːʷaː	šːʷ aː	108
-1036	29	fly (V)	Khushtada	eta	e t a	110
-1037	30	foot	Khushtada	kʷãšːa	kʷ ã šː a	118
-1038	31	full	Khushtada			
-1039	32	give (V)	Khushtada	iči	i č i	131
-1040	33	go (V)	Khushtada	beɬi	b e ɬ i	39
-1041	34	good	Khushtada	hoːb	h oː b	132
-1042	35	green	Khushtada	ʕačub	ʕ a č u b	137
-1043	36	hair	Khushtada	minč’a	m i n č’ a	193
-1044	37	hand	Khushtada	lela	l e l a	144
-1045	38	head	Khushtada	un	u n	149
-1046	39	hear (V)	Khushtada	alhã	a l h ã	150
-1047	40	heart	Khushtada	rak’ʷa	r a k’ʷ a	152
-1048	41	horn	Khushtada	č’ama	č’ a m a	155
-1049	42	I	Khushtada	de	d e	158
-1050	43	kill (V)	Khushtada	bič’al	b i č’ a l	156
-1051	44	knee	Khushtada	nikʷ	n i kʷ	162
-1052	45	know (V)	Khushtada	beː	b eː	167
-1053	46	leaf	Khushtada	al	a l	171
-1054	47	lie (V)	Khushtada	helli	h e l l i 	179
-1055	48	liver	Khushtada	leleɬ	l e l e ɬ	197
-1056	49	long	Khushtada	beχːalab	b e χː a l a b	184
-1057	50	louse	Khushtada	nas’	n a s’	185
-1058	51	man	Khushtada	hek’ʷa	h e k’ʷ a	187
-1059	53	many	Khushtada	džãgub	dž ã g u b	
-1060	54	meat	Khushtada	riʟ’	r i ʟ’	192
-1061	55	moon	Khushtada	bos’	b o s’	71
-1062	57	mouth	Khushtada	el	e l	200
-1063	58	nail	Khushtada	milhʷ	m i l hʷ	205
-1064	59	name	Khushtada	s’er	s’ e r	209
-1065	60	neck	Khushtada	džarʷ	dž a rʷ	210
-1066	61	new	Khushtada	c’inub	c’ i n u b	213
-1067	62	night	Khushtada	relha	r e l h a	214
-1068	63	nose	Khushtada	meʕer	m e ʕ e r	215
-1069	64	not	Khushtada	-č’i	č’ i	218
-1070	65	one	Khushtada	ceb	c e b	220
-1071	66	rain	Khushtada	s’aːj	s’ aː j	222
-1072	67	red	Khushtada	šːišːub	šː i šː u b	225
-1073	68	road	Khushtada	miq’	m i q’	227
-1074	69	root	Khushtada	heʟ’em	h e ʟ’ e m	229
-1075	70	round	Khushtada	q’at’ačub	q’ a t’ a č u b	101
-1076	71	sand	Khushtada	selʷ	s e lʷ	236
-1077	72	say (V)	Khushtada	heʟ’i	h e ʟ’ i	240
-1078	73	see (V)	Khushtada	hа̃ː	h ãː	244
-1079	74	seed	Khushtada	hũːj	h ũː j	250
-1080	75	sit (V)	Khushtada	ħašːar buk’a	ħ a š’ a r  b u k’ a	256
-1081	77	sleep (V)	Khushtada	ʟ’ẽː	ʟ’ ẽː	264
-1082	78	small	Khushtada	muk’ub	m u k’ u b	267
-1083	79	smoke	Khushtada	k’ũj	k’ ũ j	272
-1084	80	stand (V)	Khushtada	biʁi	b i ʁ i	273
-1085	81	star	Khushtada	s’ʷara	s’ʷ a r a	279
-1086	82	stone	Khushtada	hĩnc’a	h ĩ n c’ a	425
-1087	83	sun	Khushtada	milh	m i l h	282
-1088	84	swim (V)	Khushtada	kʷanlheː	kʷ a n l h eː	104
-1089	85	tail	Khushtada	miʁa	m i ʁ a	292
-1090	88	tongue	Khushtada	mis’	m i s’	294
-1091	89	tooth	Khushtada	salʷ	s a lʷ	295
-1092	90	tree	Khushtada	roša	r o š a	297
-1093	91	two	Khushtada	č’eda	č’ e d a	298
-1094	92	warm	Khushtada	ãsːab	ã sː a b	299
-1095	93	water	Khushtada	ɬːẽː	ɬː ẽː	300
-1096	94	we	Khushtada	išːi	i šː i	301
-1097	95	what	Khushtada	eba	e b a	304
-1098	96	white	Khushtada	hac’ab	h a c’ a b	307
-1099	97	who	Khushtada	emma	e m m a	312
-1100	98	woman	Khushtada	hak’uj	h a k’ u j	317
-1101	99	yellow	Khushtada	ʕačub	ʕ a č u b	320
-1102	100	you	Khushtada	me	m e	328
-1103	101	far	Khushtada	š’iri	š’ i r i	329
-1104	102	heavy	Khushtada	ħaš’ibab	ħ a š’ i b a b	315
-1105	103	near	Khushtada	esebaχ	e s e b a χ	427
-1106	104	salt	Khushtada	s’ãːj	s’ ãː j	342
-1107	105	short	Khushtada	bačak’ub	b a č a k’ u b	343
-1108	106	snake	Khushtada	beča	b e č a	346
-1109	107	thin	Khushtada	belab	b e l a b	347
-1110	108	wind	Khushtada	muč	m u č	349
-1111	109	worm	Khushtada	žʷalača	žʷ a l a č a	355
-1112	110	year	Khushtada	reš	r e š	357
-1113	2	ashes	Kvanada-D	ʟ’e	ʟ’ e	5
-1114	3	bark	Kvanada-D	ʕul	ʕ u l	
-1115	4	belly	Kvanada-D	bak’al	b a k’ a l	11
-1116	5	big	Kvanada-D	hinč’ab	h i n č’ a b	17
-1117	6	bird	Kvanada-D	šːačib	šː a č i b	19
-1118	7	bite (V)	Kvanada-D	salli	s a l l i	24
-1119	8	black	Kvanada-D	beč’at’ub	b e č’ a t’ u b	28
-1120	9	blood	Kvanada-D	her	h e r	31
-1121	10	bone	Kvanada-D	raʟ’	r a ʟ’	34
-1122	11	breast	Kvanada-D	nih	n i h	16
-1123	12	burn (V, TR)	Kvanada-D	bukã	b u k ã	45
-1124	13	cloud	Kvanada-D	hera	h e r a	48
-1125	14	cold	Kvanada-D	zarub	z a r u b	57
-1126	16	die (V)	Kvanada-D	bič’a	b i č’ a	60
-1127	17	dog	Kvanada-D	hʷaj	hʷ a j	358
-1128	18	drink (V)	Kvanada-D	s’aː	s’ aː	63
-1129	19	dry	Kvanada-D	beq’ub	b e q’ u b	68
-1130	20	ear	Kvanada-D	hanč’it’a	h a n č’ i t’ a	70
-1131	21	earth	Kvanada-D	unšː	u n šː	73
-1132	22	eat (V)	Kvanada-D	q’ani	q’ a n i	
-1133	23	egg	Kvanada-D	č’ač’an	č’ a č’ a n	80
-1134	24	eye	Kvanada-D	hač’a	h a č’ a	88
-1135	25	fat	Kvanada-D	χʷaːm	xʷ aː m	92
-1136	26	feather	Kvanada-D	ħuli	ħ u l i	99
-1137	27	fire	Kvanada-D	c’aj	c’ a j	102
-1138	28	fish	Kvanada-D	šušk’a	š u š k’ a	107
-1139	29	fly (V)	Kvanada-D	eta	e t a	110
-1140	30	foot	Kvanada-D	kʷanšːa	kʷ a n šː a	118
-1141	31	full	Kvanada-D	ʟ’anub	ʟ’ a n u b	126
-1142	32	give (V)	Kvanada-D	iči	i č i	131
-1143	33	go (V)	Kvanada-D	beɬi	b e ɬ i	67
-1144	34	good	Kvanada-D	hoːb	h oː b	132
-1145	35	green	Kvanada-D	ʕačub	ʕ a č u b	137
-1146	36	hair	Kvanada-D	mič’a	m i č’ a	193
-1147	37	hand	Kvanada-D	ʁažʷ	ʁ a žʷ	145
-1148	38	head	Kvanada-D	un	u n	149
-1149	39	hear (V)	Kvanada-D	ãhã	ã h ã	150
-1150	40	heart	Kvanada-D	rak’ʷa	r a k’ʷ a	152
-1151	41	horn	Kvanada-D	č’ama	č’ a m a	155
-1152	42	I	Kvanada-D	deː	d eː	158
-1153	43	kill (V)	Kvanada-D	k’ʷa	k’ʷ a	
-1154	44	knee	Kvanada-D	nikʷ	n i kʷ	162
-1155	45	know (V)	Kvanada-D	bija	b i j a	167
-1156	46	leaf	Kvanada-D	č’al	č’ a l	171
-1157	47	lie (V)	Kvanada-D	helli	h e l l i	179
-1158	48	liver	Kvanada-D	leleɬ	l e l e ɬ	197
-1159	49	long	Kvanada-D	beχalab	b e χ a l a b	184
-1160	50	louse	Kvanada-D	nas’	n a s’	185
-1161	51	man	Kvanada-D	hek’ʷa	h e k’ʷ a	187
-1162	53	many	Kvanada-D	ezzaʕan	e z z a ʕ a n	
-1163	54	meat	Kvanada-D	riʟ’	r i ʟ’	192
-1164	55	moon	Kvanada-D	bos’	b o s’	71
-1165	57	mouth	Kvanada-D	el	e l	200
-1166	58	nail	Kvanada-D	nihʷ	n i hʷ	205
-1167	59	name	Kvanada-D	s’er	s’ e r	209
-1168	60	neck	Kvanada-D	ǯаr	ǯ a r	210
-1169	61	new	Kvanada-D	c’inub	c’ i n u b	213
-1170	62	night	Kvanada-D	reha	r e h a	214
-1171	63	nose	Kvanada-D	miʕar	m i ʕ a r	215
-1172	65	one	Kvanada-D	ceb	c e b	220
-1173	66	rain	Kvanada-D	s’aj	s’ a j	222
-1174	67	red	Kvanada-D	šːišːub	šː i šː u b	225
-1175	68	road	Kvanada-D	miq’	m i q’	227
-1176	69	root	Kvanada-D	q’ol	q’ o l	
-1177	70	round	Kvanada-D	gurginab	g u r g i n a b	231
-1178	71	sand	Kvanada-D	selʷ	s e lʷ	236
-1179	73	see (V)	Kvanada-D	hа̃ː	h ãː	244
-1180	74	seed	Kvanada-D	ʟ’et’ʷ	ʟ’ e t’ʷ	248
-1181	75	sit (V)	Kvanada-D	haš’a	h a š’ a χ  b u kˈ a	256
-1182	77	sleep (V)	Kvanada-D	ʟ’ihã	ʟ’ i h ã	264
-1183	78	small	Kvanada-D	muk’ub	m u k’ u b	267
-1184	79	smoke	Kvanada-D	k’ũj	k’ ũ j	272
-1185	80	stand (V)	Kvanada-D	biʁi	b i ʁ i	273
-1186	81	star	Kvanada-D	s’ʷara	s’ʷ a r a	279
-1187	82	stone	Kvanada-D	ančʷa	a n čʷ a	280
-1188	83	sun	Kvanada-D	mih	m i h	282
-1189	85	tail	Kvanada-D	miʁa	m i ʁ a	292
-1190	88	tongue	Kvanada-D	mis’	m i s’	294
-1191	89	tooth	Kvanada-D	saɬ	s a ɬ	
-1192	90	tree	Kvanada-D	roša	r o š a	297
-1193	91	two	Kvanada-D	č’era	č’ e r a	298
-1194	92	warm	Kvanada-D	ansab	a n s a b	299
-1195	93	water	Kvanada-D	ɬːẽː	ɬː ẽː	300
-1196	94	we	Kvanada-D	išːi	i šː i	301
-1197	95	what	Kvanada-D	heb	h e b	304
-1198	96	white	Kvanada-D	hac’ab	h a c’ a b	307
-1199	97	who	Kvanada-D	heb	h e m	312
-1200	98	woman	Kvanada-D	hak’uj	h a k’ u j	317
-1201	99	yellow	Kvanada-D	žarub	ž a r u b	327
-1202	100	you	Kvanada-D	meː	m eː	328
-1203	101	far	Kvanada-D	šˈiri	š’ i r i	329
-1204	102	heavy	Kvanada-D	haš’ibab	h a š’ i b a b	315
-1205	103	near	Kvanada-D	beʟ’araχ	b e ʟ’ a r a χ	336
-1206	104	salt	Kvanada-D	s’ãj	s’ ã j	342
-1207	105	short	Kvanada-D	bačak’ub	b a č a k’ u b	343
-1208	106	snake	Kvanada-D	beča	b e č a	346
-1209	107	thin	Kvanada-D	beɬaːb	b e ɬ aː b	347
-1210	108	wind	Kvanada-D	muč	m u č	349
-1211	109	worm	Kvanada-D	žʷalača	žʷ a l a č a	355
-1212	110	year	Kvanada-D	rešen	r e š e n	357
-1213	2	ashes	Kvankhidatli	ʟ’e	ʟ’ e	5
-1214	3	bark	Kvankhidatli	qal	q a l	7
-1215	4	belly	Kvankhidatli	reka	r e k a	10
-1216	5	big	Kvankhidatli	beč’uχa	b e č’ u χ a	15
-1217	6	bird	Kvankhidatli	burde	b u r d e	13
-1218	7	bite (V)	Kvankhidatli	q’ami	q’ a m i	23
-1219	8	black	Kvankhidatli	beč’er	b e č’ e r	30
-1220	9	blood	Kvankhidatli	hin	h i n	32
-1221	10	bone	Kvankhidatli	roʟ’i	r o ʟ’ i	34
-1222	11	breast	Kvankhidatli	kirin	k i r i n	38
-1223	12	burn (V, TR)	Kvankhidatli	c’ato	c’ a t o	43
-1224	13	cloud	Kvankhidatli	hiro	h i r o	48
-1225	14	cold	Kvankhidatli	zarχub	z a r χ u b	54
-1226	16	die (V)	Kvankhidatli	wuč’o	w u č’ o	60
-1227	17	dog	Kvankhidatli	χoj	χ o j	358
-1228	18	drink (V)	Kvankhidatli	c’ːabi	c’ː a b i	
-1229	19	dry	Kvankhidatli	beq’ub	b e q’ u b	68
-1230	20	ear	Kvankhidatli	hant’ik’a	h a n t’ i k’ a	69
-1231	21	earth	Kvankhidatli	onši	o n š i	73
-1232	22	eat (V)	Kvankhidatli	k’ami	k’ a m i	78
-1233	23	egg	Kvankhidatli	k’ork’on	k’ o r k’ o n	81
-1234	24	eye	Kvankhidatli	harq’u	h a r q’ u	86
-1235	25	fat	Kvankhidatli	č’ajiɬir	č’ a j i ɬ i r	91
-1236	26	feather	Kvankhidatli	ħuli	ħ u l i	99
-1237	27	fire	Kvankhidatli	c’a	c’ a	102
-1238	28	fish	Kvankhidatli	χʷan	χʷ a n	105
-1239	29	fly (V)	Kvankhidatli	burdi	b u r d i	109
-1240	30	foot	Kvankhidatli	č’ek’a	č’ e k’ a	116
-1241	31	full	Kvankhidatli	bic’ib	b i c’ i b	124
-1242	32	give (V)	Kvankhidatli	ič’ira	i č’ i r a	
-1243	33	go (V)	Kvankhidatli	hũwon	h ũ w o n	
-1244	34	good	Kvankhidatli	šuɬib	š u ɬ i b	134
-1245	35	green	Kvankhidatli	χoči	χ o č i	138
-1246	36	hair	Kvankhidatli	ɬinol	ɬ i n o l	143
-1247	37	hand	Kvankhidatli	rek’a	r e k’ a	144
-1248	38	head	Kvankhidatli	mijar	m i j a r	147
-1249	39	hear (V)	Kvankhidatli	anɬi	a n ɬ i	150
-1250	40	heart	Kvankhidatli	rok’o	r o k’ o	152
-1251	41	horn	Kvankhidatli	q’ona	q’ o n a	
-1252	42	I	Kvankhidatli	den	d e n	158
-1253	43	kill (V)	Kvankhidatli	gabi	g a b i	161
-1254	44	knee	Kvankhidatli	xint’i	x i n t’ i	163
-1255	45	know (V)	Kvankhidatli	c’ini	c’ i n i	166
-1256	46	leaf	Kvankhidatli	k’ol	k’ o l	171
-1257	47	lie (V)	Kvankhidatli	girdi	g i r d i	174
-1258	48	liver	Kvankhidatli	rek’iʟi	r e k’ i ʟ i	180
-1259	49	long	Kvankhidatli	beχula	b e χ u l a	184
-1260	50	louse	Kvankhidatli	nocʼi	n o cʼ i	185
-1261	51	man	Kvankhidatli	kunt’uk’a	k u n t’ u k’ a	189
-1262	53	many	Kvankhidatli	bihu	b i h u	423
-1263	54	meat	Kvankhidatli	riʟ’i	r i ʟ’ i	192
-1264	55	moon	Kvankhidatli	borc’ːi	b o r c’ː i	71
-1265	57	mouth	Kvankhidatli	k’ol	k’ o l	198
-1266	58	nail	Kvankhidatli	burk’in	b u r k’ i n	
-1267	59	name	Kvankhidatli	c’eri	c’ e r i	209
-1268	60	neck	Kvankhidatli	gardo	g a r d o	210
-1269	61	new	Kvankhidatli	c’imu	c’ i m u	213
-1270	62	night	Kvankhidatli	reɬo	r e ɬ o	214
-1271	63	nose	Kvankhidatli	sunk’a	s u n k’ a	216
-1272	64	not	Kvankhidatli	sː	sː	217
-1273	65	one	Kvankhidatli	ceb	c e b	220
-1274	66	rain	Kvankhidatli	c’adara	c’ a d a r a	222
-1275	67	red	Kvankhidatli	hiri	h i r i	226
-1276	68	road	Kvankhidatli	miq’i	m i q’ i	227
-1277	69	root	Kvankhidatli	hiʟ’ib	h i ʟ’ i b	229
-1278	70	round	Kvankhidatli	ɡirɡon	ɡ i r ɡ o n	231
-1279	71	sand	Kvankhidatli	suro	s u r o	237
-1280	72	say (V)	Kvankhidatli	hiʟ’in	h i ʟ’ i n	240
-1281	73	see (V)	Kvankhidatli	hãq’o	h ã q’ o	244
-1282	74	seed	Kvankhidatli	šen	š e n	251
-1283	75	sit (V)	Kvankhidatli	mišt’awk’o	m i š t’ a w k’ o	259
-1284	77	sleep (V)	Kvankhidatli	k’elli	k’ e l l i	266
-1285	78	small	Kvankhidatli	mič’i	m i č’ i	267
-1286	79	smoke	Kvankhidatli	cːuri	cː u r i	271
-1287	80	stand (V)	Kvankhidatli	wučːi	w u čː i	
-1288	81	star	Kvankhidatli	c’ali	c’ a l i	279
-1289	82	stone	Kvankhidatli	hinc’o	h i n c’ o	425
-1290	83	sun	Kvankhidatli	q’irba	q’ i r b a	283
-1291	84	swim (V)	Kvankhidatli	waχok’o	w a χ o k’ o	287
-1292	85	tail	Kvankhidatli	miʁa	m i ʁ a	292
-1293	88	tongue	Kvankhidatli	mic’ːi	m i c’ː i	294
-1294	89	tooth	Kvankhidatli	sol	s o l	295
-1295	90	tree	Kvankhidatli	reša	r e š a	297
-1296	91	two	Kvankhidatli	č’egu	č’ e g u	298
-1297	92	warm	Kvankhidatli	hãsːa	h ã sː a	299
-1298	93	water	Kvankhidatli	ɬel	ɬ e l	300
-1299	94	we	Kvankhidatli	išːil	i šː i l	301
-1300	95	what	Kvankhidatli	ibgo	i b g o	302
-1301	96	white	Kvankhidatli	hac’a	h a c’ a	307
-1302	97	who	Kvankhidatli	ingo	i n g o	
-1303	98	woman	Kvankhidatli	ješul	j e š u l	319
-1304	99	yellow	Kvankhidatli	čakːu	č a kː u	321
-1305	100	you	Kvankhidatli	men	m e n	328
-1306	101	far	Kvankhidatli	reʟ’utola	r e ʟ’ u t o l a	333
-1307	102	heavy	Kvankhidatli	hok’oru	h o k’ o r u	335
-1308	103	near	Kvankhidatli	boqola	b o q o l a	341
-1309	104	salt	Kvankhidatli	c’ːon	c’ː o n	342
-1310	105	short	Kvankhidatli	bočok’i	b o č o k’ i	343
-1311	106	snake	Kvankhidatli	berka	b e r k a	346
-1312	107	thin	Kvankhidatli	bek’era	b e k’ e r a	347
-1313	108	wind	Kvankhidatli	moči	m o č i	349
-1314	109	worm	Kvankhidatli	χʷan bičːeb berka	χʷ a n  b i čː e b  b e r k a	351
-1315	110	year	Kvankhidatli	rešin	r e š i n	357
-1316	2	ashes	Miarso	ʟ’ej	ʟ’ e j	5
-1317	3	bark	Miarso	qal	q a l	7
-1318	4	belly	Miarso	reka	r e k a	10
-1319	5	big	Miarso	beč’uχab	b e č’ u χ a b	15
-1320	6	bird	Miarso	šːikir	šː i k i r	
-1321	7	bite (V)	Miarso	q’amdi	q’ a m d i	23
-1322	8	black	Miarso	beč’er	b e č’ e r	30
-1323	9	blood	Miarso	hiri	h i r i	31
-1324	10	bone	Miarso	raʟ’il	r a ʟ’ i l	34
-1325	11	breast	Miarso	niχi	n i χ i	16
-1326	12	burn (V, TR)	Miarso	c’ati	c’ a t i	43
-1327	13	cloud	Miarso	hira	h i r a	48
-1328	14	cold	Miarso	saj	s a j	55
-1329	16	die (V)	Miarso	wuč’i	w u č’ i	60
-1330	17	dog	Miarso	χʷaj	χʷ a j	358
-1331	18	drink (V)	Miarso	χudi	χ u d i	65
-1332	19	dry	Miarso	beq’ab	b e q’ a b	68
-1333	20	ear	Miarso	hant’uk’a	h a n t’ u k’ a	69
-1334	21	earth	Miarso	unšːi	u n šː i	73
-1335	22	eat (V)	Miarso	inki	i n k i	
-1336	23	egg	Miarso	ʁarʁanu	ʁ a r ʁ a n u	82
-1337	24	eye	Miarso	haj	h a j	89
-1338	25	fat	Miarso	čara	č a r a	91
-1339	26	feather	Miarso	ħuli	ħ u l i	99
-1340	27	fire	Miarso	c’aj	c’ a j	102
-1341	28	fish	Miarso	qʷãj	qʷ ã j	106
-1342	29	fly (V)	Miarso	burdi	b u r d i	109
-1343	30	foot	Miarso	reʁil	r e ʁ i l	117
-1344	31	full	Miarso	hic’ab	h i c’ a b	127
-1345	32	give (V)	Miarso	ikːi	i kː i	129
-1346	33	go (V)	Miarso	naʔi	n a ʔ i	20
-1347	34	good	Miarso	gʷanzi	gʷ a n z i	133
-1348	35	green	Miarso	aču	a č u	137
-1349	36	hair	Miarso	basa	b a s a	140
-1350	37	hand	Miarso	reʔa	r e ʔ a	144
-1351	38	head	Miarso	ũni	ũ n i	149
-1352	39	hear (V)	Miarso	ahĩ	a h ĩ	150
-1353	40	heart	Miarso	rak’ʷa	r a k’ʷ a	152
-1354	41	horn	Miarso	k’amu	k’ a m u	155
-1355	42	I	Miarso	din	d i n	158
-1356	43	kill (V)	Miarso	kːʷãndi	kːʷ ã n d i	159
-1357	44	knee	Miarso	nuku	n u k u	162
-1358	45	know (V)	Miarso	beʔi	b e ʔ i	167
-1359	46	leaf	Miarso	ʕali	ʕ a l i	171
-1360	47	lie (V)	Miarso	reraχi	r e r a χ i	
-1361	48	liver	Miarso	rehiɬa	r e h i ɬ a	181
-1362	49	long	Miarso	beχːilab	b e χː i l a b	184
-1363	50	louse	Miarso	nacʼi	n a cʼ i	185
-1364	51	man	Miarso	kunt’ek’a	k u n t’ e k’ a	189
-1365	53	many	Miarso	ʟ’eniqa	ʟ’ e n i q a	394
-1366	54	meat	Miarso	riʟ’i	r i ʟ’ i	192
-1367	55	moon	Miarso	purc’u	p u r c’ u	71
-1368	57	mouth	Miarso	ʔeli	ʔ e l i	
-1369	58	nail	Miarso	hũmu	h ũ m u	207
-1370	59	name	Miarso	c’eri	c’ e r i	209
-1371	60	neck	Miarso	garu	g a r u	210
-1372	61	new	Miarso	c’ĩw	c’ ĩ w	213
-1373	62	night	Miarso	reha	r e h a	214
-1374	63	nose	Miarso	mihar	m i h a r	215
-1375	64	not	Miarso	beʔač’i	b e ʔ a č’ i	218
-1376	65	one	Miarso	ceb	c e b	220
-1377	66	rain	Miarso	c’ːaj	c’ː a j	222
-1378	67	red	Miarso	irχːab	i r χː a b	224
-1379	68	road	Miarso	miq’i	m i q’ i	227
-1380	69	root	Miarso	riʟ’in	r i ʟ’ i n	230
-1381	70	round	Miarso	gurginab	g u r g i n a b	231
-1382	71	sand	Miarso	sira	s i r a	237
-1383	72	say (V)	Miarso	hiʟ’i	h i ʟ’ i	240
-1384	73	see (V)	Miarso	haʔi	h a ʔ i	244
-1385	74	seed	Miarso	xuni	x u n i	250
-1386	75	sit (V)	Miarso	ač’a ruk’i	a č’ a r u k’ i	258
-1387	77	sleep (V)	Miarso	ʁundi	ʁ u n d i	265
-1388	78	small	Miarso	zuk’ːu	z u k’ː u	269
-1389	79	smoke	Miarso	cːuri	cː u r i	271
-1390	80	stand (V)	Miarso	hirč’u wuʁi	h i r č’ u  w u ʁ i	274
-1391	81	star	Miarso	c’aj	c’ a j	279
-1392	82	stone	Miarso	anča	a n č a	280
-1393	83	sun	Miarso	mihi	m i h i	282
-1394	84	swim (V)	Miarso	kʷač’i ladːaj	kʷ a č’ i  l a dː a j	288
-1395	85	tail	Miarso	miʁa	m i ʁ a	292
-1396	88	tongue	Miarso	mic’ːi	m i c’ː i	294
-1397	89	tooth	Miarso	salu	s a l u	295
-1398	90	tree	Miarso	ruša	r u š a	297
-1399	91	two	Miarso	k’eda	k’ e d a	298
-1400	92	warm	Miarso	ansab	a n s a b	299
-1401	93	water	Miarso	ɬeni	ɬ e n i	300
-1402	94	we	Miarso	išːil	i šː i l	301
-1403	95	what	Miarso	eχula	e χ u l a	
-1404	96	white	Miarso	hac’aχab	h a c’ a χ a b	307
-1405	97	who	Miarso	inɬia	i n ɬ i a	309
-1406	98	woman	Miarso	ješik’ʷa	j e š i k’ʷ a	319
-1407	99	yellow	Miarso	čːakːu	čː a kː u	321
-1408	100	you	Miarso	min	m i n	328
-1409	101	far	Miarso	č’ːidu	č’ː i d u	329
-1410	102	heavy	Miarso	hak’ubab	h a k’ u b a b	334
-1411	103	near	Miarso	beʟ’are	b e ʟ’ a r e	336
-1412	104	salt	Miarso	c’ːãj	c’ː ã j	342
-1413	105	short	Miarso	bačak’i	b a č a k’ i	343
-1414	106	snake	Miarso	berka	b e r k a	346
-1415	107	thin	Miarso	beʔerab	b e ʔ e r a b	347
-1416	108	wind	Miarso	muču	m u č u	349
-1417	109	worm	Miarso	ħapara	ħ a p a r a	352
-1418	110	year	Miarso	reši	r e š i	357
-1419	2	ashes	Nizhnee_Gakvari-D	ʟ’eː	ʟ’ eː	5
-1420	3	bark	Nizhnee_Gakvari-D	qal	q a l	7
-1421	4	belly	Nizhnee_Gakvari-D	χːinta	χː i n t a	14
-1422	5	big	Nizhnee_Gakvari-D	gošhab	g o š h a b	18
-1423	6	bird	Nizhnee_Gakvari-D	č’or	č’ o r	21
-1424	7	bite (V)	Nizhnee_Gakvari-D	q’an	q’ a n	23
-1425	8	black	Nizhnee_Gakvari-D	beč’at’ub	b e č’ a t’ u b	28
-1426	9	blood	Nizhnee_Gakvari-D	eː	eː	33
-1427	10	bone	Nizhnee_Gakvari-D	jaʟ’il	j a ʟ’ i l	34
-1428	11	breast	Nizhnee_Gakvari-D	niχ	n i χ	16
-1429	12	burn (V, TR)	Nizhnee_Gakvari-D	c’aha	c’ a h a	42
-1430	13	cloud	Nizhnee_Gakvari-D	eʔa	e ʔ a	52
-1431	14	cold	Nizhnee_Gakvari-D	saw	s a w	55
-1432	16	die (V)	Nizhnee_Gakvari-D	wič’a	w i č’ a	60
-1433	17	dog	Nizhnee_Gakvari-D	χʷaj	χʷ a j	358
-1434	18	drink (V)	Nizhnee_Gakvari-D	χed	χ e d	65
-1435	19	dry	Nizhnee_Gakvari-D	beq’ub	b e q’ u b	68
-1436	20	ear	Nizhnee_Gakvari-D	anna	a n n a	72
-1437	21	earth	Nizhnee_Gakvari-D	ũsː	ũ sː	73
-1438	22	eat (V)	Nizhnee_Gakvari-D	od	o d	79
-1439	23	egg	Nizhnee_Gakvari-D	č’аč’а̃	č’ a č’ ã	80
-1440	24	eye	Nizhnee_Gakvari-D	hač’a	h a č’ a	88
-1441	25	fat	Nizhnee_Gakvari-D	ɬan	ɬ a n	95
-1442	26	feather	Nizhnee_Gakvari-D	čaː	č aː	98
-1443	27	fire	Nizhnee_Gakvari-D	c’aː	c’ aː	102
-1444	28	fish	Nizhnee_Gakvari-D	χʷam	χʷ a m	105
-1445	29	fly (V)	Nizhnee_Gakvari-D	eta	e t a	110
-1446	30	foot	Nizhnee_Gakvari-D	jeʁil	j e ʁ i l	117
-1447	31	full	Nizhnee_Gakvari-D	bic’idda	b i c’ i d d a	124
-1448	32	give (V)	Nizhnee_Gakvari-D	gud	g u d	
-1449	33	go (V)	Nizhnee_Gakvari-D	wuna	w u n a	20
-1450	35	green	Nizhnee_Gakvari-D	besiʟ	b e s i ʟ	139
-1451	36	hair	Nizhnee_Gakvari-D	čaː	č aː	379
-1452	37	hand	Nizhnee_Gakvari-D	ʁazʷ	ʁ a zʷ	145
-1453	38	head	Nizhnee_Gakvari-D	un	u n	149
-1454	39	hear (V)	Nizhnee_Gakvari-D	woɬa	w o ɬ a	150
-1455	40	heart	Nizhnee_Gakvari-D	jak’ʷa	j a k’ʷ a	152
-1456	41	horn	Nizhnee_Gakvari-D	č’am	č’ a m	155
-1457	42	I	Nizhnee_Gakvari-D	dĩː	d ĩː	158
-1458	43	kill (V)	Nizhnee_Gakvari-D	bič’aːla	b i č’ aː l a	156
-1459	44	knee	Nizhnee_Gakvari-D	nikʷal	n i kʷ a l	162
-1460	45	know (V)	Nizhnee_Gakvari-D	iʔa	i ʔ a	167
-1461	46	leaf	Nizhnee_Gakvari-D	pal	p a l	385
-1462	47	lie (V)	Nizhnee_Gakvari-D	garad	g a r a d	174
-1463	48	liver	Nizhnee_Gakvari-D	jelaʟ	j e l a ʟ	389
-1464	49	long	Nizhnee_Gakvari-D	beχːilab	b e χː i l a b	184
-1465	50	louse	Nizhnee_Gakvari-D	nas’	n a s’	185
-1466	51	man	Nizhnee_Gakvari-D	hadam	h a d a m	391
-1467	53	many	Nizhnee_Gakvari-D	beʁʷ	b e ʁʷ	190
-1468	54	meat	Nizhnee_Gakvari-D	jiʟ’	j i ʟ’	192
-1469	55	moon	Nizhnee_Gakvari-D	bos’	b o s’	71
-1470	57	mouth	Nizhnee_Gakvari-D	elmis’	e l m i sˈ	204
-1471	58	nail	Nizhnee_Gakvari-D	ɬum	ɬ u m	208
-1472	59	name	Nizhnee_Gakvari-D	s’eː	s’ eː	209
-1473	60	neck	Nizhnee_Gakvari-D	žajʟʷ	ǯ a j ʟʷ	211
-1474	61	new	Nizhnee_Gakvari-D	c’iw	c’ i w	213
-1475	62	night	Nizhnee_Gakvari-D	jeɬa	j e ɬ a	214
-1476	63	nose	Nizhnee_Gakvari-D	maj	m a j	
-1477	65	one	Nizhnee_Gakvari-D	seb	s e b	220
-1478	66	rain	Nizhnee_Gakvari-D	s’aː	s’ aː	222
-1479	67	red	Nizhnee_Gakvari-D	eʔub	e ʔ u b	223
-1480	68	road	Nizhnee_Gakvari-D	miq’	m i q’	227
-1481	69	root	Nizhnee_Gakvari-D	heʟ’im	h e ʟ’ i m	229
-1482	70	round	Nizhnee_Gakvari-D	χaradda	χ a r a d d a	232
-1483	71	sand	Nizhnee_Gakvari-D	kusː	k u sː	235
-1484	72	say (V)	Nizhnee_Gakvari-D	iʟ’i	i ʟ’ i	240
-1485	73	see (V)	Nizhnee_Gakvari-D	haʔa	h a ʔ a	244
-1486	74	seed	Nizhnee_Gakvari-D	hũː	h ũː	250
-1487	75	sit (V)	Nizhnee_Gakvari-D	-tʷa	w u t a	260
-1488	77	sleep (V)	Nizhnee_Gakvari-D	ʟ’iχã	ʟ’ i χ ã	264
-1489	78	small	Nizhnee_Gakvari-D	t’annab	t’ a n n a b	270
-1490	79	smoke	Nizhnee_Gakvari-D	sːur	sː u r	271
-1491	80	stand (V)	Nizhnee_Gakvari-D	-s’i	s’ i	278
-1492	81	star	Nizhnee_Gakvari-D	s’aː	s’ aː	279
-1493	82	stone	Nizhnee_Gakvari-D	hĩc’a	h ĩ c’ a	425
-1494	83	sun	Nizhnee_Gakvari-D	miɬ	m i ɬ	282
-1495	85	tail	Nizhnee_Gakvari-D	miʁa	m i ʁ a	292
-1496	88	tongue	Nizhnee_Gakvari-D	mis’	m i s’	294
-1497	89	tooth	Nizhnee_Gakvari-D	salʷ	s a lʷ	295
-1498	90	tree	Nizhnee_Gakvari-D	woha	w o h a	297
-1499	91	two	Nizhnee_Gakvari-D	eč’ida	e č’ i d a	298
-1500	92	warm	Nizhnee_Gakvari-D	asab	a s a b	299
-1501	93	water	Nizhnee_Gakvari-D	ɬːĩː	ɬː ĩː	300
-1502	94	we	Nizhnee_Gakvari-D	isːi	i sː i	301
-1503	95	what	Nizhnee_Gakvari-D	ed	e d	
-1504	96	white	Nizhnee_Gakvari-D	hac’ab	h a c’ a b	307
-1505	97	who	Nizhnee_Gakvari-D	im	i m	314
-1506	98	woman	Nizhnee_Gakvari-D	has’	h a s’	420
-1507	99	yellow	Nizhnee_Gakvari-D	ašub	a š u b	320
-1508	100	you	Nizhnee_Gakvari-D	miː	m iː	328
-1509	101	far	Nizhnee_Gakvari-D	s’idʷ	s’ i dʷ	329
-1510	102	heavy	Nizhnee_Gakvari-D	bak’uk’ab	b a k’ u k’ a b	
-1511	103	near	Nizhnee_Gakvari-D	esbaqe	e s b a q e	427
-1512	104	salt	Nizhnee_Gakvari-D	s’aː	s’ aː	342
-1513	105	short	Nizhnee_Gakvari-D	bašak’ub	b a š a k’ u b	343
-1514	106	snake	Nizhnee_Gakvari-D	beča	b e č a	346
-1515	107	thin	Nizhnee_Gakvari-D	belab	b e l a b	347
-1516	108	wind	Nizhnee_Gakvari-D	muš	m u š	349
-1517	109	worm	Nizhnee_Gakvari-D	beča	b e č a	351
-1518	110	year	Nizhnee_Gakvari-D	jehĩ	j e h ĩ	357
-1519	2	ashes	Tad_Magitl	tereti	t e r e t i	6
-1520	3	bark	Tad_Magitl	qali	q a l i	7
-1521	4	belly	Tad_Magitl	reka	r e k a	10
-1522	5	big	Tad_Magitl	ĩk’a	ĩ k’ a	17
-1523	6	bird	Tad_Magitl	šːakiba	šː a k i b a	19
-1524	7	bite (V)	Tad_Magitl	q’ːeleč’ari	q’ː e l e č’ a r i	27
-1525	8	black	Tad_Magitl	bаč’ida	b a č’ i d a	28
-1526	9	blood	Tad_Magitl	hini	h i n i	32
-1527	10	bone	Tad_Magitl	raʟ’ːi	r a ʟ’ː i	34
-1528	11	breast	Tad_Magitl	ʟ’õrak’ʷa	ʟ’ õ r a k’ʷ a	36
-1529	12	burn (V, TR)	Tad_Magitl	č’ari	č’ a r i	46
-1530	13	cloud	Tad_Magitl	hira	h i r a	48
-1531	14	cold	Tad_Magitl	žаhuda	ž a h u d a	56
-1532	16	die (V)	Tad_Magitl	wuʟ’ari	w u ʟ’ a r i	61
-1533	17	dog	Tad_Magitl	χʷe	χʷ e	358
-1534	18	drink (V)	Tad_Magitl	c’ːarari	c’ː a r a r i	63
-1535	19	dry	Tad_Magitl	buq’ːada	b u q’ː a d a	68
-1536	20	ear	Tad_Magitl	hande	h a n d e	72
-1537	21	earth	Tad_Magitl	ũsːi	ũ sː i	73
-1538	22	eat (V)	Tad_Magitl	ʟ’ːani	ʟ’ː a n i	
-1539	23	egg	Tad_Magitl	qanu	q a n u	83
-1540	24	eye	Tad_Magitl	k’eha	k’ e h a	87
-1541	25	fat	Tad_Magitl	hane	h a n e	94
-1542	26	feather	Tad_Magitl	ħuli	ħ u l i	99
-1543	27	fire	Tad_Magitl	č’аri	č’ a r i	103
-1544	28	fish	Tad_Magitl	čːuʕa	čː u ʕ a	108
-1545	29	fly (V)	Tad_Magitl	bihari	b i h a r i	114
-1546	30	foot	Tad_Magitl	šːũk’a	šː ũ k’ a	119
-1547	31	full	Tad_Magitl	beč’ada	b e č’ a d a	123
-1548	32	give (V)	Tad_Magitl	oxːade	o xː a d e	4
-1549	33	go (V)	Tad_Magitl	wanu gudi	w a n u  g u d i	20
-1550	34	good	Tad_Magitl	šoda	š o d a	135
-1551	35	green	Tad_Magitl	žomoʟːi	ž o m o ʟː i	136
-1552	36	hair	Tad_Magitl	ʁoso	ʁ o s o	194
-1553	37	hand	Tad_Magitl	reʟ’a	r e ʟ’ a	144
-1554	38	head	Tad_Magitl	mina	m i n a	148
-1555	39	hear (V)	Tad_Magitl	ãʟani	ã ʟ a n i	150
-1556	40	heart	Tad_Magitl	rak’ʷa	r a k’ʷ a	152
-1557	41	horn	Tad_Magitl	ãk’at’i	ã k’ a t’ i	153
-1558	42	I	Tad_Magitl	dene	d e n e	158
-1559	43	kill (V)	Tad_Magitl	ʟ’ːʷarari	ʟ’ːʷ a r a r i	196
-1560	44	knee	Tad_Magitl	muq’u	m u q’ u	165
-1561	45	know (V)	Tad_Magitl	beq’ari	b e q’ a r i	169
-1562	46	leaf	Tad_Magitl	ʟ’ande	ʟ’ a n d e	173
-1563	47	lie (V)	Tad_Magitl	k’ʷani	k’ʷ a n i	178
-1564	48	liver	Tad_Magitl	hinaʟːi	h i n a ʟː i	263
-1565	49	long	Tad_Magitl	baχːada	b a χː a d a	183
-1566	50	louse	Tad_Magitl	nac’ːi	n a c’ː i	185
-1567	51	man	Tad_Magitl	ek’ʷa	e k’ʷ a	187
-1568	53	many	Tad_Magitl	boʁoda	b o ʁ o d a	190
-1569	54	meat	Tad_Magitl	riʟ’ːi	r i ʟ’ː i	192
-1570	55	moon	Tad_Magitl	boc’ːo	b o c’ː o	71
-1571	57	mouth	Tad_Magitl	q’eli	q’ e l i	203
-1572	58	nail	Tad_Magitl	miɬo	m i ɬ o	205
-1573	59	name	Tad_Magitl	c’ːeri	c’ː e r i	209
-1574	60	neck	Tad_Magitl	k’oli	k’ o l i	212
-1575	61	new	Tad_Magitl	č’inda	č’ i n d a	213
-1576	62	night	Tad_Magitl	raʟa	r a ʟ a	214
-1577	63	nose	Tad_Magitl	miʕa	m i ʕ a	215
-1578	64	not	Tad_Magitl	goʟa	g o ʟ a	219
-1579	65	one	Tad_Magitl	čebe	č e b e	220
-1580	66	rain	Tad_Magitl	c’ːa	c’ː a	222
-1581	67	red	Tad_Magitl	hirida	h i r i d a	226
-1582	68	road	Tad_Magitl	miq’ːi	m i q’ː i	227
-1583	69	root	Tad_Magitl	eʟ’ːe	e ʟ’ː e	228
-1584	70	round	Tad_Magitl	gĩgada	g ĩ g a d a	231
-1585	71	sand	Tad_Magitl	sali	s a l i	236
-1586	72	say (V)	Tad_Magitl	eʟ’ːada	e ʟ’ː a d a	240
-1587	73	see (V)	Tad_Magitl	harigʷari	h a r i gʷ a r i	246
-1588	74	seed	Tad_Magitl	miʟ’ːara	m i ʟ’ː a r a	252
-1589	75	sit (V)	Tad_Magitl	k’usado	k’ u s a d o	254
-1590	77	sleep (V)	Tad_Magitl	ʟ’ːani	ʟ’ː a n i	264
-1591	78	small	Tad_Magitl	ĩk’ːʷa	ĩ k’ːʷ a	268
-1592	79	smoke	Tad_Magitl	k’ːũj	k’ː ũ j	272
-1593	80	stand (V)	Tad_Magitl	ʟ’inari	ʟ’ i n a r i	276
-1594	81	star	Tad_Magitl	c’ːʷa	c’ːʷ a	279
-1595	82	stone	Tad_Magitl	inč’a	i n č’ a	425
-1596	83	sun	Tad_Magitl	miɬi	m i ɬ i	282
-1597	84	swim (V)	Tad_Magitl	ɬːenʟ’ani	ɬː e n ʟ’ a n i	290
-1598	85	tail	Tad_Magitl	kaʟːi	k a ʟː i	291
-1599	88	tongue	Tad_Magitl	mic’ːi	m i c’ː i	294
-1600	89	tooth	Tad_Magitl	čːilo	čː i l o	296
-1601	90	tree	Tad_Magitl	ruša	r u š a	297
-1602	91	two	Tad_Magitl	k’eda	k’ e d a	298
-1603	92	warm	Tad_Magitl	ãsːada	ã sː a d a	299
-1604	93	water	Tad_Magitl	ɬːeni	ɬː e n i	300
-1605	94	we	Tad_Magitl	iʟi isːi	i sː i	301
-1606	95	what	Tad_Magitl	čubi	č u b i	303
-1607	96	white	Tad_Magitl	bašida	b a š i d a	306
-1608	97	who	Tad_Magitl	čuwi	č u w i	310
-1609	98	woman	Tad_Magitl	ak’ːo	a k’ː o	317
-1610	99	yellow	Tad_Magitl	t’ihoʟːi	t’ i h o ʟː i	323
-1611	100	you	Tad_Magitl	mene	m e n e	328
-1612	101	far	Tad_Magitl	hidiʟere	h i d i ʟ e r e	331
-1613	102	heavy	Tad_Magitl	hok’orada	h o k’ o r a d a	335
-1614	103	near	Tad_Magitl	qinaɬːi	q i n a ɬː i	339
-1615	104	salt	Tad_Magitl	c’ːani	c’ː a n i	342
-1616	105	short	Tad_Magitl	bačada	b a č a d a	345
-1617	106	snake	Tad_Magitl	beka	b e k a	346
-1618	107	thin	Tad_Magitl	baʟ’arada	b a ʟ’ a r a d a	347
-1619	108	wind	Tad_Magitl	ɬʷe	ɬʷ e	348
-1620	109	worm	Tad_Magitl	beka	b e k a	351
-1621	110	year	Tad_Magitl	reše	r e š e	357
-1622	2	ashes	Tad_Magitl-D	tereti	t e r e t i	6
-1623	3	bark	Tad_Magitl-D	q’oli	q’ o l i	
-1624	4	belly	Tad_Magitl-D	reka	r e k a	10
-1625	5	big	Tad_Magitl-D	ĩk’a	ĩ k’ a	17
-1626	6	bird	Tad_Magitl-D	šːakiba	šː a k i b a	19
-1627	8	black	Tad_Magitl-D	bаč’ida	b a č’ i d a	28
-1628	9	blood	Tad_Magitl-D	hini	h i n i	32
-1629	10	bone	Tad_Magitl-D	raʟ’ːi	r a ʟ’ː i	34
-1630	11	breast	Tad_Magitl-D	ʟ’õːrak’ʷa	ʟ’ õː r a k’ʷ a	36
-1631	13	cloud	Tad_Magitl-D	hira	h i r a	48
-1632	14	cold	Tad_Magitl-D	žаhuda	ž a h u d a	56
-1633	17	dog	Tad_Magitl-D	χʷeː	χʷ eː	358
-1634	19	dry	Tad_Magitl-D	buq’ada	b u q’ a d a	68
-1635	20	ear	Tad_Magitl-D	hãde	h ã d e	72
-1636	21	earth	Tad_Magitl-D	uːsːi	uː sː i	73
-1637	23	egg	Tad_Magitl-D	qanu	q a n u	83
-1638	24	eye	Tad_Magitl-D	k’eha	k’ e h a	87
-1639	25	fat	Tad_Magitl-D	hane	h a n e	94
-1640	26	feather	Tad_Magitl-D	ħuli	ħ u l i	99
-1641	27	fire	Tad_Magitl-D	č’аri	č’ a r i	103
-1642	28	fish	Tad_Magitl-D	čːuʕa	čː u ʕ a	108
-1643	30	foot	Tad_Magitl-D	ʕĩja	ʕ ĩ j a	121
-1644	31	full	Tad_Magitl-D	beč’eda	b e č’ e d a	123
-1645	35	green	Tad_Magitl-D	žomoʟːi	ž o m o ʟː i	136
-1646	36	hair	Tad_Magitl-D	kari	k a r i	142
-1647	37	hand	Tad_Magitl-D	ʁaža	ʁ a ž a	145
-1648	38	head	Tad_Magitl-D	mina	m i n a	148
-1649	40	heart	Tad_Magitl-D	rak’ʷa	r a k’ʷ a	152
-1650	41	horn	Tad_Magitl-D	ak’at’i	a k’ a t’ i	153
-1651	42	I	Tad_Magitl-D	dene	d e n e	158
-1652	44	knee	Tad_Magitl-D	muq’u	m u q’ u	165
-1653	46	leaf	Tad_Magitl-D	ʟ’ãde	ʟ’ ã d e	173
-1654	48	liver	Tad_Magitl-D	riʟ’eʟːi	r i ʟ’ e ʟː i	180
-1655	49	long	Tad_Magitl-D	baχːada	b a χː a d a	183
-1656	50	louse	Tad_Magitl-D	nac’ːi	n a c’ː i	185
-1657	51	man	Tad_Magitl-D	ekʷa	e k’ʷ a	187
-1658	53	many	Tad_Magitl-D	boʁoda	b o ʁ o d a	190
-1659	54	meat	Tad_Magitl-D	riʟ’ːi	r i ʟ’ː i	192
-1660	55	moon	Tad_Magitl-D	boc’ːo	b o c’ː o	71
-1661	57	mouth	Tad_Magitl-D	q’eli	q’ e l i	203
-1662	58	nail	Tad_Magitl-D	miʟo	m i ʟ o	206
-1663	59	name	Tad_Magitl-D	c’ːeri	c’ː e r i	209
-1664	60	neck	Tad_Magitl-D	k’oli	k’ o l i	212
-1665	61	new	Tad_Magitl-D	č’ĩda	č’ ĩ d a	213
-1666	62	night	Tad_Magitl-D	raʟa	r a ʟ a	214
-1667	63	nose	Tad_Magitl-D	miʕa	m i ʕ a	215
-1668	65	one	Tad_Magitl-D	čebe	č e b e	220
-1669	66	rain	Tad_Magitl-D	c’ari	c’ a r i	222
-1670	67	red	Tad_Magitl-D	hirida	h i r i d a	226
-1671	68	road	Tad_Magitl-D	miq’ːi	m i q’ː i	227
-1672	69	root	Tad_Magitl-D	eʟ’ːe	e ʟ’ː e	228
-1673	70	round	Tad_Magitl-D	gĩgada	g ĩ g a d a	231
-1674	71	sand	Tad_Magitl-D	sali	s a l i	236
-1675	74	seed	Tad_Magitl-D	mũhi	m ũ h i	253
-1676	78	small	Tad_Magitl-D	ĩk’ːʷa	ĩ k’ːʷ a	268
-1677	79	smoke	Tad_Magitl-D	k’ʷːĩ	k’ʷː ĩ	272
-1678	81	star	Tad_Magitl-D	c’ʷːari	c’ʷː a r i	279
-1679	82	stone	Tad_Magitl-D	ĩč’a	ĩ č’ a	425
-1680	83	sun	Tad_Magitl-D	miɬi	m i ɬ i	282
-1681	85	tail	Tad_Magitl-D	kaʟːi	k a ʟː i	291
-1682	88	tongue	Tad_Magitl-D	mic’ːi	m i c’ː i	294
-1683	89	tooth	Tad_Magitl-D	čilo	č i l o	296
-1684	90	tree	Tad_Magitl-D	ruša	r u š a	297
-1685	91	two	Tad_Magitl-D	k’eda	k’ e d a	298
-1686	92	warm	Tad_Magitl-D	ãsːada	ã sː a d a	299
-1687	93	water	Tad_Magitl-D	ɬːeni	ɬː e n i	300
-1688	94	we	Tad_Magitl-D	isːi	i sː i	301
-1689	95	what	Tad_Magitl-D	čubi	č u b i	303
-1690	96	white	Tad_Magitl-D	bašida	b a š i d a	306
-1691	97	who	Tad_Magitl-D	čuji	č u j i	310
-1692	98	woman	Tad_Magitl-D	ak’ːa	a k’ː a	317
-1693	99	yellow	Tad_Magitl-D	t’ihoʟːi	t’ i h o ʟː i	323
-1694	100	you	Tad_Magitl-D	mene	m e n e	328
-1695	101	far	Tad_Magitl-D	ĩk’araqːiɬi	ĩ k’ a r a qː i ɬ i	332
-1696	102	heavy	Tad_Magitl-D	hok’orada	h o k’ o r a d a	335
-1697	103	near	Tad_Magitl-D	qinaːɬi	q i n aː ɬ i	339
-1698	104	salt	Tad_Magitl-D	c’ːani	c’ː a n i	342
-1699	105	short	Tad_Magitl-D	bačada	b a č a d a	345
-1700	106	snake	Tad_Magitl-D	beka	b e k a	346
-1701	107	thin	Tad_Magitl-D	baʟ’arada	b a ʟ’ a r a d a	347
-1702	108	wind	Tad_Magitl-D	ɬʷeː	ɬʷ eː	348
-1703	109	worm	Tad_Magitl-D	beka	b e k a	351
-1704	110	year	Tad_Magitl-D	reše	r e š e	357
-1705	2	ashes	Tindi-D	ʟ’eː	ʟ’ eː	5
-1706	3	bark	Tindi-D	qali	q a l i	7
-1707	4	belly	Tindi-D	χːinta	χː i n t a	14
-1708	5	big	Tindi-D	hik’ʲab	h i k’ʲ a b	17
-1709	6	bird	Tindi-D	šːakʲib	šː a kʲ i b	19
-1710	7	bite (V)	Tindi-D	č’uno	č’ u n o	26
-1711	8	black	Tindi-D	beč’at’ub	b e č’ a t’ u b	28
-1712	9	blood	Tindi-D	heri	h e r i	31
-1713	10	bone	Tindi-D	raʟ’i	r a ʟ’ i	34
-1714	11	breast	Tindi-D	niχi	n i χ i	16
-1715	12	burn (V, TR)	Tindi-D	c’ahaliɬa	c’ a h a l i ɬ a	42
-1716	13	cloud	Tindi-D	hinawu	h i n a w u	50
-1717	14	cold	Tindi-D	sab	s a b	55
-1718	16	die (V)	Tindi-D	wič’o	w i č’ o	60
-1719	17	dog	Tindi-D	χʷaː	χʷ aː	358
-1720	18	drink (V)	Tindi-D	cawo	c a w o	
-1721	19	dry	Tindi-D	beq’ub	b e q’ u b	68
-1722	20	ear	Tindi-D	hankʲ’it’a	h a n kʲ’ i t’ a	70
-1723	21	earth	Tindi-D	unšːi	u n šː i	73
-1724	22	eat (V)	Tindi-D	q’ano	q’ a n o	
-1725	23	egg	Tindi-D	kʲ’ekʲ’ama	kʲ’ e kʲ’ a m a	85
-1726	24	eye	Tindi-D	hakʲ’a	h a kʲ’ a	86
-1727	25	fat	Tindi-D	ɬana	ɬ a n a	95
-1728	26	feather	Tindi-D	ɬiru	ɬ i r u	100
-1729	27	fire	Tindi-D	c’аː	c’ aː	102
-1730	28	fish	Tindi-D	χʷan	χʷ a n	105
-1731	29	fly (V)	Tindi-D	eto	e t o	110
-1732	30	foot	Tindi-D	begʷaʟi	b e gʷ a ʟ i	122
-1733	31	full	Tindi-D	bec’ub	b e c’ u b	124
-1734	32	give (V)	Tindi-D	goː	g oː	
-1735	33	go (V)	Tindi-D	woʟo	w o ʟ o	39
-1736	35	green	Tindi-D	žimiʟa basejʟa	ž i m i ʟ a  b a s e j ʟ a	59
-1737	36	hair	Tindi-D	kʲara	kʲ a r a	142
-1738	37	hand	Tindi-D	ʁažu	ʁ a ž u	145
-1739	38	head	Tindi-D	ʔʷani	ʔʷ a n i	149
-1740	39	hear (V)	Tindi-D	anɬo	a n ɬ o	150
-1741	40	heart	Tindi-D	rak’ʷa	r a k’ʷ a	152
-1742	41	horn	Tindi-D	kʲ’ama	kʲ’ a m a	155
-1743	42	I	Tindi-D	de	d e	158
-1744	43	kill (V)	Tindi-D	wič’aliɬa	w i č’ a l i ɬ a	156
-1745	44	knee	Tindi-D	niku	n i k u	162
-1746	45	know (V)	Tindi-D	bijo	b i j o	167
-1747	46	leaf	Tindi-D	ali	a l i	171
-1748	47	lie (V)	Tindi-D	ʁordo	ʁ o r d o	
-1749	48	liver	Tindi-D	relaʟ	r e l a ʟ	180
-1750	49	long	Tindi-D	beχalab	b e χ a l a b	184
-1751	50	louse	Tindi-D	naci	n a c i	185
-1752	51	man	Tindi-D	hek’ʷa	h e k’ʷ a	187
-1753	53	many	Tindi-D	q’ahab	q’ a h a b	
-1754	54	meat	Tindi-D	riʟ’i	r i ʟ’ i	192
-1755	55	moon	Tindi-D	bocu	b o c u	71
-1756	57	mouth	Tindi-D	sːunkʲ’a	sː u n kʲ’ a	199
-1757	58	nail	Tindi-D	miɬu	m i ɬ u	205
-1758	59	name	Tindi-D	cera	c e r a	209
-1759	60	neck	Tindi-D	ᶃaru	gʲ a r u	210
-1760	61	new	Tindi-D	c’ĩhub	c’ ĩ h u b	213
-1761	62	night	Tindi-D	reɬa	r e ɬ a	214
-1762	63	nose	Tindi-D	mijar	m i j a r	215
-1763	65	one	Tindi-D	seb	s e b	220
-1764	66	rain	Tindi-D	caː	c aː	222
-1765	67	red	Tindi-D	čːičːub	čː i čː u b	225
-1766	68	road	Tindi-D	miq’i	m i q’ i	227
-1767	69	root	Tindi-D	heʟ’ab	h e ʟ’ a b	229
-1768	70	round	Tindi-D	k’ork’alub	k’ o r k’ a l u b	233
-1769	71	sand	Tindi-D	bikʲːi	b i kʲː i	234
-1770	72	say (V)	Tindi-D	hiʟ’o	h i ʟ’ o	240
-1771	73	see (V)	Tindi-D	hãwo	h ã w o	244
-1772	74	seed	Tindi-D	ʟ’et’u	ʟ’ e t’ u	248
-1773	75	sit (V)	Tindi-D	hačːi buk’iɬa	h a čː i  b u k’ i ɬ a	256
-1774	77	sleep (V)	Tindi-D	ʟ’eχõ	ʟ’ e χ õ	264
-1775	78	small	Tindi-D	muk’utub	m u k’ u t u b	267
-1776	79	smoke	Tindi-D	kʷːĩ	kʷː ĩ	272
-1777	80	stand (V)	Tindi-D	biʁo	b i ʁ o	273
-1778	81	star	Tindi-D	caru	c a r u	279
-1779	82	stone	Tindi-D	hinc’a	h i n c’ a	425
-1780	83	sun	Tindi-D	miɬi	m i ɬ i	282
-1781	85	tail	Tindi-D	miʁa	m i ʁ a	292
-1782	88	tongue	Tindi-D	mici	m i c i	294
-1783	89	tooth	Tindi-D	salu	s a l u	295
-1784	90	tree	Tindi-D	roha	r o h a	297
-1785	91	two	Tindi-D	kʲ’eja	kʲ’ e j a	298
-1786	92	warm	Tindi-D	а̃sːаb	ã sː a b	299
-1787	93	water	Tindi-D	ɬːẽ	ɬː ẽ	300
-1788	94	we	Tindi-D	išːa	i šː a	301
-1789	95	what	Tindi-D	ela	e l a	
-1790	96	white	Tindi-D	hac’ab	h a c’ a b	307
-1791	97	who	Tindi-D	imala	i m a l a	314
-1792	98	woman	Tindi-D	hakːuj	h a kː u j	317
-1793	99	yellow	Tindi-D	ačub	a č u b	320
-1794	100	you	Tindi-D	me	m e	328
-1795	101	far	Tindi-D	čːiwu	čː i w u	329
-1796	102	heavy	Tindi-D	hak’ubab	h a k’ u b a b	334
-1797	103	near	Tindi-D	beʟ’araqa	b e ʟ’ a r a q a	336
-1798	104	salt	Tindi-D	cãː	c ãː	342
-1799	105	short	Tindi-D	bečak’ub	b e č a k’ u b	343
-1800	106	snake	Tindi-D	bekʲa	b e kʲ a	346
-1801	107	thin	Tindi-D	beralab	b e r a l a b	347
-1802	108	wind	Tindi-D	muču	m u č u	349
-1803	109	worm	Tindi-D	čːičub bekʲa	čː i č u b  b e kʲ a	351
-1804	110	year	Tindi-D	rehan	r e h a n	357
-1805	2	ashes	Tlibisho	ʟ’ːej	ʟ’ː e j	5
-1806	3	bark	Tlibisho	qal	q a l	7
-1807	4	belly	Tlibisho	bak’ʷal	b a k’ʷ a l	11
-1808	5	big	Tlibisho	heč’ob	h e č’ o b	17
-1809	6	bird	Tlibisho	šakib	š a k i b	19
-1810	7	bite (V)	Tlibisho	q’ʷarigo	q’ʷ a r i g o	22
-1811	8	black	Tlibisho	beč’at’ob	b e č’ a t’ o b	28
-1812	9	blood	Tlibisho	her	h e r	31
-1813	10	bone	Tlibisho	raʟ’a	r a ʟ’ a	34
-1814	11	breast	Tlibisho	rak’ʷa	r a k’ʷ a	40
-1815	12	burn (V, TR)	Tlibisho	c’ahigo	c’ a h i g o	42
-1816	13	cloud	Tlibisho	hera	h e r a	48
-1817	14	cold	Tlibisho	zarob	z a r o b	57
-1818	16	die (V)	Tlibisho	wuč’ago	w u č’ a g o	60
-1819	17	dog	Tlibisho	xʷaj	xʷ a j	358
-1820	18	drink (V)	Tlibisho	c’arde idi	c’ a r d e  i d i	63
-1821	19	dry	Tlibisho	beq’ob	b e q’ o b	68
-1822	20	ear	Tlibisho	hanč’it’a	h a n č’ i t’ a	70
-1823	21	earth	Tlibisho	ũš	ũ š	73
-1824	22	eat (V)	Tlibisho	q’amigo	q’ a m i g o	74
-1825	23	egg	Tlibisho	č’eč’en	č’ e č’ e n	80
-1826	24	eye	Tlibisho	hač’a	h a č’ a	88
-1827	25	fat	Tlibisho	xʷãha	xʷ ã h a	96
-1828	26	feather	Tlibisho	pir	p i r	100
-1829	27	fire	Tlibisho	c’aj	c’ a j	102
-1830	28	fish	Tlibisho	šːʷaʕa	šːʷ a ʕ a	108
-1831	29	fly (V)	Tlibisho	ertingo	e r t i n g o	110
-1832	30	foot	Tlibisho	nuk	n u k	120
-1833	31	full	Tlibisho	bec’ob	b e c’ o b	124
-1834	32	give (V)	Tlibisho	bičigo	b i č i g o	131
-1835	33	go (V)	Tlibisho	woʟigo	w o ʟ i g o	39
-1836	34	good	Tlibisho	xow	x o w	132
-1837	35	green	Tlibisho	ʕačob	ʕ a č o b	137
-1838	36	hair	Tlibisho	buhura	b u h u r a	141
-1839	37	hand	Tlibisho	relʲa	r e lʲ a	144
-1840	38	head	Tlibisho	minar	m i n a r	148
-1841	39	hear (V)	Tlibisho	ãɬigo	ã ɬ i g o	150
-1842	40	heart	Tlibisho	rak’ʷa	r a k’ʷ a	152
-1843	41	horn	Tlibisho	bulʲa	b u lʲ a	154
-1844	42	I	Tlibisho	den	d e n	158
-1845	43	kill (V)	Tlibisho	k’obigo	k’ o b i g o	160
-1846	44	knee	Tlibisho	nuk	n u k	162
-1847	45	know (V)	Tlibisho	biʔida	b i ʔ i d a	167
-1848	46	leaf	Tlibisho	al	a l	171
-1849	47	lie (V)	Tlibisho	heligo	h e l i g o	179
-1850	48	liver	Tlibisho	releʟ	r e l e ʟ	180
-1851	49	long	Tlibisho	beχelob	b e χ e l o b	184
-1852	50	louse	Tlibisho	nac’	n a c’	185
-1853	51	man	Tlibisho	hek’u	h e k’ u	187
-1854	53	many	Tlibisho	hazadan	h a z a d a n	
-1855	54	meat	Tlibisho	riʟ’	r i ʟ’	192
-1856	55	moon	Tlibisho	boc’ʷ	b o c’ʷ	71
-1857	57	mouth	Tlibisho	helʲa	h e lʲ a	201
-1858	58	nail	Tlibisho	muɬ	m u ɬ	205
-1859	59	name	Tlibisho	c’ːer	c’ː e r	209
-1860	60	neck	Tlibisho	žar	ž a r	210
-1861	61	new	Tlibisho	c’inob	c’ i n o b	213
-1862	62	night	Tlibisho	rehedi	r e h e d i	214
-1863	63	nose	Tlibisho	miʕar	m i ʕ a r	215
-1864	64	not	Tlibisho	-č’e	č’ e	218
-1865	65	one	Tlibisho	ceb	c e b	220
-1866	66	rain	Tlibisho	c’aj	c’ a j	222
-1867	67	red	Tlibisho	šišob	š i š o b	225
-1868	68	road	Tlibisho	miq’	m i q’	227
-1869	69	root	Tlibisho	ħerʟ’em	ħ e r ʟ’ e m	229
-1870	70	round	Tlibisho	girgumob	g i r g u m o b	231
-1871	71	sand	Tlibisho	ũš	ũ š	238
-1872	72	say (V)	Tlibisho	basːingo	b a sː i n g o	242
-1873	73	see (V)	Tlibisho	haʔĩda	h a ʔ ĩ d a	244
-1874	74	seed	Tlibisho	xːũj	xː ũ j	250
-1875	75	sit (V)	Tlibisho	k’unigo	k’ u n i g o	261
-1876	77	sleep (V)	Tlibisho	ʟ’ãhe idi	ʟ’ ã h e  i d i	264
-1877	78	small	Tlibisho	mok’ob	m o k’ o b	267
-1878	79	smoke	Tlibisho	k’ːuj	k’ː u j	272
-1879	80	stand (V)	Tlibisho	woʁe idi	w o ʁ e  i d i	273
-1880	81	star	Tlibisho	c’ʷara	c’ʷ a r a	279
-1881	82	stone	Tlibisho	anča	a n č a	280
-1882	83	sun	Tlibisho	miɬ	m i ɬ	282
-1883	84	swim (V)	Tlibisho	kʷalago	kʷ a l a g o	285
-1884	85	tail	Tlibisho	miʁa	m i ʁ a	292
-1885	88	tongue	Tlibisho	mac’	m a c’	294
-1886	89	tooth	Tlibisho	sal	s a l	295
-1887	90	tree	Tlibisho	rošːa	r o šː a	297
-1888	91	two	Tlibisho	č’eda	č’ e d a	298
-1889	92	warm	Tlibisho	ansːab	a n sː a b	299
-1890	93	water	Tlibisho	ɬẽj	ɬ ẽ j	300
-1891	94	we	Tlibisho	išː	i šː	301
-1892	95	what	Tlibisho	hilʲa	h i lʲ a	
-1893	96	white	Tlibisho	hac’ab	h a c’ a b	307
-1894	97	who	Tlibisho	hemiga	h e m i g a	311
-1895	98	woman	Tlibisho	jašːi	j a šː i	319
-1896	99	yellow	Tlibisho	č’eč’eniʟ’erab	č’ e č’ e n i ʟ’ e r a b	325
-1897	100	you	Tlibisho	men	m e n	328
-1898	101	far	Tlibisho	č’id	č’ i d	329
-1899	102	heavy	Tlibisho	hač’ab	h a č’ a b	
-1900	103	near	Tlibisho	esːeʟi	e sː e ʟ i	
-1901	104	salt	Tlibisho	c’ãj	c’ ã j	342
-1902	105	short	Tlibisho	bačik’ob	b a č i k’ o b	343
-1903	106	snake	Tlibisho	berča	b e r č a	346
-1904	107	thin	Tlibisho	beralʲob	b e r a lʲ o b	347
-1905	108	wind	Tlibisho	muču	m u č u	349
-1906	109	worm	Tlibisho	žužuka	ž u ž u k a	350
-1907	110	year	Tlibisho	rešin	r e š i n	357
-1908	2	ashes	Tukita	ʟ’e	ʟ’ e	5
-1909	3	bark	Tukita	qal	q a l	7
-1910	4	belly	Tukita	bak’ʷal	b a k’ʷ a l	11
-1911	5	big	Tukita	hink’ʲaħab	h i n k’ʲ a ħ a b	64
-1912	6	bird	Tukita	šːakiba	šː a k i b a	19
-1913	7	bite (V)	Tukita	ħami	ħ a m i	25
-1914	8	black	Tukita	beč’et’irub	b e č’ e t’ i r u b	29
-1915	9	blood	Tukita	hini	h i n i	32
-1916	10	bone	Tukita	raʟ’i	r a ʟ’ i	34
-1917	11	breast	Tukita	kerin	k e r i n	38
-1918	12	burn (V, TR)	Tukita	boɬi	b o ɬ i	44
-1919	13	cloud	Tukita	ʟ’erhan	ʟ’ e r h a n	49
-1920	14	cold	Tukita	zariɬub	z a r i ɬ u b	54
-1921	16	die (V)	Tukita	wulʔa	w u l ʔ a	61
-1922	17	dog	Tukita	hoj	h o j	358
-1923	18	drink (V)	Tukita	c’ːali	c’ː a l i	63
-1924	19	dry	Tukita	beq’ub	b e q’ u b	68
-1925	20	ear	Tukita	hant’ik’ʲa	h a n t’ i k’ʲ a	69
-1926	21	earth	Tukita	ʕunšːi	ʕ u n šː i	73
-1927	22	eat (V)	Tukita	q’ame	q’ a m e	74
-1928	23	egg	Tukita	hanu	h a n u	84
-1929	24	eye	Tukita	hark’ʲa	h a r k’ʲ a	86
-1930	25	fat	Tukita	hani	h a n i	94
-1931	27	fire	Tukita	c’e	c’ e	102
-1932	28	fish	Tukita	čːuʕa	čː u ʕ a	108
-1933	29	fly (V)	Tukita	ɬabɬabili	ɬ a b ɬ a b i l i	112
-1934	30	foot	Tukita	c’ik’ʲa	c’ i k’ʲ a	116
-1935	31	full	Tukita	bec’ub	b e c’ u b	124
-1936	32	give (V)	Tukita	bixi	b i x i	
-1937	33	go (V)	Tukita	wũʔa	w ũ ʔ a	20
-1938	34	good	Tukita	xohuw	x o h u w	132
-1939	35	green	Tukita	žumilʟʼeridisː	ž u m i l ʟʼ e r i d i sː	35
-1940	36	hair	Tukita	bohura	b o h u r a	141
-1941	37	hand	Tukita	relʔa	r e l ʔ a	144
-1942	38	head	Tukita	minar	m i n a r	148
-1943	39	hear (V)	Tukita	anɬi	a n ɬ i	150
-1944	40	heart	Tukita	rak’ʷa	r a k’ʷ a	152
-1945	41	horn	Tukita	ʕoni	ʕ o n i	157
-1946	42	I	Tukita	dini	d i n i	158
-1947	43	kill (V)	Tukita	k’ːumi	k’ː u m i	
-1948	44	knee	Tukita	nuku	n u k u	162
-1949	45	know (V)	Tukita	biʕa	b i ʕ a	167
-1950	46	leaf	Tukita	alʔi	a l ʔ i	171
-1951	47	lie (V)	Tukita	gili	g i l i	177
-1952	48	liver	Tukita	relʔir	r e l ʔ i r	180
-1953	49	long	Tukita	beχːilab	b e χː i l a b	184
-1954	50	louse	Tukita	nac’ːi	n a c’ː i	185
-1955	51	man	Tukita	kunt’aw	k u n t’ a w	188
-1956	53	many	Tukita	ʟ’aniq	ʟ’ a n i q	394
-1957	54	meat	Tukita	riʟ’i	r i ʟ’ i	192
-1958	55	moon	Tukita	purc’ːi	p u r c’ː i	71
-1959	57	mouth	Tukita	sunk’ʲa	s u n k’ʲ a	199
-1960	58	nail	Tukita	muɬu	m u ɬ u	205
-1961	59	name	Tukita	c’er	c’ e r	209
-1962	60	neck	Tukita	geru	g e r u	210
-1963	61	new	Tukita	c’inub	c’ i n u b	213
-1964	62	night	Tukita	reɬa	r e ɬ a	214
-1965	63	nose	Tukita	miʕar	m i ʕ a r	215
-1966	64	not	Tukita	-č’i	č’ i	218
-1967	65	one	Tukita	ceb	c e b	220
-1968	66	rain	Tukita	c’ːoj	c’ː o j	222
-1969	67	red	Tukita	herub	h e r u b	226
-1970	68	road	Tukita	miq’i	m i q’ i	227
-1971	69	root	Tukita	heʟˈib	h e ʟˈ i b	229
-1972	70	round	Tukita	girgʲamub	g i r gʲ a m u b	231
-1973	71	sand	Tukita	sali	s a l i	236
-1974	72	say (V)	Tukita	keʟ’i	k e ʟ’ i	241
-1975	73	see (V)	Tukita	worde	w o r d e	245
-1976	74	seed	Tukita	xun	x u n	250
-1977	75	sit (V)	Tukita	kˈusuli	kˈ u s u l i	254
-1978	77	sleep (V)	Tukita	ʟ’iha	ʟ’ i h a	264
-1979	78	small	Tukita	muk’ub	m u k’ u b	267
-1980	79	smoke	Tukita	k’ːũj	k’ː ũ j	272
-1981	80	stand (V)	Tukita	iχitili	i χ i t i l i	275
-1982	81	star	Tukita	c’ːoj	c’ː o j	279
-1983	82	stone	Tukita	ʕanča	ʕ a n č a	280
-1984	83	sun	Tukita	miɬi	m i ɬ i	282
-1985	84	swim (V)	Tukita	ɬedili	ɬ e d i l i	286
-1986	85	tail	Tukita	miʁa	m i ʁ a	292
-1987	88	tongue	Tukita	macˈːi	m a cˈː i	294
-1988	89	tooth	Tukita	sali	s a l i	295
-1989	90	tree	Tukita	ruxʲa	r u xʲ a	297
-1990	91	two	Tukita	k’ek’i	k’ e k’ i	298
-1991	92	warm	Tukita	ansːab	a n sː a b	299
-1992	93	water	Tukita	ɬin	ɬ i n	300
-1993	94	we	Tukita	išːi	i šː i	301
-1994	95	what	Tukita	čuw	č u w	303
-1995	96	white	Tukita	qaħub	q a ħ u b	308
-1996	97	who	Tukita	čuw	č u w	310
-1997	98	woman	Tukita	hark’ːuj	h a r k’ː u j	317
-1998	99	yellow	Tukita	ʕačub	ʕ a č u b	320
-1999	100	you	Tukita	mini	m i n i	328
-2000	101	far	Tukita	č’ːidu	č’ː i d u	329
-2001	102	heavy	Tukita	hark’ibab	h a r k’ i b a b	334
-2002	103	near	Tukita	ʟarha	ʟ a r h a	337
-2003	104	salt	Tukita	c’ːan	c’ː a n	342
-2004	105	short	Tukita	bačak’ub	b a č a k’ u b	343
-2005	106	snake	Tukita	berkʲa	b e r kʲ a	346
-2006	107	thin	Tukita	belʔarab	b e l ʔ a r a b	347
-2007	108	wind	Tukita	muču	m u č u	349
-2008	109	worm	Tukita	ʕunšiχir	ʕ u n š i χ i r	354
-2009	110	year	Tukita	rexin	r e x i n	357
-2010	2	ashes	Zilo	ʟ’e	ʟ’ e	5
-2011	3	bark	Zilo	χal	χ a l	
-2012	4	belly	Zilo	reka	r e k a	10
-2013	5	big	Zilo	beč’uχa	b e č’ u χ a	15
-2014	6	bird	Zilo	šːekib	šː e k i b	19
-2015	7	bite (V)	Zilo	q’ammeri	q’ a m m e r i	23
-2016	8	black	Zilo	beč’edir	b e č’ e d i r	28
-2017	9	blood	Zilo	hiri	h i r i	31
-2018	10	bone	Zilo	roʟ’i	r o ʟ’ i	34
-2019	11	breast	Zilo	abur	a b u r	37
-2020	12	burn (V, TR)	Zilo	c’ateri	c’ a t e r i	43
-2021	13	cloud	Zilo	hiro	h i r o	48
-2022	14	cold	Zilo	sːodo	sː o d o	53
-2023	16	die (V)	Zilo	wuč’eri	w u č’ e r i	60
-2024	17	dog	Zilo	χʷej	χʷ e j	358
-2025	18	drink (V)	Zilo	c’ːaderi	c’ː a d e r i	62
-2026	19	dry	Zilo	beq’ub	b e q’ u b	68
-2027	20	ear	Zilo	hant’ik’a	h a n t’ i k’ a	69
-2028	21	earth	Zilo	onšː	o n šː	73
-2029	22	eat (V)	Zilo	k’ammir	k’ a m m i r	78
-2030	23	egg	Zilo	k’ork’on	k’ o r k’ o n	81
-2031	24	eye	Zilo	hark’ːu	h a r k’ː u	86
-2032	25	fat	Zilo	čora	č o r a	91
-2033	26	feather	Zilo	ɬiru	ɬ i r u	100
-2034	27	fire	Zilo	c’a	c’ a	102
-2035	28	fish	Zilo	χʷami	χʷ a m i	105
-2036	29	fly (V)	Zilo	bureri	b u r e r i	109
-2037	30	foot	Zilo	čunk’a	č u n k’ a	115
-2038	31	full	Zilo	bic’ːi	b i c’ː i	128
-2039	32	give (V)	Zilo	ičːo	i čː o	
-2040	33	go (V)	Zilo	woʔinnu	w o ʔ i n n u	20
-2041	34	good	Zilo	šːub	šː u b	134
-2042	35	green	Zilo	χʷejči	χʷ e j č i	138
-2043	36	hair	Zilo	ɬːin	ɬː i n	143
-2044	37	hand	Zilo	reʔa	r e ʔ a	144
-2045	38	head	Zilo	mijar	m i j a r	147
-2046	39	hear (V)	Zilo	anɬeri	a n ɬ e r i	150
-2047	40	heart	Zilo	rok’o	r o k’ o	152
-2048	41	horn	Zilo	ʁʷen	ʁʷ e n	157
-2049	42	I	Zilo	den	d e n	158
-2050	43	kill (V)	Zilo	ǯaberi	ǯ a b e r i	161
-2051	44	knee	Zilo	χink’il	χ i n k’ i l	163
-2052	45	know (V)	Zilo	c’ːinneri	c’ː i n n e r i	166
-2053	46	leaf	Zilo	ɬaχibol	ɬ a χ i b o l	172
-2054	47	lie (V)	Zilo	gireri	g i r e r i	174
-2055	48	liver	Zilo	reʔiʟi	r e ʔ i ʟ i	180
-2056	49	long	Zilo	beχːula	b e χː u l a	184
-2057	50	louse	Zilo	arpa	a r p a	
-2058	51	man	Zilo	kunt’ok’ʷa	k u n t’ o k’ʷ a	189
-2059	53	many	Zilo	biholgu	b i h o l g u	326
-2060	54	meat	Zilo	riʟ’i	r i ʟ’ i	192
-2061	55	moon	Zilo	porc’ːi	p o r c’ː i	71
-2062	57	mouth	Zilo	k’ol	k’ o l	198
-2063	58	nail	Zilo	muɬalol	m u ɬ a l o l	205
-2064	59	name	Zilo	c’ːer	c’ː e r	209
-2065	60	neck	Zilo	q’ʷãq’ʷã	q’ʷ ã q’ʷ ã	
-2066	61	new	Zilo	c’ĩw	c’ ĩ w	213
-2067	62	night	Zilo	reɬo	r e ɬ o	214
-2068	63	nose	Zilo	mahar	m a h a r	215
-2069	64	not	Zilo	-sːu	sː u	217
-2070	65	one	Zilo	seb	s e b	220
-2071	66	rain	Zilo	c’ːa	c’ː a	222
-2072	67	red	Zilo	hiri	h i r i	226
-2073	68	road	Zilo	miq’i	m i q’ i	227
-2074	69	root	Zilo	hiʟ’im	h i ʟ’ i m	229
-2075	70	round	Zilo	ɡurɡuma	ɡ u r ɡ u m a	231
-2076	71	sand	Zilo	sːur	sː u r	237
-2077	72	say (V)	Zilo	ruʟeri	r u ʟ e r i	239
-2078	73	see (V)	Zilo	haʔor	h a ʔ o r	244
-2079	74	seed	Zilo	šːen	šː e n	251
-2080	75	sit (V)	Zilo	hojk’ʷeri	h o j k’ʷ e r i	257
-2081	77	sleep (V)	Zilo	ʟ’iχinnu	ʟ’ i χ i n n u	264
-2082	78	small	Zilo	mič’ːi	m i č’ː i	267
-2083	79	smoke	Zilo	k’ʷej	k’ʷ e j	272
-2084	80	stand (V)	Zilo	jič’eri	j i č’ e r i	
-2085	81	star	Zilo	c’ʷa	c’ʷ a	279
-2086	82	stone	Zilo	hinc’o	h i n c’ o	425
-2087	83	sun	Zilo	miɬi	m i ɬ i	282
-2088	84	swim (V)	Zilo	kːoleri	kː o l e r i	284
-2089	85	tail	Zilo	moʁorč’u	m o ʁ o r č’ u	293
-2090	88	tongue	Zilo	mic’ːi	m i c’ː i	294
-2091	89	tooth	Zilo	sol	s o l	295
-2092	90	tree	Zilo	reša	r e š a	297
-2093	91	two	Zilo	č’egu	č’ e g u	298
-2094	92	warm	Zilo	unsːa	u n sː a	299
-2095	93	water	Zilo	ɬen	ɬ e n	300
-2096	94	we	Zilo	išːil	i šː i l	301
-2097	95	what	Zilo	ibʁi	i b ʁ i	302
-2098	96	white	Zilo	hac’a	h a c’ a	307
-2099	97	who	Zilo	imʁi	i m ʁ i	313
-2100	98	woman	Zilo	jošik’ʷa	j o š i k’ʷ a	319
-2101	99	yellow	Zilo	čakːu	č a kː u	321
-2102	100	you	Zilo	men	m e n	328
-2103	101	far	Zilo	elola	e l o l a	330
-2104	102	heavy	Zilo	howk’oru	h o w k’ o r u	335
-2105	103	near	Zilo	ʟeru	ʟ e r u	337
-2106	104	salt	Zilo	c’ːon	c’ː o n	342
-2107	105	short	Zilo	bočo	b o č o	345
-2108	106	snake	Zilo	berka	b e r k a	346
-2109	107	thin	Zilo	beʔora	b e ʔ o r a	347
-2110	108	wind	Zilo	moči	m o č i	349
-2111	109	worm	Zilo	šːiršːil	šː i r šː i l	353
-2112	110	year	Zilo	rešin	r e š i n	357
+405	2	ashes	Chadokolob-D	roqo	r o q o	41
+406	3	bark	Chadokolob-D	maq’ar	m a q’ a r	54
+407	4	belly	Chadokolob-D	čex	č e x	66
+408	5	big	Chadokolob-D	k’udab	k’ u d a b	113
+409	6	bird	Chadokolob-D	ħinc’	ħ i n c’	182
+410	7	bite (V)	Chadokolob-D	q’amri	q’ a m r i	23
+411	8	black	Chadokolob-D	č’eʕerab	č’ e ʕ e r a b	33
+412	9	blood	Chadokolob-D	bi	b i	360
+413	10	bone	Chadokolob-D	raʟ’a	r a ʟ’ a	34
+414	11	breast	Chadokolob-D	keren	k e r e n	38
+415	12	burn (V, TR)	Chadokolob-D	q’aʁri	q’ a ʁ r i	361
+416	13	cloud	Chadokolob-D	nak’	n a k’	362
+417	14	cold	Chadokolob-D	c’ororab	c’ o r o r a b	363
+418	16	die (V)	Chadokolob-D	ħʷa	ħʷ a	364
+419	17	dog	Chadokolob-D	hʷe	hʷ e	358
+420	18	drink (V)	Chadokolob-D	q’a	q’ a	365
+421	19	dry	Chadokolob-D	buq’arab	b u q’ a r a b	2
+422	20	ear	Chadokolob-D	ʕin	ʕ i n	366
+423	21	earth	Chadokolob-D	raʟ’	r a ʟ’	368
+424	22	eat (V)	Chadokolob-D	kʷa	kʷ a	441
+425	23	egg	Chadokolob-D	ħono	ħ o n o	83
+426	24	eye	Chadokolob-D	ber	b e r	369
+427	25	fat	Chadokolob-D	ʟ’arati	ʟ’ a r a t i	372
+428	26	feather	Chadokolob-D	mitir	m i t i r	373
+429	27	fire	Chadokolob-D	č’a	č’ a	102
+430	28	fish	Chadokolob-D	cuʕa	c u ʕ a	25
+431	29	fly (V)	Chadokolob-D	borža	b o r ž a	3
+432	30	foot	Chadokolob-D	maħu	m a ħ u	375
+433	31	full	Chadokolob-D	č’urab	č’ u r a b	376
+434	32	give (V)	Chadokolob-D	ʟ’uri	ʟ’ u r i	377
+435	33	go (V)	Chadokolob-D	baʟa	b a ʟ a	39
+436	35	green	Chadokolob-D	c’aħilab	c’ a ħ i l a b	378
+437	36	hair	Chadokolob-D	raš	r a š	380
+438	37	hand	Chadokolob-D	ruʟ’	r u ʟ’	29
+439	38	head	Chadokolob-D	bet’er	b e t’ e r	381
+440	39	hear (V)	Chadokolob-D	riʔri	r i ʔ r i	382
+441	40	heart	Chadokolob-D	rak’	r a k’	152
+442	41	horn	Chadokolob-D	ʟar	ʟ a r	151
+443	42	I	Chadokolob-D	dun	d u n	158
+444	43	kill (V)	Chadokolob-D	č’ʷari	č’ʷ a r i	134
+445	44	knee	Chadokolob-D	naku	n a k u	162
+446	45	know (V)	Chadokolob-D	tari	t a r i	383
+447	46	leaf	Chadokolob-D	t’amaħ	t’ a m a ħ	386
+448	47	lie (V)	Chadokolob-D	wega	w e g a	387
+449	48	liver	Chadokolob-D	t’ul	t’ u l	388
+450	49	long	Chadokolob-D	χaladab	χ a l a d a b	183
+451	50	louse	Chadokolob-D	nac’	n a c’	185
+452	51	man	Chadokolob-D	či	č i	186
+453	53	many	Chadokolob-D	ʕemer	ʕ e m e r	392
+454	54	meat	Chadokolob-D	han	h a n	393
+455	55	moon	Chadokolob-D	moc’	m o c’	71
+456	57	mouth	Chadokolob-D	k’al	k’ a l	198
+457	58	nail	Chadokolob-D	mat	m a t	395
+458	59	name	Chadokolob-D	c’ar	c’ a r	209
+459	60	neck	Chadokolob-D	gubur	g u b u r	397
+460	61	new	Chadokolob-D	č’ijab	č’ i j a b	213
+461	62	night	Chadokolob-D	šoldo	š o l d o	398
+462	63	nose	Chadokolob-D	χumuχ	χ u m u χ	399
+463	65	one	Chadokolob-D	šo	š o	220
+464	66	rain	Chadokolob-D	c’ad	c’ a d	222
+465	67	red	Chadokolob-D	baʕarab	b a ʕ a r a b	400
+466	68	road	Chadokolob-D	nuħ	n u ħ	402
+467	69	root	Chadokolob-D	ʟ’ibil	ʟ’ i b i l	228
+468	70	round	Chadokolob-D	gurginab	g u r g i n a b	231
+469	71	sand	Chadokolob-D	muceru	m u c e r u	404
+470	72	say (V)	Chadokolob-D	biša	b i š a	424
+471	73	see (V)	Chadokolob-D	bexri	b e x r i	405
+472	74	seed	Chadokolob-D	xum	x u m	250
+473	75	sit (V)	Chadokolob-D	waʕunc’ʷa	w a ʕ u n  c’ʷ a	243
+474	77	sleep (V)	Chadokolob-D	ʟ’it’ri	ʟ’ i t’ r i	251
+475	78	small	Chadokolob-D	t’iħinč’ab	t’ i ħ i n č’ a b	408
+476	79	smoke	Chadokolob-D	k’ʷi	k’ʷ i	272
+477	80	stand (V)	Chadokolob-D	t’awoqa	t’ a w o q a	442
+478	81	star	Chadokolob-D	c’ʷa	c’ʷ a	278
+479	82	stone	Chadokolob-D	gamač’	g a m a č’	412
+480	83	sun	Chadokolob-D	baq’	b a q’	414
+481	85	tail	Chadokolob-D	maʁ	m a ʁ	292
+482	88	tongue	Chadokolob-D	mac’	m a c’	294
+483	89	tooth	Chadokolob-D	šibi	š i b i	170
+484	90	tree	Chadokolob-D	ʁʷet’	ʁʷ e t’	416
+485	91	two	Chadokolob-D	k’igu	k’ i g u	298
+486	92	warm	Chadokolob-D	χenab	χ e n a b	417
+487	93	water	Chadokolob-D	ɬim	ɬ i m	300
+488	94	we	Chadokolob-D	niž	n i ž	201
+489	95	what	Chadokolob-D	sib	s i b	418
+490	96	white	Chadokolob-D	qaħab	q a ħ a b	301
+491	97	who	Chadokolob-D	su	s u	426
+492	98	woman	Chadokolob-D	ʕadam	ʕ a d a m	318
+493	99	yellow	Chadokolob-D	mač’ab	m a č’ a b	422
+494	100	you	Chadokolob-D	mun	m u n	328
+495	101	far	Chadokolob-D	rik’ad	r i k’ a d	370
+496	102	heavy	Chadokolob-D	bak’ab	b a k’ a b	335
+497	103	near	Chadokolob-D	ašk’u	a š k’ u	396
+498	104	salt	Chadokolob-D	c’am	c’ a m	342
+499	105	short	Chadokolob-D	q’uq’ab	q’ u q’ a b	406
+500	106	snake	Chadokolob-D	burux	b u r u x	410
+501	107	thin	Chadokolob-D	t’erenab	t’ e r e n a b	347
+502	108	wind	Chadokolob-D	huri	h u r i	419
+503	109	worm	Chadokolob-D	ʕarxu burux	ʕ a r x u  b u r u x	421
+504	110	year	Chadokolob-D	šon	š o n	357
+505	2	ashes	Gagatli-D	ʟ’e	ʟ’ e	5
+506	3	bark	Gagatli-D	maq’ar	m a q’ a r	
+507	4	belly	Gagatli-D	ʁʷaʁʷači	ʁʷ a ʁʷ a č i	12
+508	5	big	Gagatli-D	beč’uχa	b e č’ u χ a	15
+509	6	bird	Gagatli-D	šːekib	šː e k i b	19
+510	7	bite (V)	Gagatli-D	q’ammu	q’ a m m u	23
+511	8	black	Gagatli-D	beč’edir	b e č’ e d i r	33
+512	9	blood	Gagatli-D	hin	h i n	32
+513	10	bone	Gagatli-D	roʟ’i	r o ʟ’ i	34
+514	11	breast	Gagatli-D	labur	l a b u r	428
+515	12	burn (V, TR)	Gagatli-D	c’atidu	c’ a t i d u	43
+516	13	cloud	Gagatli-D	hiro	h i r o	48
+517	14	cold	Gagatli-D	sodo	s o d o	53
+518	16	die (V)	Gagatli-D	bič’idu	b i č’ i d u	60
+519	17	dog	Gagatli-D	χoj	χ o j	358
+520	18	drink (V)	Gagatli-D	c’ːadu	c’ː a d u	52
+521	19	dry	Gagatli-D	beq’ub	b e q’ u b	2
+522	20	ear	Gagatli-D	hant’ik’a	h a n t’ i k’ a	366
+523	21	earth	Gagatli-D	onšːi	o n šː i	73
+524	22	eat (V)	Gagatli-D	k’ammu	k’ a m m u	78
+525	23	egg	Gagatli-D	k’ork’on	k’ o r k’ o n	80
+526	24	eye	Gagatli-D	hark’u	h a r k’ u	86
+527	25	fat	Gagatli-D	beʔenɬir	b e ʔ e n ɬ i r	
+528	26	feather	Gagatli-D	ɬiru	ɬ i r u	100
+529	27	fire	Gagatli-D	c’a	c’ a	102
+530	28	fish	Gagatli-D	χʷami	χʷ a m i	105
+531	29	fly (V)	Gagatli-D	buru	b u r u	109
+532	30	foot	Gagatli-D	čuk’a	č u k’ a	9
+533	31	full	Gagatli-D	bic’ib	b i c’ i b	128
+534	32	give (V)	Gagatli-D	čːidu	čː i d u	4
+535	33	go (V)	Gagatli-D	beʟidu	b e ʟ i d u	39
+536	34	good	Gagatli-D	šub	š u b	135
+537	35	green	Gagatli-D	χːoči	χː o č i	138
+538	36	hair	Gagatli-D	ɬin	ɬ i n	143
+539	37	hand	Gagatli-D	rela	r e l a	144
+540	38	head	Gagatli-D	mijar	m i j a r	147
+541	39	hear (V)	Gagatli-D	anɬidu	a n ɬ i d u	150
+542	40	heart	Gagatli-D	rok’o	r o k’ o	152
+543	41	horn	Gagatli-D	ɢon	ɢ o n	157
+544	42	I	Gagatli-D	den	d e n	158
+545	43	kill (V)	Gagatli-D	č’ːabu	č’ː a b u	129
+546	44	knee	Gagatli-D	nikoluʟi q’inil	n i k o l u ʟ i  q’ i n i l	162
+547	45	know (V)	Gagatli-D	c’innu	c’ i n n u	166
+548	46	leaf	Gagatli-D	ɬaχib	ɬ a χ i b	168
+549	47	lie (V)	Gagatli-D	giru	g i r u	174
+550	48	liver	Gagatli-D	reliʟi	r e l i ʟ i	180
+551	49	long	Gagatli-D	beχːula	b e χː u l a	183
+552	50	louse	Gagatli-D	noc’ːi	n o c’ː i	185
+553	51	man	Gagatli-D	kunt’ak’a	k u n t’ a k’ a	188
+554	53	many	Gagatli-D	bihu	b i h u	423
+555	54	meat	Gagatli-D	riʟ’i	r i ʟ’ i	192
+556	55	moon	Gagatli-D	porc’ːi	p o r c’ː i	71
+557	57	mouth	Gagatli-D	k’ol	k’ o l	198
+558	58	nail	Gagatli-D	muɬa	m u ɬ a	205
+559	59	name	Gagatli-D	c’ːer	c’ː e r	209
+560	60	neck	Gagatli-D	garu	g a r u	210
+561	61	new	Gagatli-D	c’iw	c’ i w	213
+562	62	night	Gagatli-D	reɬo	r e ɬ o	214
+563	63	nose	Gagatli-D	mahar	m a h a r	215
+564	65	one	Gagatli-D	seb	s e b	220
+565	66	rain	Gagatli-D	c’ːa	c’ː a	222
+566	67	red	Gagatli-D	hiri	h i r i	223
+567	68	road	Gagatli-D	miq’i	m i q’ i	227
+568	69	root	Gagatli-D	hiʟ’im	h i ʟ’ i m	228
+569	70	round	Gagatli-D	gurguma	g u r g u m a	231
+570	71	sand	Gagatli-D	sur	s u r	237
+571	72	say (V)	Gagatli-D	ruʟidu	r u ʟ i d u	239
+572	73	see (V)	Gagatli-D	haɢidu	h a ɢ i d u	244
+573	74	seed	Gagatli-D	šen	š e n	250
+574	75	sit (V)	Gagatli-D	hoɢubik’udu	h o ɢ u  b i k’ u d u	230
+575	77	sleep (V)	Gagatli-D	ʟ’iχinnu	ʟ’ i χ i n n u	251
+576	78	small	Gagatli-D	mit’i	m i t’ i	258
+577	79	smoke	Gagatli-D	k’ːoj	k’ː o j	272
+578	80	stand (V)	Gagatli-D	zudibiʁedu	z u d i  b i ʁ e d u	273
+579	81	star	Gagatli-D	c’ːa	c’ː a	278
+580	82	stone	Gagatli-D	hinc’o	h i n c’ o	425
+581	83	sun	Gagatli-D	miɬi	m i ɬ i	282
+582	84	swim (V)	Gagatli-D	kollu	k o l l u	104
+583	85	tail	Gagatli-D	miʁerč’ːu	m i ʁ e r č’ː u	292
+584	88	tongue	Gagatli-D	mic’ːi	m i c’ː i	294
+585	89	tooth	Gagatli-D	sol	s o l	296
+586	90	tree	Gagatli-D	reša	r e š a	297
+587	91	two	Gagatli-D	č’egu	č’ e g u	298
+588	92	warm	Gagatli-D	unsːa	u n sː a	299
+589	93	water	Gagatli-D	ɬːen	ɬː e n	300
+590	94	we	Gagatli-D	išːil	i šː i l	201
+591	95	what	Gagatli-D	ib	i b	229
+592	96	white	Gagatli-D	hac’a	h a c’ a	307
+593	97	who	Gagatli-D	imʁi	i m ʁ i	311
+594	98	woman	Gagatli-D	ješk’a	j e š k’ a	319
+595	99	yellow	Gagatli-D	čakːu	č a kː u	321
+596	100	you	Gagatli-D	men	m e n	328
+597	101	far	Gagatli-D	lelo	l e l o	330
+598	102	heavy	Gagatli-D	hok’oru	h o k’ o r u	335
+599	103	near	Gagatli-D	ɬonnor	ɬ o n n o r	
+600	104	salt	Gagatli-D	c’ːon	c’ː o n	342
+601	105	short	Gagatli-D	bočo	b o č o	343
+602	106	snake	Gagatli-D	berka	b e r k a	346
+603	107	thin	Gagatli-D	wolora	w o l o r a	347
+604	108	wind	Gagatli-D	moči	m o č i	349
+605	109	worm	Gagatli-D	ʁabara	ʁ a b a r a	352
+606	110	year	Gagatli-D	rešin	r e š i n	357
+607	2	ashes	Gigatli-D	ʟ’ej	ʟ’ e j	5
+608	3	bark	Gigatli-D	qal	q a l	
+609	4	belly	Gigatli-D	χunc’a	χ u n c’ a	439
+610	5	big	Gigatli-D	mihab	m i h a b	1
+611	6	bird	Gigatli-D	sečib	s e č i b	19
+612	7	bite (V)	Gigatli-D	q’ami	q’ a m i	23
+613	8	black	Gigatli-D	beč’ar	b e č’ a r	33
+614	9	blood	Gigatli-D	hiri	h i r i	31
+615	10	bone	Gigatli-D	raʟ’il	r a ʟ’ i l	34
+616	11	breast	Gigatli-D	niχi	n i χ i	16
+617	12	burn (V, TR)	Gigatli-D	bikã	b i k ã	45
+618	13	cloud	Gigatli-D	hanna	h a n n a	47
+619	14	cold	Gigatli-D	saj	s a j	53
+620	16	die (V)	Gigatli-D	bič’a	b i č’ a	60
+621	17	dog	Gigatli-D	χoj	χ o j	358
+622	18	drink (V)	Gigatli-D	χːudi	χː u d i	65
+623	19	dry	Gigatli-D	beq’u	b e q’ u	2
+624	20	ear	Gigatli-D	hanč’a	h a n č’ a	366
+625	21	earth	Gigatli-D	unsːi	u n sː i	73
+626	22	eat (V)	Gigatli-D	ami	a m i	75
+627	23	egg	Gigatli-D	k’uč’an	k’ u č’ a n	80
+628	24	eye	Gigatli-D	haj	h a j	86
+629	25	fat	Gigatli-D	ɬani	ɬ a n i	94
+630	26	feather	Gigatli-D	čaj	č a j	98
+631	27	fire	Gigatli-D	c’aj	c’ a j	102
+632	28	fish	Gigatli-D	čoʕa	č o ʕ a	
+633	29	fly (V)	Gigatli-D	wuc’ã	w u c’ ã	88
+634	30	foot	Gigatli-D	reʁil	r e ʁ i l	117
+635	31	full	Gigatli-D	bizzalib	b i z z a l i b	128
+636	32	give (V)	Gigatli-D	iči	i č i	4
+637	33	go (V)	Gigatli-D	muna	m u n a	20
+638	35	green	Gigatli-D	besiʟ	b e s i ʟ	139
+639	36	hair	Gigatli-D	čaj	č a j	142
+640	37	hand	Gigatli-D	ʁažu	ʁ a ž u	145
+641	38	head	Gigatli-D	uni	u n i	149
+642	39	hear (V)	Gigatli-D	ruɬi	r u ɬ i	150
+643	40	heart	Gigatli-D	rak’a	r a k’ a	152
+644	41	horn	Gigatli-D	č’amu	č’ a m u	155
+645	42	I	Gigatli-D	dew	d e w	158
+646	43	kill (V)	Gigatli-D	hibi	h i b i	132
+647	44	knee	Gigatli-D	nikal	n i k a l	162
+648	45	know (V)	Gigatli-D	beχu	b e χ u	384
+649	46	leaf	Gigatli-D	apal	a p a l	385
+650	47	lie (V)	Gigatli-D	garadi	g a r a d i	174
+651	48	liver	Gigatli-D	rellaʟ	r e l l a ʟ	180
+652	49	long	Gigatli-D	beχːilab	b e χː i l a b	183
+653	50	louse	Gigatli-D	nac’i	n a c’ i	185
+654	51	man	Gigatli-D	adan	a d a n	
+655	53	many	Gigatli-D	beʁu	b e ʁ u	190
+656	54	meat	Gigatli-D	reʟ’i	r e ʟ’ i	192
+657	55	moon	Gigatli-D	buc’u	b u c’ u	71
+658	57	mouth	Gigatli-D	elmic’i	e l m i c’ i	203
+659	58	nail	Gigatli-D	ɬũj	ɬ ũ j	205
+660	59	name	Gigatli-D	c’eri	c’ e r i	209
+661	60	neck	Gigatli-D	ӡ̌aru	ӡ̌ a r u	210
+662	61	new	Gigatli-D	c’ĩ	c’ ĩ	213
+663	62	night	Gigatli-D	reɬa	r e ɬ a	214
+664	63	nose	Gigatli-D	mara	m a r a	215
+665	65	one	Gigatli-D	seb	s e b	220
+666	66	rain	Gigatli-D	c’aj	c’ a j	222
+667	67	red	Gigatli-D	bekuʟ	b e k u ʟ	401
+668	68	road	Gigatli-D	miq’i	m i q’ i	227
+669	69	root	Gigatli-D	hiʟ’im	h i ʟ’ i m	228
+670	70	round	Gigatli-D	gurginab	g u r g i n a b	
+671	71	sand	Gigatli-D	sira	s i r a	237
+672	72	say (V)	Gigatli-D	hiʟ’i	h i ʟ’ i	240
+673	73	see (V)	Gigatli-D	haʔa	h a ʔ a	244
+674	74	seed	Gigatli-D	huni	h u n i	250
+675	75	sit (V)	Gigatli-D	hac’ar wuk’ula	h a c’ a r  w u k’ u l a	256
+676	77	sleep (V)	Gigatli-D	ʟ’iχã	ʟ’ i χ ã	251
+677	78	small	Gigatli-D	t’annab	t’ a n n a b	270
+678	79	smoke	Gigatli-D	sːusːu	sː u sː u	271
+679	80	stand (V)	Gigatli-D	hinc’i	h i n c’ i	274
+680	81	star	Gigatli-D	c’aka	c’ a k a	278
+681	82	stone	Gigatli-D	č’aq’a	č’ a q’ a	413
+682	83	sun	Gigatli-D	miɬi	m i ɬ i	282
+683	85	tail	Gigatli-D	miʁa	m i ʁ a	292
+684	88	tongue	Gigatli-D	mic’i	m i c’ i	294
+685	89	tooth	Gigatli-D	suj	s u j	445
+686	90	tree	Gigatli-D	ruša	r u š a	297
+687	91	two	Gigatli-D	č’eda	č’ e d a	298
+688	92	warm	Gigatli-D	ansːab	a n sː a b	299
+689	93	water	Gigatli-D	ɬːĩ	ɬː ĩ	300
+690	94	we	Gigatli-D	isːi	i sː i	201
+691	95	what	Gigatli-D	iχo	i χ o	206
+692	96	white	Gigatli-D	hazil	h a z i l	307
+693	97	who	Gigatli-D	ik’o	i k’ o	308
+694	98	woman	Gigatli-D	hac’i	h a c’ i	317
+695	99	yellow	Gigatli-D	aču	a č u	320
+696	100	you	Gigatli-D	miw	m i w	328
+697	101	far	Gigatli-D	iʔidu	i ʔ i d u	371
+698	102	heavy	Gigatli-D	hak’ubab	h a k’ u b a b	335
+699	103	near	Gigatli-D	isuqala	i s u q a l a	312
+700	104	salt	Gigatli-D	c’ãj	c’ ã j	342
+701	105	short	Gigatli-D	bačak’ab	b a č a k’ a b	343
+702	106	snake	Gigatli-D	beča	b e č a	346
+703	107	thin	Gigatli-D	bellarab	b e l l a r a b	347
+704	108	wind	Gigatli-D	muču	m u č u	349
+705	109	worm	Gigatli-D	sːant’i beča	sː a n t’ i  b e č a	351
+706	110	year	Gigatli-D	reši	r e š i	357
+707	2	ashes	Godoberi-D	ʟ’ej	ʟ’ e j	5
+708	3	bark	Godoberi-D	q’eč’u	q’ e č’ u	8
+709	4	belly	Godoberi-D	rekʲa	r e kʲ a	10
+710	5	big	Godoberi-D	beč’uχa	b e č’ u χ a	15
+711	6	bird	Godoberi-D	šːikim	šː i k i m	19
+712	7	bite (V)	Godoberi-D	q’ami	q’ a m i	23
+713	8	black	Godoberi-D	beč’er	b e č’ e r	33
+714	9	blood	Godoberi-D	hiri	h i r i	31
+715	10	bone	Godoberi-D	raʟin	r a ʟ i n	34
+716	11	breast	Godoberi-D	niχi	n i χ i	16
+717	12	burn (V, TR)	Godoberi-D	c’atali	c’ a t a l i	43
+718	13	cloud	Godoberi-D	hanlu	h a n l u	47
+719	14	cold	Godoberi-D	sati	s a t i	53
+720	16	die (V)	Godoberi-D	wuč’a	w u č’ a	60
+721	17	dog	Godoberi-D	χʷaji	χʷ a j i	358
+722	18	drink (V)	Godoberi-D	χːudi	χː u d i	65
+723	19	dry	Godoberi-D	beq’u	b e q’ u	2
+724	20	ear	Godoberi-D	hant’uk’ʲa	h a n t’ u k’ʲ a	366
+725	21	earth	Godoberi-D	raʟ’i	r a ʟ’ i	
+726	22	eat (V)	Godoberi-D	ami	a m i	75
+727	23	egg	Godoberi-D	ʁarʁanu	ʁ a r ʁ a n u	82
+728	24	eye	Godoberi-D	haj	h a j	86
+729	25	fat	Godoberi-D	čaraɬir	č a r a ɬ i r	77
+730	26	feather	Godoberi-D	ɬeru	ɬ e r u	100
+731	27	fire	Godoberi-D	c’aj	c’ a j	102
+732	28	fish	Godoberi-D	čuʕa	č u ʕ a	
+733	29	fly (V)	Godoberi-D	burdi	b u r d i	109
+734	30	foot	Godoberi-D	reʁil	r e ʁ i l	117
+735	31	full	Godoberi-D	bec’ibu	b e c’ i b u	128
+736	33	go (V)	Godoberi-D	wuna	w u n a	20
+737	34	good	Godoberi-D	šub	š u b	135
+738	35	green	Godoberi-D	χːaji	χː a j i	138
+739	36	hair	Godoberi-D	basa	b a s a	140
+740	37	hand	Godoberi-D	ʁaži	ʁ a ž i	145
+741	38	head	Godoberi-D	wani	w a n i	149
+742	39	hear (V)	Godoberi-D	anɬa	a n ɬ a	150
+743	40	heart	Godoberi-D	rak’ʷa	r a k’ʷ a	152
+744	41	horn	Godoberi-D	k’ʲamil	k’ʲ a m i l	155
+745	42	I	Godoberi-D	den	d e n	158
+746	43	kill (V)	Godoberi-D	kːʷanni	kːʷ a n n i	159
+747	44	knee	Godoberi-D	nuku	n u k u	162
+748	45	know (V)	Godoberi-D	biʔa	b i ʔ a	169
+749	46	leaf	Godoberi-D	χaɬab	χ a ɬ a b	168
+750	47	lie (V)	Godoberi-D	woraχːi	w o r a χː i	175
+751	48	liver	Godoberi-D	leliʟa	l e l i ʟ a	180
+752	49	long	Godoberi-D	beχːila	b e χː i l a	183
+753	50	louse	Godoberi-D	nacːi	n a cː i	185
+754	51	man	Godoberi-D	kunt’a	k u n t’ a	188
+755	53	many	Godoberi-D	beːʁu	b eː ʁ u	190
+756	54	meat	Godoberi-D	riʟ’i	r i ʟ’ i	192
+757	55	moon	Godoberi-D	purcːu	p u r cː u	71
+758	57	mouth	Godoberi-D	elli	e l l i	203
+759	58	nail	Godoberi-D	ɬumul	ɬ u m u l	205
+760	59	name	Godoberi-D	cːeri	cː e r i	209
+761	60	neck	Godoberi-D	gʲaru	gʲ a r u	210
+762	61	new	Godoberi-D	c’uwũ	c’ u w ũ	213
+763	62	night	Godoberi-D	reɬa	r e ɬ a	214
+764	63	nose	Godoberi-D	mihar	m i h a r	215
+765	65	one	Godoberi-D	ceb	c e b	220
+766	66	rain	Godoberi-D	cːai	cː a i	222
+767	67	red	Godoberi-D	irχːa	i r χː a	224
+768	68	road	Godoberi-D	miq’i	m i q’ i	227
+769	69	root	Godoberi-D	hiʟ’im	h i ʟ’ i m	228
+770	70	round	Godoberi-D	girgʲamu	g i r gʲ a m u	231
+771	71	sand	Godoberi-D	unšːi	u n šː i	238
+772	72	say (V)	Godoberi-D	hiʟ’i	h i ʟ’ i	240
+773	73	see (V)	Godoberi-D	haʔa	h a ʔ a	244
+774	74	seed	Godoberi-D	šuni	š u n i	250
+775	75	sit (V)	Godoberi-D	ačːaru wuk’a	a čː a r u  w u k’ a	256
+776	77	sleep (V)	Godoberi-D	ʁumi	ʁ u m i	265
+777	78	small	Godoberi-D	mik’isːi	m i k’ i sː i	267
+778	79	smoke	Godoberi-D	sːuri	sː u r i	271
+779	80	stand (V)	Godoberi-D	hičːi	h i čː i	274
+780	81	star	Godoberi-D	cːaj	cː a j	278
+781	82	stone	Godoberi-D	anča	a n č a	280
+782	83	sun	Godoberi-D	miɬi	m i ɬ i	282
+783	84	swim (V)	Godoberi-D	kːʷardi	kːʷ a r d i	46
+784	85	tail	Godoberi-D	miʁa	m i ʁ a	292
+785	88	tongue	Godoberi-D	micːi	m i cː i	294
+786	89	tooth	Godoberi-D	suk’i	s u k’ i	295
+787	90	tree	Godoberi-D	ruša	r u š a	297
+788	91	two	Godoberi-D	k’eda	k’ e d a	298
+789	92	warm	Godoberi-D	ansːa	a n sː a	299
+790	93	water	Godoberi-D	ɬːeni	ɬː e n i	300
+791	94	we	Godoberi-D	išːe	i šː e	201
+792	95	what	Godoberi-D	ebu	e b u	229
+793	96	white	Godoberi-D	hac’a	h a c’ a	307
+794	97	who	Godoberi-D	ewu	e w u	311
+795	98	woman	Godoberi-D	harkːi	h a r kː i	317
+796	99	yellow	Godoberi-D	čːakːu	čː a kː u	321
+797	100	you	Godoberi-D	min	m i n	328
+798	101	far	Godoberi-D	beʟ’ata	b e ʟ’ a t a	333
+799	102	heavy	Godoberi-D	hak’ubab	h a k’ u b a b	335
+800	103	near	Godoberi-D	isːibala	i sː i b a l a	312
+801	104	salt	Godoberi-D	cːãĩ	cː ã ĩ	342
+802	105	short	Godoberi-D	bačik’i	b a č i k’ i	343
+803	106	snake	Godoberi-D	berkʲa	b e r kʲ a	346
+804	107	thin	Godoberi-D	bellarab	b e l l a r a b	347
+805	108	wind	Godoberi-D	muču	m u č u	349
+806	109	worm	Godoberi-D	šːikʲara	šː i kʲ a r a	356
+807	110	year	Godoberi-D	reši	r e š i	357
+808	2	ashes	Karata	ʟ’ej	ʟ’ e j	5
+809	3	bark	Karata	maq’ara	m a q’ a r a	
+810	4	belly	Karata	bak’ʷal	b a k’ʷ a l	11
+811	5	big	Karata	herk’am	h e r k’ a m	64
+812	6	bird	Karata	šːakibo	šː a k i b o	19
+813	7	bite (V)	Karata	q’ʷare	q’ʷ a r e	22
+814	8	black	Karata	beč’et’irob	b e č’ e t’ i r o b	33
+815	9	blood	Karata	heri	h e r i	31
+816	10	bone	Karata	raʟ’e	r a ʟ’ e	34
+817	11	breast	Karata	niχe	n i χ e	16
+818	12	burn (V, TR)	Karata	c’ahe	c’ a h e	43
+819	13	cloud	Karata	hank’u	h a n k’ u	47
+820	14	cold	Karata	zaruʁub	z a r u ʁ u b	42
+821	16	die (V)	Karata	wuč’a	w u č’ a	60
+822	17	dog	Karata	χʷaj	χʷ a j	358
+823	18	drink (V)	Karata	c’ːare	c’ː a r e	52
+824	19	dry	Karata	beq’ub	b e q’ u b	2
+825	20	ear	Karata	hant’ik’a	h a n t’ i k’ a	366
+826	21	earth	Karata	unši	u n š i	73
+827	22	eat (V)	Karata	q’amda	q’ a m d a	74
+828	23	egg	Karata	k’ark’an	k’ a r k’ a n	80
+829	24	eye	Karata	hark’a	h a r k’ a	86
+830	25	fat	Karata	xʷajmo	xʷ a j m o	96
+831	26	feather	Karata	ħule	ħ u l e	
+832	27	fire	Karata	c’aj	c’ a j	102
+833	28	fish	Karata	čːuʕa	čː u ʕ a	
+834	29	fly (V)	Karata	ertã	e r t ã	110
+835	30	foot	Karata	c’ek’a	c’ e k’ a	116
+836	31	full	Karata	bec’ob	b e c’ o b	128
+837	32	give (V)	Karata	bekːe	b e kː e	4
+838	33	go (V)	Karata	woʔã	w o ʔ ã	20
+839	34	good	Karata	xohow	x o h o w	135
+840	35	green	Karata	ʕačob	ʕ a č o b	137
+841	36	hair	Karata	buhura	b u h u r a	141
+842	37	hand	Karata	rek’a	r e k’ a	144
+843	38	head	Karata	haduʔa	h a d u ʔ a	146
+844	39	hear (V)	Karata	ãɬe	ã ɬ e	150
+845	40	heart	Karata	rak’ʷa	r a k’ʷ a	152
+846	41	horn	Karata	buk’a	b u k’ a	154
+847	42	I	Karata	den	d e n	158
+848	43	kill (V)	Karata	k’ːʷabe	k’ːʷ a b e	129
+849	44	knee	Karata	nuku	n u k u	162
+850	45	know (V)	Karata	biʔa	b i ʔ a	169
+851	46	leaf	Karata	k’ala	k’ a l a	173
+852	47	lie (V)	Karata	gire	g i r e	174
+853	49	long	Karata	beχːelab	b e χː e l a b	183
+854	50	louse	Karata	nac’ːe	n a c’ː e	185
+855	51	man	Karata	kunt’ik’a	k u n t’ i k’ a	188
+856	53	many	Karata	ʟ’ʷani	ʟ’ʷ a n i	191
+857	54	meat	Karata	riʟ’i	r i ʟ’ i	192
+858	55	moon	Karata	borc’ːo	b o r c’ː o	71
+859	57	mouth	Karata	eli	e l i	203
+860	58	nail	Karata	muɬu	m u ɬ u	205
+861	59	name	Karata	c’ːeri	c’ː e r i	209
+862	60	neck	Karata	garu	g a r u	210
+863	61	new	Karata	c’ĩom	c’ ĩ o m	213
+864	62	night	Karata	reɬa	r e ɬ a	214
+865	63	nose	Karata	miʕar	m i ʕ a r	215
+866	64	not	Karata	č’e	č’ e	218
+867	65	one	Karata	ceb	c e b	220
+868	66	rain	Karata	c’ːaj	c’ː a j	222
+869	67	red	Karata	herob	h e r o b	223
+870	68	road	Karata	miq’e	m i q’ e	227
+871	69	root	Karata	heʟ’ebo	h e ʟ’ e b o	228
+872	70	round	Karata	gurgimob	g u r g i m o b	231
+873	71	sand	Karata	soro	s o r o	237
+874	72	say (V)	Karata	keʟ’ẽ	k e ʟ’ ẽ	240
+875	73	see (V)	Karata	hãʔa	h ã ʔ a	244
+876	75	sit (V)	Karata	k’use	k’ u s e	254
+877	77	sleep (V)	Karata	ʟ’ihã	ʟ’ i h ã	251
+878	78	small	Karata	mik’ob	m i k’ o b	267
+879	79	smoke	Karata	cːure	cː u r e	271
+880	80	stand (V)	Karata	herč’ːe	h e r č’ː e	274
+881	81	star	Karata	c’ːʷaj	c’ːʷ a j	278
+882	82	stone	Karata	anča	a n č a	280
+883	83	sun	Karata	miɬe	m i ɬ e	282
+884	84	swim (V)	Karata	kʷalč’aɬa	kʷ a l č’ a ɬ a	288
+885	85	tail	Karata	miʁa	m i ʁ a	292
+886	88	tongue	Karata	mac’ːi	m a c’ː i	294
+887	89	tooth	Karata	sale	s a l e	296
+888	90	tree	Karata	roša	r o š a	297
+889	91	two	Karata	k’eda	k’ e d a	298
+890	92	warm	Karata	ansːab	a n sː a b	299
+891	93	water	Karata	ɬːẽj	ɬː ẽ j	300
+892	94	we	Karata	išːij	i šː i j	201
+893	95	what	Karata	hedol	h e d o l	305
+894	96	white	Karata	hac’ab	h a c’ a b	307
+895	97	who	Karata	hemol	h e m o l	311
+896	98	woman	Karata	ʕadãj	ʕ a d ã j	318
+897	99	yellow	Karata	obiʟ	o b i ʟ	324
+898	100	you	Karata	men	m e n	328
+899	101	far	Karata	č’ːidʲa	č’ː i dʲ a	329
+900	102	heavy	Karata	hak’ibob	h a k’ i b o b	335
+901	103	near	Karata	serk’u	s e r k’ u	338
+902	104	salt	Karata	c’ːãj	c’ː ã j	342
+903	105	short	Karata	bačak’ob	b a č a k’ o b	343
+904	106	snake	Karata	berka	b e r k a	346
+905	107	thin	Karata	bek’arab	b e k’ a r a b	347
+906	108	wind	Karata	muču	m u č u	349
+907	109	worm	Karata	žužuka	ž u ž u k a	350
+908	110	year	Karata	rešin	r e š i n	357
+909	2	ashes	Khushtada-D	ʟ’eː	ʟ’ eː	5
+910	3	bark	Khushtada-D	qal	q a l	
+911	4	belly	Khushtada-D	qĩta	q ĩ t a	14
+912	5	big	Khushtada-D	hĩč’ab	h ĩ č’ a b	64
+913	6	bird	Khushtada-D	šːakib	šː a k i b	19
+914	7	bite (V)	Khushtada-D	salli	s a l l i	24
+915	8	black	Khushtada-D	beč’et’ub	b e č’ e t’ u b	33
+916	9	blood	Khushtada-D	her	h e r	31
+917	10	bone	Khushtada-D	raʟ’	r a ʟ’	34
+918	11	breast	Khushtada-D	nih	n i h	16
+919	12	burn (V, TR)	Khushtada-D	c’ahi	c’ a h i	43
+920	13	cloud	Khushtada-D	hera	h e r a	48
+921	14	cold	Khushtada-D	zadub	z a d u b	42
+922	16	die (V)	Khushtada-D	bič’a	b i č’ a	60
+923	17	dog	Khushtada-D	hʷaːj	hʷ aː j	358
+924	18	drink (V)	Khushtada-D	s’aj	s’ a j	52
+925	19	dry	Khushtada-D	beq’ub	b e q’ u b	2
+926	20	ear	Khushtada-D	hãč’it’a	h ã č’ i t’ a	366
+927	21	earth	Khushtada-D	ũšː	ũ šː	73
+928	22	eat (V)	Khushtada-D	q’ani	q’ a n i	74
+929	23	egg	Khushtada-D	č’ač’an	č’ a č’ a n	80
+930	24	eye	Khushtada-D	hač’a	h a č’ a	86
+931	25	fat	Khushtada-D	meʕẽlhar	m e ʕ ẽ l h a r	
+932	26	feather	Khushtada-D			
+933	27	fire	Khushtada-D	c’aj	c’ a j	102
+934	28	fish	Khushtada-D	šːʷaː	šːʷ aː	
+935	29	fly (V)	Khushtada-D	eta	e t a	110
+936	30	foot	Khushtada-D	kʷãšːa	kʷ ã šː a	118
+937	31	full	Khushtada-D	bec’ub	b e c’ u b	128
+938	32	give (V)	Khushtada-D	iči	i č i	4
+939	33	go (V)	Khushtada-D	beɬi	b e ɬ i	39
+940	34	good	Khushtada-D	hoːb	h oː b	135
+941	35	green	Khushtada-D	ʕačub	ʕ a č u b	137
+942	36	hair	Khushtada-D	minč’a	m i n č’ a	193
+943	37	hand	Khushtada-D	lela	l e l a	144
+944	38	head	Khushtada-D	un	u n	149
+945	39	hear (V)	Khushtada-D	alhã	a l h ã	150
+946	40	heart	Khushtada-D	rak’ʷa	r a k’ʷ a	152
+947	41	horn	Khushtada-D	č’ama	č’ a m a	155
+948	42	I	Khushtada-D	de	d e	158
+949	43	kill (V)	Khushtada-D	bič’al	b i č’ a l	130
+950	44	knee	Khushtada-D	nikʷ	n i kʷ	162
+951	45	know (V)	Khushtada-D	beː	b eː	169
+952	46	leaf	Khushtada-D	al	a l	173
+953	47	lie (V)	Khushtada-D	helli	h e l l i 	179
+954	48	liver	Khushtada-D	leleɬ	l e l e ɬ	180
+955	49	long	Khushtada-D	beχːalab	b e χː a l a b	183
+956	50	louse	Khushtada-D	nas’	n a s’	185
+957	51	man	Khushtada-D	hek’ʷa	h e k’ʷ a	187
+958	53	many	Khushtada-D	ӡ̌ãgub	ӡ̌ ã g u b	37
+959	54	meat	Khushtada-D	riʟ’	r i ʟ’	192
+960	55	moon	Khushtada-D	bos’	b o s’	71
+961	57	mouth	Khushtada-D	el	e l	203
+962	58	nail	Khushtada-D	milhʷ	m i l hʷ	205
+963	59	name	Khushtada-D	s’er	s’ e r	209
+964	60	neck	Khushtada-D	ӡ̌arʷ	ӡ̌ a rʷ	210
+965	61	new	Khushtada-D	c’inub	c’ i n u b	213
+966	62	night	Khushtada-D	relha	r e l h a	214
+967	63	nose	Khushtada-D	meʕer	m e ʕ e r	215
+968	64	not	Khushtada-D	-č’i	č’ i	218
+969	65	one	Khushtada-D	ceb	c e b	220
+970	66	rain	Khushtada-D	s’aːj	s’ aː j	222
+971	67	red	Khushtada-D	šːišːub	šː i šː u b	225
+972	68	road	Khushtada-D	miq’	m i q’	227
+973	69	root	Khushtada-D	heʟ’em	h e ʟ’ e m	228
+974	70	round	Khushtada-D	q’at’ačub	q’ a t’ a č u b	101
+975	71	sand	Khushtada-D	selʷ	s e lʷ	236
+976	72	say (V)	Khushtada-D	heʟ’i	h e ʟ’ i	240
+977	73	see (V)	Khushtada-D	hãː	h ãː	244
+978	74	seed	Khushtada-D	hũːj	h ũː j	250
+979	75	sit (V)	Khushtada-D	ħaš’ar buk’a	ħ a š’ a r  b u k’ a	256
+980	77	sleep (V)	Khushtada-D	ʟ’ẽː	ʟ’ ẽː	251
+981	78	small	Khushtada-D	muk’ub	m u k’ u b	267
+982	79	smoke	Khushtada-D	k’ũj	k’ ũ j	272
+983	80	stand (V)	Khushtada-D	biʁi	b i ʁ i	273
+984	81	star	Khushtada-D	s’ʷara	s’ʷ a r a	278
+985	82	stone	Khushtada-D	hĩnc’a	h ĩ n c’ a	425
+986	83	sun	Khushtada-D	milh	m i l h	282
+987	84	swim (V)	Khushtada-D	kʷanlheː	kʷ a n l h eː	104
+988	85	tail	Khushtada-D	miʁa	m i ʁ a	292
+989	88	tongue	Khushtada-D	mis’	m i s’	294
+990	89	tooth	Khushtada-D	salʷ	s a lʷ	296
+991	90	tree	Khushtada-D	roša	r o š a	297
+992	91	two	Khushtada-D	č’eda	č’ e d a	298
+993	92	warm	Khushtada-D	ãsːab	ã sː a b	299
+994	93	water	Khushtada-D	ɬːẽː	ɬː ẽː	300
+995	94	we	Khushtada-D	išːi	i šː i	201
+996	95	what	Khushtada-D	eba	e b a	229
+997	96	white	Khushtada-D	hac’ab	h a c’ a b	307
+998	97	who	Khushtada-D	emma	e m m a	311
+999	98	woman	Khushtada-D	hak’uj	h a k’ u j	317
+1000	99	yellow	Khushtada-D	ʕačub	ʕ a č u b	320
+1001	100	you	Khushtada-D	me	m e	328
+1002	101	far	Khushtada-D	š’iri	š’ i r i	329
+1003	102	heavy	Khushtada-D	ħaš’ibab	ħ a š’ i b a b	335
+1004	103	near	Khushtada-D	esebaχ	e s e b a χ	312
+1005	104	salt	Khushtada-D	s’ãːj	s’ ãː j	342
+1006	105	short	Khushtada-D	bačak’ub	b a č a k’ u b	343
+1007	106	snake	Khushtada-D	beča	b e č a	346
+1008	107	thin	Khushtada-D	belab	b e l a b	347
+1009	108	wind	Khushtada-D	muč	m u č	349
+1010	109	worm	Khushtada-D	žʷalača	žʷ a l a č a	355
+1011	110	year	Khushtada-D	reš	r e š	357
+1012	2	ashes	Kvanada-D	ʟ’e	ʟ’ e	5
+1013	3	bark	Kvanada-D	ʕul	ʕ u l	28
+1014	4	belly	Kvanada-D	bak’al	b a k’ a l	11
+1015	5	big	Kvanada-D	hinč’ab	h i n č’ a b	64
+1016	6	bird	Kvanada-D	šːačib	šː a č i b	19
+1017	7	bite (V)	Kvanada-D	salli	s a l l i	24
+1018	8	black	Kvanada-D	beč’at’ub	b e č’ a t’ u b	33
+1019	9	blood	Kvanada-D	her	h e r	31
+1020	10	bone	Kvanada-D	raʟ’	r a ʟ’	34
+1021	11	breast	Kvanada-D	nih	n i h	16
+1022	12	burn (V, TR)	Kvanada-D	bukã	b u k ã	45
+1023	13	cloud	Kvanada-D	hera	h e r a	48
+1024	14	cold	Kvanada-D	zarub	z a r u b	42
+1025	16	die (V)	Kvanada-D	bič’a	b i č’ a	60
+1026	17	dog	Kvanada-D	hʷaj	hʷ a j	358
+1027	18	drink (V)	Kvanada-D	s’aː	s’ aː	52
+1028	19	dry	Kvanada-D	beq’ub	b e q’ u b	2
+1029	20	ear	Kvanada-D	hanč’it’a	h a n č’ i t’ a	366
+1030	21	earth	Kvanada-D	unšː	u n šː	73
+1031	22	eat (V)	Kvanada-D	q’ani	q’ a n i	74
+1032	23	egg	Kvanada-D	č’ač’an	č’ a č’ a n	80
+1033	24	eye	Kvanada-D	hač’a	h a č’ a	86
+1034	25	fat	Kvanada-D	xʷaːm	xʷ aː m	96
+1035	26	feather	Kvanada-D	ħuli	ħ u l i	
+1036	27	fire	Kvanada-D	c’aj	c’ a j	102
+1037	28	fish	Kvanada-D	šušk’a	š u š k’ a	107
+1038	29	fly (V)	Kvanada-D	eta	e t a	110
+1039	30	foot	Kvanada-D	kʷanšːa	kʷ a n šː a	118
+1040	31	full	Kvanada-D	bec’ub	b e c’ u b	128
+1041	32	give (V)	Kvanada-D	iči	i č i	4
+1042	33	go (V)	Kvanada-D	beɬi	b e ɬ i	39
+1043	34	good	Kvanada-D	hoːb	h oː b	135
+1044	35	green	Kvanada-D	ʕačub	ʕ a č u b	137
+1045	36	hair	Kvanada-D	mič’a	m i č’ a	193
+1046	37	hand	Kvanada-D	ʁažʷ	ʁ a žʷ	145
+1047	38	head	Kvanada-D	un	u n	149
+1048	39	hear (V)	Kvanada-D	ãhã	ã h ã	150
+1049	40	heart	Kvanada-D	rak’ʷa	r a k’ʷ a	152
+1050	41	horn	Kvanada-D	č’ama	č’ a m a	155
+1051	42	I	Kvanada-D	deː	d eː	158
+1052	43	kill (V)	Kvanada-D	k’ʷa	k’ʷ a	129
+1053	44	knee	Kvanada-D	nikʷ	n i kʷ	162
+1054	45	know (V)	Kvanada-D	bija	b i j a	169
+1055	46	leaf	Kvanada-D	č’al	č’ a l	195
+1056	47	lie (V)	Kvanada-D	helli	h e l l i	179
+1057	48	liver	Kvanada-D	leleɬ	l e l e ɬ	180
+1058	49	long	Kvanada-D	beχalab	b e χ a l a b	183
+1059	50	louse	Kvanada-D	nas’	n a s’	185
+1060	51	man	Kvanada-D	hek’ʷa	h e k’ʷ a	187
+1061	53	many	Kvanada-D	ezzaʕan	e z z a ʕ a n	36
+1062	54	meat	Kvanada-D	riʟ’	r i ʟ’	192
+1063	55	moon	Kvanada-D	bos’	b o s’	71
+1064	57	mouth	Kvanada-D	el	e l	203
+1065	58	nail	Kvanada-D	nihʷ	n i hʷ	205
+1066	59	name	Kvanada-D	s’er	s’ e r	209
+1067	60	neck	Kvanada-D	ӡ̌ar	ӡ̌ a r	210
+1068	61	new	Kvanada-D	c’inub	c’ i n u b	213
+1069	62	night	Kvanada-D	reha	r e h a	214
+1070	63	nose	Kvanada-D	miʕar	m i ʕ a r	215
+1071	65	one	Kvanada-D	ceb	c e b	220
+1072	66	rain	Kvanada-D	s’aj	s’ a j	222
+1073	67	red	Kvanada-D	šːišːub	šː i šː u b	225
+1074	68	road	Kvanada-D	miq’	m i q’	227
+1075	69	root	Kvanada-D	q’ol	q’ o l	
+1076	70	round	Kvanada-D	gurginab	g u r g i n a b	
+1077	71	sand	Kvanada-D	selʷ	s e lʷ	236
+1078	73	see (V)	Kvanada-D	hãː	h ãː	244
+1079	74	seed	Kvanada-D	ʟ’et’ʷ	ʟ’ e t’ʷ	248
+1080	75	sit (V)	Kvanada-D	haš’aχ buk’a	h a š’ a χ  b u k’ a	256
+1081	77	sleep (V)	Kvanada-D	ʟ’ihã	ʟ’ i h ã	251
+1082	78	small	Kvanada-D	muk’ub	m u k’ u b	267
+1083	79	smoke	Kvanada-D	k’ũj	k’ ũ j	272
+1084	80	stand (V)	Kvanada-D	biʁi	b i ʁ i	273
+1085	81	star	Kvanada-D	s’ʷara	s’ʷ a r a	278
+1086	82	stone	Kvanada-D	ančʷa	a n čʷ a	280
+1087	83	sun	Kvanada-D	mih	m i h	282
+1088	85	tail	Kvanada-D	miʁa	m i ʁ a	292
+1089	88	tongue	Kvanada-D	mis’	m i s’	294
+1090	89	tooth	Kvanada-D	sal	s a l	296
+1091	90	tree	Kvanada-D	roša	r o š a	297
+1092	91	two	Kvanada-D	č’era	č’ e r a	298
+1093	92	warm	Kvanada-D	ansːab	a n sː a b	299
+1094	93	water	Kvanada-D	ɬːẽː	ɬː ẽː	300
+1095	94	we	Kvanada-D	išːi	i šː i	201
+1096	95	what	Kvanada-D	heb	h e b	229
+1097	96	white	Kvanada-D	hac’ab	h a c’ a b	307
+1098	97	who	Kvanada-D	hem	h e m	311
+1099	98	woman	Kvanada-D	hak’uj	h a k’ u j	317
+1100	99	yellow	Kvanada-D	žarub	ž a r u b	327
+1101	100	you	Kvanada-D	meː	m eː	328
+1102	101	far	Kvanada-D	š’iri	š’ i r i	329
+1103	102	heavy	Kvanada-D	haš’ibab	h a š’ i b a b	335
+1104	103	near	Kvanada-D	beʟ’araχ	b e ʟ’ a r a χ	336
+1105	104	salt	Kvanada-D	s’ãj	s’ ã j	342
+1106	105	short	Kvanada-D	bačak’ub	b a č a k’ u b	343
+1107	106	snake	Kvanada-D	beča	b e č a	346
+1108	107	thin	Kvanada-D	belaːb	b e l aː b	347
+1109	108	wind	Kvanada-D	muč	m u č	349
+1110	109	worm	Kvanada-D	žʷalača	žʷ a l a č a	355
+1111	110	year	Kvanada-D	rešen	r e š e n	357
+1112	2	ashes	Kvankhidatli	ʟ’e	ʟ’ e	5
+1113	3	bark	Kvankhidatli	qal	q a l	
+1114	4	belly	Kvankhidatli	reka	r e k a	10
+1115	5	big	Kvankhidatli	beč’uχa	b e č’ u χ a	15
+1116	6	bird	Kvankhidatli	burde	b u r d e	13
+1117	7	bite (V)	Kvankhidatli	q’ami	q’ a m i	23
+1118	8	black	Kvankhidatli	beč’er	b e č’ e r	33
+1119	9	blood	Kvankhidatli	hin	h i n	32
+1120	10	bone	Kvankhidatli	roʟ’i	r o ʟ’ i	34
+1121	11	breast	Kvankhidatli	kirin	k i r i n	
+1122	12	burn (V, TR)	Kvankhidatli	c’ato	c’ a t o	43
+1123	13	cloud	Kvankhidatli	hiro	h i r o	48
+1124	14	cold	Kvankhidatli	zarχub	z a r χ u b	42
+1125	16	die (V)	Kvankhidatli	wuč’o	w u č’ o	60
+1126	17	dog	Kvankhidatli	χoj	χ o j	358
+1127	18	drink (V)	Kvankhidatli	c’ːabi	c’ː a b i	52
+1128	19	dry	Kvankhidatli	beq’ub	b e q’ u b	2
+1129	20	ear	Kvankhidatli	hant’ik’a	h a n t’ i k’ a	366
+1130	21	earth	Kvankhidatli	onšːi	o n šː i	73
+1131	22	eat (V)	Kvankhidatli	k’ami	k’ a m i	78
+1132	23	egg	Kvankhidatli	k’ork’on	k’ o r k’ o n	80
+1133	24	eye	Kvankhidatli	hark’u	h a r k’ u	86
+1134	25	fat	Kvankhidatli	čajiɬir	č a j i ɬ i r	77
+1135	26	feather	Kvankhidatli	ħuli	ħ u l i	
+1136	27	fire	Kvankhidatli	c’a	c’ a	102
+1137	28	fish	Kvankhidatli	χʷan	χʷ a n	105
+1138	29	fly (V)	Kvankhidatli	burdi	b u r d i	109
+1139	30	foot	Kvankhidatli	č’ek’a	č’ e k’ a	116
+1140	31	full	Kvankhidatli	bic’ib	b i c’ i b	128
+1141	32	give (V)	Kvankhidatli	ičːira	i čː i r a	4
+1142	33	go (V)	Kvankhidatli	hũwonʟo	h ũ w o n ʟ o	20
+1143	34	good	Kvankhidatli	šuɬib	š u ɬ i b	135
+1144	35	green	Kvankhidatli	χoči	χ o č i	138
+1145	36	hair	Kvankhidatli	ɬinol	ɬ i n o l	143
+1146	37	hand	Kvankhidatli	rek’a	r e k’ a	144
+1147	38	head	Kvankhidatli	mijar	m i j a r	147
+1148	39	hear (V)	Kvankhidatli	anɬi	a n ɬ i	150
+1149	40	heart	Kvankhidatli	rok’o	r o k’ o	152
+1150	41	horn	Kvankhidatli	q’ona	q’ o n a	157
+1151	42	I	Kvankhidatli	den	d e n	158
+1152	43	kill (V)	Kvankhidatli	gabi	g a b i	161
+1153	44	knee	Kvankhidatli	xint’i	x i n t’ i	163
+1154	45	know (V)	Kvankhidatli	c’ini	c’ i n i	166
+1155	46	leaf	Kvankhidatli	k’ol	k’ o l	173
+1156	47	lie (V)	Kvankhidatli	girdi	g i r d i	174
+1157	48	liver	Kvankhidatli	rek’iʟi	r e k’ i ʟ i	180
+1158	49	long	Kvankhidatli	beχːula	b e χː u l a	183
+1159	50	louse	Kvankhidatli	noc’ːi	n o c’ː i	185
+1160	51	man	Kvankhidatli	kunt’uk’a	k u n t’ u k’ a	188
+1161	53	many	Kvankhidatli	bihu	b i h u	423
+1162	54	meat	Kvankhidatli	riʟ’i	r i ʟ’ i	192
+1163	55	moon	Kvankhidatli	borc’ːi	b o r c’ː i	71
+1164	57	mouth	Kvankhidatli	k’ol	k’ o l	198
+1165	58	nail	Kvankhidatli	burk’in	b u r k’ i n	167
+1166	59	name	Kvankhidatli	c’ːeri	c’ː e r i	209
+1167	60	neck	Kvankhidatli	gardo	g a r d o	210
+1168	61	new	Kvankhidatli	c’imu	c’ i m u	213
+1169	62	night	Kvankhidatli	reɬo	r e ɬ o	214
+1170	63	nose	Kvankhidatli	sunk’a	s u n k’ a	216
+1171	64	not	Kvankhidatli	sː	sː	217
+1172	65	one	Kvankhidatli	ceb	c e b	220
+1173	66	rain	Kvankhidatli	c’adara	c’ a d a r a	
+1174	67	red	Kvankhidatli	hiri	h i r i	223
+1175	68	road	Kvankhidatli	miq’i	m i q’ i	227
+1176	69	root	Kvankhidatli	hiʟ’ib	h i ʟ’ i b	228
+1177	70	round	Kvankhidatli	girgon	g i r g o n	231
+1178	71	sand	Kvankhidatli	suro	s u r o	237
+1179	72	say (V)	Kvankhidatli	hiʟ’in	h i ʟ’ i n	240
+1180	73	see (V)	Kvankhidatli	hãq’o	h ã q’ o	244
+1181	74	seed	Kvankhidatli	šen	š e n	250
+1182	75	sit (V)	Kvankhidatli	mišt’awk’o	m i š t’ a w k’ o	259
+1183	77	sleep (V)	Kvankhidatli	k’elli	k’ e l l i	266
+1184	78	small	Kvankhidatli	mič’i	m i č’ i	267
+1185	79	smoke	Kvankhidatli	cːuri	cː u r i	271
+1186	80	stand (V)	Kvankhidatli	wučːi	w u čː i	274
+1187	81	star	Kvankhidatli	c’ːali	c’ː a l i	278
+1188	82	stone	Kvankhidatli	hinc’o	h i n c’ o	425
+1189	83	sun	Kvankhidatli	q’irba	q’ i r b a	283
+1190	84	swim (V)	Kvankhidatli	waχo	w a χ o	287
+1191	85	tail	Kvankhidatli	miʁa	m i ʁ a	292
+1192	88	tongue	Kvankhidatli	mic’ːi	m i c’ː i	294
+1193	89	tooth	Kvankhidatli	sol	s o l	296
+1194	90	tree	Kvankhidatli	reša	r e š a	297
+1195	91	two	Kvankhidatli	č’egu	č’ e g u	298
+1196	92	warm	Kvankhidatli	hãsːa	h ã sː a	299
+1197	93	water	Kvankhidatli	ɬːel	ɬː e l	300
+1198	94	we	Kvankhidatli	išːil	i šː i l	201
+1199	95	what	Kvankhidatli	ibgo	i b g o	229
+1200	96	white	Kvankhidatli	hac’a	h a c’ a	307
+1201	97	who	Kvankhidatli	ingo	i n g o	311
+1202	98	woman	Kvankhidatli	ješul	j e š u l	319
+1203	99	yellow	Kvankhidatli	čakːu	č a kː u	321
+1204	100	you	Kvankhidatli	men	m e n	328
+1205	101	far	Kvankhidatli	reʟ’utola	r e ʟ’ u t o l a	333
+1206	102	heavy	Kvankhidatli	hok’oru	h o k’ o r u	335
+1207	103	near	Kvankhidatli	boqola	b o q o l a	341
+1208	104	salt	Kvankhidatli	c’ːon	c’ː o n	342
+1209	105	short	Kvankhidatli	bočok’i	b o č o k’ i	343
+1210	106	snake	Kvankhidatli	berka	b e r k a	346
+1211	107	thin	Kvankhidatli	bek’era	b e k’ e r a	347
+1212	108	wind	Kvankhidatli	moči	m o č i	349
+1213	109	worm	Kvankhidatli	χʷan bičːeb berka	χʷ a n  b i čː e b  b e r k a	351
+1214	110	year	Kvankhidatli	rešin	r e š i n	357
+1215	2	ashes	Miarso	ʟ’ej	ʟ’ e j	5
+1216	3	bark	Miarso	qal	q a l	
+1217	4	belly	Miarso	reka	r e k a	10
+1218	5	big	Miarso	beč’uχab	b e č’ u χ a b	15
+1219	6	bird	Miarso	šːikir	šː i k i r	19
+1220	7	bite (V)	Miarso	q’amdi	q’ a m d i	23
+1221	8	black	Miarso	beč’er	b e č’ e r	33
+1222	9	blood	Miarso	hiri	h i r i	31
+1223	10	bone	Miarso	raʟ’il	r a ʟ’ i l	34
+1224	11	breast	Miarso	niχi	n i χ i	16
+1225	12	burn (V, TR)	Miarso	c’ati	c’ a t i	43
+1226	13	cloud	Miarso	hira	h i r a	48
+1227	14	cold	Miarso	saj	s a j	53
+1228	16	die (V)	Miarso	wuč’i	w u č’ i	60
+1229	17	dog	Miarso	χʷaj	χʷ a j	358
+1230	18	drink (V)	Miarso	χudi	χ u d i	65
+1231	19	dry	Miarso	beq’ab	b e q’ a b	2
+1232	20	ear	Miarso	hant’uk’a	h a n t’ u k’ a	366
+1233	21	earth	Miarso	unšːi	u n šː i	73
+1234	22	eat (V)	Miarso	inki	i n k i	
+1235	23	egg	Miarso	ʁarʁanu	ʁ a r ʁ a n u	82
+1236	24	eye	Miarso	haj	h a j	86
+1237	25	fat	Miarso	čara	č a r a	77
+1238	26	feather	Miarso	ħuli	ħ u l i	
+1239	27	fire	Miarso	c’aj	c’ a j	102
+1240	28	fish	Miarso	qʷãj	qʷ ã j	105
+1241	29	fly (V)	Miarso	burdi	b u r d i	109
+1242	30	foot	Miarso	reʁil	r e ʁ i l	117
+1243	31	full	Miarso	hic’ab	h i c’ a b	128
+1244	32	give (V)	Miarso	ikːi	i kː i	4
+1245	33	go (V)	Miarso	naʔi	n a ʔ i	20
+1246	34	good	Miarso	gʷanzi	gʷ a n z i	133
+1247	35	green	Miarso	aču	a č u	137
+1248	36	hair	Miarso	basa	b a s a	140
+1249	37	hand	Miarso	reʔa	r e ʔ a	144
+1250	38	head	Miarso	ũni	ũ n i	149
+1251	39	hear (V)	Miarso	ahĩ	a h ĩ	150
+1252	40	heart	Miarso	rak’ʷa	r a k’ʷ a	152
+1253	41	horn	Miarso	k’amu	k’ a m u	155
+1254	42	I	Miarso	din	d i n	158
+1255	43	kill (V)	Miarso	kːʷãndi	kːʷ ã n d i	159
+1256	44	knee	Miarso	nuku	n u k u	162
+1257	45	know (V)	Miarso	beʔi	b e ʔ i	169
+1258	46	leaf	Miarso	ʕali	ʕ a l i	173
+1259	47	lie (V)	Miarso	reraχːi	r e r a χː i	175
+1260	48	liver	Miarso	rehiɬa	r e h i ɬ a	180
+1261	49	long	Miarso	beχːilab	b e χː i l a b	183
+1262	50	louse	Miarso	nac’ːi	n a c’ː i	185
+1263	51	man	Miarso	kunt’ek’a	k u n t’ e k’ a	188
+1264	53	many	Miarso	ʟ’eniqa	ʟ’ e n i q a	191
+1265	54	meat	Miarso	riʟ’i	r i ʟ’ i	192
+1266	55	moon	Miarso	purc’ːu	p u r c’ː u	71
+1267	57	mouth	Miarso	ʔeli	ʔ e l i	203
+1268	58	nail	Miarso	hũmu	h ũ m u	205
+1269	59	name	Miarso	c’ːeri	c’ː e r i	209
+1270	60	neck	Miarso	garu	g a r u	210
+1271	61	new	Miarso	c’ĩw	c’ ĩ w	213
+1272	62	night	Miarso	reha	r e h a	214
+1273	63	nose	Miarso	mihar	m i h a r	215
+1274	64	not	Miarso	-č’i	-č’ i	218
+1275	65	one	Miarso	ceb	c e b	220
+1276	66	rain	Miarso	c’ːaj	c’ː a j	222
+1277	67	red	Miarso	irχːab	i r χː a b	224
+1278	68	road	Miarso	miq’i	m i q’ i	227
+1279	69	root	Miarso	riʟ’in	r i ʟ’ i n	228
+1280	70	round	Miarso	gurginab	g u r g i n a b	
+1281	71	sand	Miarso	sira	s i r a	237
+1282	72	say (V)	Miarso	hiʟ’i	h i ʟ’ i	240
+1283	73	see (V)	Miarso	haʔi	h a ʔ i	244
+1284	74	seed	Miarso	xuni	x u n i	250
+1285	75	sit (V)	Miarso	ač’ːa ruk’i	a č’ː a  r u k’ i	256
+1286	77	sleep (V)	Miarso	ʁundi	ʁ u n d i	265
+1287	78	small	Miarso	zuk’ːu	z u k’ː u	269
+1288	79	smoke	Miarso	cːuri	cː u r i	271
+1289	80	stand (V)	Miarso	hirč’ːi	h i r č’ː i	274
+1290	81	star	Miarso	c’ːaj	c’ː a j	278
+1291	82	stone	Miarso	anča	a n č a	280
+1292	83	sun	Miarso	mihi	m i h i	282
+1293	84	swim (V)	Miarso	kʷač’i ladːaj	kʷ a č’ i  l a dː a j	288
+1294	85	tail	Miarso	miʁa	m i ʁ a	292
+1295	88	tongue	Miarso	mic’ːi	m i c’ː i	294
+1296	89	tooth	Miarso	salu	s a l u	296
+1297	90	tree	Miarso	ruša	r u š a	297
+1298	91	two	Miarso	k’eda	k’ e d a	298
+1299	92	warm	Miarso	ansːab	a n sː a b	299
+1300	93	water	Miarso	ɬːeni	ɬː e n i	300
+1301	94	we	Miarso	išːil	i šː i l	201
+1302	95	what	Miarso	eχula	e χ u l a	206
+1303	96	white	Miarso	hac’aχab	h a c’ a χ a b	307
+1304	97	who	Miarso	inɬia	i n ɬ i a	309
+1305	98	woman	Miarso	ješik’ʷa	j e š i k’ʷ a	319
+1306	99	yellow	Miarso	čːakːu	čː a kː u	321
+1307	100	you	Miarso	min	m i n	328
+1308	101	far	Miarso	č’ːidu	č’ː i d u	329
+1309	102	heavy	Miarso	hak’ubab	h a k’ u b a b	335
+1310	103	near	Miarso	beʟ’are	b e ʟ’ a r e	336
+1311	104	salt	Miarso	c’ːãj	c’ː ã j	342
+1312	105	short	Miarso	bačak’i	b a č a k’ i	343
+1313	106	snake	Miarso	berka	b e r k a	346
+1314	107	thin	Miarso	beʔerab	b e ʔ e r a b	347
+1315	108	wind	Miarso	muču	m u č u	349
+1316	109	worm	Miarso	ħapara	ħ a p a r a	
+1317	110	year	Miarso	reši	r e š i	357
+1318	2	ashes	Nizhnee_Gakvari-D	ʟ’eː	ʟ’ eː	5
+1319	3	bark	Nizhnee_Gakvari-D	qal	q a l	
+1320	4	belly	Nizhnee_Gakvari-D	χːinta	χː i n t a	14
+1321	5	big	Nizhnee_Gakvari-D	gošhab	g o š h a b	18
+1322	6	bird	Nizhnee_Gakvari-D	č’or	č’ o r	21
+1323	7	bite (V)	Nizhnee_Gakvari-D	q’an	q’ a n	23
+1324	8	black	Nizhnee_Gakvari-D	beč’at’ub	b e č’ a t’ u b	33
+1325	9	blood	Nizhnee_Gakvari-D	eː	eː	31
+1326	10	bone	Nizhnee_Gakvari-D	jaʟ’il	j a ʟ’ i l	34
+1327	11	breast	Nizhnee_Gakvari-D	niχ	n i χ	16
+1328	12	burn (V, TR)	Nizhnee_Gakvari-D	c’aha	c’ a h a	43
+1329	13	cloud	Nizhnee_Gakvari-D	eʔa	e ʔ a	48
+1330	14	cold	Nizhnee_Gakvari-D	saw	s a w	53
+1331	16	die (V)	Nizhnee_Gakvari-D	wič’a	w i č’ a	60
+1332	17	dog	Nizhnee_Gakvari-D	χʷaj	χʷ a j	358
+1333	18	drink (V)	Nizhnee_Gakvari-D	χed	χ e d	65
+1334	19	dry	Nizhnee_Gakvari-D	beq’ub	b e q’ u b	2
+1335	20	ear	Nizhnee_Gakvari-D	anna	a n n a	366
+1336	21	earth	Nizhnee_Gakvari-D	ũsː	ũ sː	73
+1337	22	eat (V)	Nizhnee_Gakvari-D	od	o d	79
+1338	23	egg	Nizhnee_Gakvari-D	č’ač’ã	č’ a č’ ã	80
+1339	24	eye	Nizhnee_Gakvari-D	hač’a	h a č’ a	86
+1340	25	fat	Nizhnee_Gakvari-D	ɬan	ɬ a n	94
+1341	26	feather	Nizhnee_Gakvari-D	čaː	č aː	98
+1342	27	fire	Nizhnee_Gakvari-D	c’aː	c’ aː	102
+1343	28	fish	Nizhnee_Gakvari-D	χʷam	χʷ a m	105
+1344	29	fly (V)	Nizhnee_Gakvari-D	eta	e t a	110
+1345	30	foot	Nizhnee_Gakvari-D	jeʁil	j e ʁ i l	117
+1346	31	full	Nizhnee_Gakvari-D	bic’idda	b i c’ i d d a	128
+1347	32	give (V)	Nizhnee_Gakvari-D	gud	g u d	126
+1348	33	go (V)	Nizhnee_Gakvari-D	wuna	w u n a	20
+1349	35	green	Nizhnee_Gakvari-D	besiʟ	b e s i ʟ	139
+1350	36	hair	Nizhnee_Gakvari-D	čaː	č aː	142
+1351	37	hand	Nizhnee_Gakvari-D	ʁazʷ	ʁ a zʷ	145
+1352	38	head	Nizhnee_Gakvari-D	un	u n	149
+1353	39	hear (V)	Nizhnee_Gakvari-D	woɬa	w o ɬ a	150
+1354	40	heart	Nizhnee_Gakvari-D	jak’ʷa	j a k’ʷ a	152
+1355	41	horn	Nizhnee_Gakvari-D	č’am	č’ a m	155
+1356	42	I	Nizhnee_Gakvari-D	dĩː	d ĩː	158
+1357	43	kill (V)	Nizhnee_Gakvari-D	bič’aːla	b i č’ aː l a	130
+1358	44	knee	Nizhnee_Gakvari-D	nikʷal	n i kʷ a l	162
+1359	45	know (V)	Nizhnee_Gakvari-D	iʔa	i ʔ a	169
+1360	46	leaf	Nizhnee_Gakvari-D	pal	p a l	385
+1361	47	lie (V)	Nizhnee_Gakvari-D	garad	g a r a d	174
+1362	48	liver	Nizhnee_Gakvari-D	jelaʟ	j e l a ʟ	180
+1363	49	long	Nizhnee_Gakvari-D	beχːilab	b e χː i l a b	183
+1364	50	louse	Nizhnee_Gakvari-D	nas’	n a s’	185
+1365	51	man	Nizhnee_Gakvari-D	hadam	h a d a m	
+1366	53	many	Nizhnee_Gakvari-D	beʁʷ	b e ʁʷ	190
+1367	54	meat	Nizhnee_Gakvari-D	jiʟ’	j i ʟ’	192
+1368	55	moon	Nizhnee_Gakvari-D	bos’	b o s’	71
+1369	57	mouth	Nizhnee_Gakvari-D	elmis’	e l m i s’	203
+1370	58	nail	Nizhnee_Gakvari-D	ɬum	ɬ u m	205
+1371	59	name	Nizhnee_Gakvari-D	s’eː	s’ eː	209
+1372	60	neck	Nizhnee_Gakvari-D	ӡ̌ajʟʷ	ӡ̌ a j ʟʷ	210
+1373	61	new	Nizhnee_Gakvari-D	c’iw	c’ i w	213
+1374	62	night	Nizhnee_Gakvari-D	jeɬa	j e ɬ a	214
+1375	63	nose	Nizhnee_Gakvari-D	maj	m a j	215
+1376	65	one	Nizhnee_Gakvari-D	seb	s e b	220
+1377	66	rain	Nizhnee_Gakvari-D	s’aː	s’ aː	222
+1378	67	red	Nizhnee_Gakvari-D	eʔub	e ʔ u b	223
+1379	68	road	Nizhnee_Gakvari-D	miq’	m i q’	227
+1380	69	root	Nizhnee_Gakvari-D	heʟ’im	h e ʟ’ i m	228
+1381	70	round	Nizhnee_Gakvari-D	χaradda	χ a r a d d a	232
+1382	71	sand	Nizhnee_Gakvari-D	kusː	k u sː	235
+1383	72	say (V)	Nizhnee_Gakvari-D	iʟ’i	i ʟ’ i	240
+1384	73	see (V)	Nizhnee_Gakvari-D	haʔa	h a ʔ a	244
+1385	74	seed	Nizhnee_Gakvari-D	hũː	h ũː	250
+1386	75	sit (V)	Nizhnee_Gakvari-D	wuta	w u t a	260
+1387	77	sleep (V)	Nizhnee_Gakvari-D	ʟ’iχã	ʟ’ i χ ã	251
+1388	78	small	Nizhnee_Gakvari-D	t’annab	t’ a n n a b	270
+1389	79	smoke	Nizhnee_Gakvari-D	sːur	sː u r	271
+1390	80	stand (V)	Nizhnee_Gakvari-D	wiʁ	w i ʁ	273
+1391	81	star	Nizhnee_Gakvari-D	s’aː	s’ aː	278
+1392	82	stone	Nizhnee_Gakvari-D	hĩc’a	h ĩ c’ a	425
+1393	83	sun	Nizhnee_Gakvari-D	miɬ	m i ɬ	282
+1394	85	tail	Nizhnee_Gakvari-D	miʁa	m i ʁ a	292
+1395	88	tongue	Nizhnee_Gakvari-D	mis’	m i s’	294
+1396	89	tooth	Nizhnee_Gakvari-D	salʷ	s a lʷ	296
+1397	90	tree	Nizhnee_Gakvari-D	woha	w o h a	297
+1398	91	two	Nizhnee_Gakvari-D	eč’ida	e č’ i d a	298
+1399	92	warm	Nizhnee_Gakvari-D	ãsːab	ã sː a b	299
+1400	93	water	Nizhnee_Gakvari-D	ɬːĩː	ɬː ĩː	300
+1401	94	we	Nizhnee_Gakvari-D	isːi	i sː i	201
+1402	95	what	Nizhnee_Gakvari-D	ed	e d	305
+1403	96	white	Nizhnee_Gakvari-D	hac’ab	h a c’ a b	307
+1404	97	who	Nizhnee_Gakvari-D	im	i m	311
+1405	98	woman	Nizhnee_Gakvari-D	has’	h a s’	317
+1406	99	yellow	Nizhnee_Gakvari-D	ašub	a š u b	320
+1407	100	you	Nizhnee_Gakvari-D	miː	m iː	328
+1408	101	far	Nizhnee_Gakvari-D	s’idʷ	s’ i dʷ	329
+1409	102	heavy	Nizhnee_Gakvari-D	bak’uk’ab	b a k’ u k’ a b	
+1410	103	near	Nizhnee_Gakvari-D	esbaqe	e s b a q e	312
+1411	104	salt	Nizhnee_Gakvari-D	s’ãː	s’ ãː	342
+1412	105	short	Nizhnee_Gakvari-D	bašak’ub	b a š a k’ u b	343
+1413	106	snake	Nizhnee_Gakvari-D	beča	b e č a	346
+1414	107	thin	Nizhnee_Gakvari-D	belab	b e l a b	347
+1415	108	wind	Nizhnee_Gakvari-D	muš	m u š	349
+1416	109	worm	Nizhnee_Gakvari-D	beča	b e č a	351
+1417	110	year	Nizhnee_Gakvari-D	jehĩ	j e h ĩ	357
+1418	2	ashes	Ratlub	ʟ’e	ʟ’ e	5
+1419	3	bark	Ratlub	qali	q a l i	55
+1420	4	belly	Ratlub	reko	r e k o	10
+1421	5	big	Ratlub	ĩk’ab	ĩ k’ a b	64
+1422	6	bird	Ratlub	šːakiba	šː a k i b a	19
+1423	7	bite (V)	Ratlub	q’ːeleč’ara	q’ː e l e č’ a r a	27
+1424	8	black	Ratlub	bač’idab	b a č’ i d a b	33
+1425	9	blood	Ratlub	hini	h i n i	32
+1426	10	bone	Ratlub	raʟ’ːi	r a ʟ’ː i	34
+1427	11	breast	Ratlub	ʟ’abolo	ʟ’ a b o l o	428
+1428	12	burn (V, TR)	Ratlub	č’ara	č’ a r a	43
+1429	13	cloud	Ratlub	hira	h i r a	48
+1430	14	cold	Ratlub	žaɬudab	ž a ɬ u d a b	42
+1431	16	die (V)	Ratlub	wuqara	w u q a r a	430
+1432	17	dog	Ratlub	χʷaj	χʷ a j	358
+1433	18	drink (V)	Ratlub	c’ːarara	c’ː a r a r a	52
+1434	19	dry	Ratlub	buq’ːada	b u q’ː a d a	2
+1435	20	ear	Ratlub	hande	h a n d e	366
+1436	21	earth	Ratlub	unsːi	u n sː i	73
+1437	22	eat (V)	Ratlub	q’ːamara	q’ː a m a r a	74
+1438	23	egg	Ratlub	qano	q a n o	83
+1439	24	eye	Ratlub	k’eha	k’ e h a	86
+1440	25	fat	Ratlub	behenʟir	b e h e n ʟ i r	
+1441	26	feather	Ratlub	ħuli	ħ u l i	
+1442	27	fire	Ratlub	č’a	č’ a	102
+1443	28	fish	Ratlub	čːuʕa	čː u ʕ a	
+1444	29	fly (V)	Ratlub	biʁiʁerige	b i ʁ i ʁ e r i g e	81
+1445	30	foot	Ratlub	šːunk’a	šː u n k’ a	115
+1446	31	full	Ratlub	beč’ada	b e č’ a d a	128
+1447	32	give (V)	Ratlub	oxara	o x a r a	4
+1448	33	go (V)	Ratlub	woʟ’enigi	w o ʟ’ e n i g i	67
+1449	34	good	Ratlub	šodij	š o d i j	135
+1450	35	green	Ratlub	hik’ːidab	h i k’ː i d a b	85
+1451	36	hair	Ratlub	šːinuka	šː i n u k a	124
+1452	37	hand	Ratlub	reʟ’a	r e ʟ’ a	144
+1453	38	head	Ratlub	mirar	m i r a r	148
+1454	39	hear (V)	Ratlub	anʟara	a n ʟ a r a	150
+1455	40	heart	Ratlub	rak’ʷa	r a k’ʷ a	152
+1456	41	horn	Ratlub	ak’at’i	a k’ a t’ i	153
+1457	42	I	Ratlub	dena	d e n a	158
+1458	43	kill (V)	Ratlub	ʟ’ːʷarara	ʟ’ːʷ a r a r a	196
+1459	44	knee	Ratlub	nikʷa	n i kʷ a	162
+1460	45	know (V)	Ratlub	beq’ire	b e q’ i r e	169
+1461	46	leaf	Ratlub	ʟ’anda	ʟ’ a n d a	173
+1462	47	lie (V)	Ratlub	k’ʷami	k’ʷ a m i	178
+1463	48	liver	Ratlub	reʟ’aʟːi	r e ʟ’ a ʟː i	180
+1464	49	long	Ratlub	baχːadab	b a χː a d a b	183
+1465	50	louse	Ratlub	nac’ːi	n a c’ː i	185
+1466	51	man	Ratlub	ek’o	e k’ o	187
+1467	53	many	Ratlub	boʁadi	b o ʁ a d i	190
+1468	54	meat	Ratlub	riʟ’ːi	r i ʟ’ː i	192
+1469	55	moon	Ratlub	boc’ːo	b o c’ː o	71
+1470	57	mouth	Ratlub	q’eli	q’ e l i	203
+1471	58	nail	Ratlub	miʟo	m i ʟ o	205
+1472	59	name	Ratlub	c’ːeri	c’ː e r i	209
+1473	60	neck	Ratlub	k’oli	k’ o l i	212
+1474	61	new	Ratlub	č’indab	č’ i n d a b	213
+1475	62	night	Ratlub	raʟa	r a ʟ a	214
+1476	63	nose	Ratlub	miʔar	m i ʔ a r	215
+1477	64	not	Ratlub	-ʟa	-ʟ a	219
+1478	65	one	Ratlub	čeba	č e b a	220
+1479	66	rain	Ratlub	c’ːa	c’ː a	222
+1480	67	red	Ratlub	hiridab	h i r i d a b	223
+1481	68	road	Ratlub	miq’ːi	m i q’ː i	227
+1482	69	root	Ratlub	eʟ’ːeb	e ʟ’ː e b	228
+1483	70	round	Ratlub	girgandab	g i r g a n d a b	231
+1484	71	sand	Ratlub	pisoki	p i s o k i	
+1485	72	say (V)	Ratlub	eʟ’ːara	e ʟ’ː a r a	240
+1486	73	see (V)	Ratlub	harigerigi	h a r i g e r i g i	246
+1487	74	seed	Ratlub	muhi	m u h i	253
+1488	75	sit (V)	Ratlub	harduʁixe	h a r d u ʁ i x e	241
+1489	77	sleep (V)	Ratlub	ʟ’ːinχi	ʟ’ː i n χ i	251
+1490	78	small	Ratlub	ĩk’ːʷab	ĩ k’ːʷ a b	268
+1491	79	smoke	Ratlub	k’ːʷin	k’ːʷ i n	272
+1492	80	stand (V)	Ratlub	wuʁa	w u ʁ a	273
+1493	81	star	Ratlub	c’ːʷan	c’ːʷ a n	278
+1494	82	stone	Ratlub	inč’a	i n č’ a	425
+1495	83	sun	Ratlub	miɬi	m i ɬ i	282
+1496	84	swim (V)	Ratlub	ɬːẽʟ’a	ɬː ẽ ʟ’ a	290
+1497	85	tail	Ratlub	kaʟːi	k a ʟː i	291
+1498	88	tongue	Ratlub	mic’ːi	m i c’ː i	294
+1499	89	tooth	Ratlub	čili	č i l i	296
+1500	90	tree	Ratlub	ruša	r u š a	297
+1501	91	two	Ratlub	k’eba	k’ e b a	298
+1502	92	warm	Ratlub	ansːadab	a n sː a d a b	299
+1503	93	water	Ratlub	ɬːeni	ɬː e n i	300
+1504	94	we	Ratlub	isːi	i sː i	201
+1505	95	what	Ratlub	čeba	č e b a	303
+1506	96	white	Ratlub	bašidab	b a š i d a b	306
+1507	97	who	Ratlub	ɬːodi	ɬː o d i	304
+1508	98	woman	Ratlub	ark’ːi	a r k’ː i	317
+1509	99	yellow	Ratlub	aq’ːahandab	a q’ː a h a n d a b	432
+1510	100	you	Ratlub	meni	m e n i	328
+1511	101	far	Ratlub	dunijaɬiqːe	d u n i j a ɬ i qː e	433
+1512	102	heavy	Ratlub	ik’oradab	i k’ o r a d a b	335
+1513	103	near	Ratlub	ešebiqːi	e š e b i qː i	312
+1514	104	salt	Ratlub	c’ːani	c’ː a n i	342
+1515	105	short	Ratlub	bačadab	b a č a d a b	343
+1516	106	snake	Ratlub	berka	b e r k a	346
+1517	107	thin	Ratlub	baʟ’aradab	b a ʟ’ a r a d a b	347
+1518	108	wind	Ratlub	miče	m i č e	349
+1519	109	worm	Ratlub	handi berka	h a n d i  b e r k a	351
+1520	110	year	Ratlub	rešen	r e š e n	357
+1521	2	ashes	Rikvani-D	ʟ’e	ʟ’ e	5
+1522	3	bark	Rikvani-D	qal	q a l	
+1523	4	belly	Rikvani-D	ʁʷaʁʷač	ʁʷ a ʁʷ a č	12
+1524	5	big	Rikvani-D	beč’uχa	b e č’ u χ a	15
+1525	6	bird	Rikvani-D	šːekib	šː e k i b	19
+1526	7	bite (V)	Rikvani-D	q’ammu	q’ a m m u	23
+1527	8	black	Rikvani-D	beč’edir	b e č’ e d i r	33
+1528	9	blood	Rikvani-D	hin	h i n	32
+1529	10	bone	Rikvani-D	roʟ’i	r o ʟ’ i	34
+1530	11	breast	Rikvani-D	lˀawr	lˀ a w r	428
+1531	12	burn (V, TR)	Rikvani-D	bek’ːollu	b e k’ː o l l u	429
+1532	13	cloud	Rikvani-D	lerčol	l e r č o l	51
+1533	14	cold	Rikvani-D	zarχub	z a r χ u b	42
+1534	16	die (V)	Rikvani-D	wuč’du	w u č’ d u	60
+1535	17	dog	Rikvani-D	χʷoj	χʷ o j	358
+1536	18	drink (V)	Rikvani-D	c’ːadu	c’ː a d u	52
+1537	19	dry	Rikvani-D	beq’ub	b e q’ u b	2
+1538	20	ear	Rikvani-D	hank’a	h a n k’ a	366
+1539	21	earth	Rikvani-D	onšː	o n šː	73
+1540	22	eat (V)	Rikvani-D	k’ammu	k’ a m m u	78
+1541	23	egg	Rikvani-D	k’ork’on	k’ o r k’ o n	80
+1542	24	eye	Rikvani-D	hark’u	h a r k’ u	86
+1543	25	fat	Rikvani-D	čoraɬir	č o r a ɬ i r	77
+1544	26	feather	Rikvani-D	pero	p e r o	
+1545	27	fire	Rikvani-D	c’a	c’ a	102
+1546	28	fish	Rikvani-D	čːuʔa	čː u ʔ a	
+1547	29	fly (V)	Rikvani-D	burdu	b u r d u	109
+1548	30	foot	Rikvani-D	č’ek’a	č’ e k’ a	116
+1549	31	full	Rikvani-D	bic’ib	b i c’ i b	128
+1550	32	give (V)	Rikvani-D	čːidu	čː i d u	4
+1551	33	go (V)	Rikvani-D	woʟdu	w o ʟ d u	39
+1552	34	good	Rikvani-D	šub	š u b	135
+1553	35	green	Rikvani-D	χːoči	χː o č i	138
+1554	36	hair	Rikvani-D	ɬimmil	ɬ i m m i l	143
+1555	37	hand	Rikvani-D	relˀa	r e lˀ a	144
+1556	38	head	Rikvani-D	mʲaʔar	mʲ a ʔ a r	147
+1557	39	hear (V)	Rikvani-D	anɬdu	a n ɬ d u	150
+1558	40	heart	Rikvani-D	rok’o	r o k’ o	152
+1559	41	horn	Rikvani-D	ɢon	ɢ o n	157
+1560	42	I	Rikvani-D	den	d e n	158
+1561	43	kill (V)	Rikvani-D	č’abdu	č’ a b d u	129
+1562	44	knee	Rikvani-D	niko	n i k o	162
+1563	45	know (V)	Rikvani-D	c’innu	c’ i n n u	166
+1564	46	leaf	Rikvani-D	ɬaχib	ɬ a χ i b	168
+1565	47	lie (V)	Rikvani-D	girdu	g i r d u	174
+1566	48	liver	Rikvani-D	relˀil	r e lˀ i l	180
+1567	49	long	Rikvani-D	beχːula	b e χː u l a	183
+1568	50	louse	Rikvani-D	noc’ː	n o c’ː	185
+1569	51	man	Rikvani-D	hek’a	h e k’ a	187
+1570	53	many	Rikvani-D	bihugu	b i h u g u	423
+1571	54	meat	Rikvani-D	riʟ’	r i ʟ’	192
+1572	55	moon	Rikvani-D	porc’ː	p o r c’ː	71
+1573	57	mouth	Rikvani-D	k’ol	k’ o l	198
+1574	58	nail	Rikvani-D	muɬa	m u ɬ a	205
+1575	59	name	Rikvani-D	c’ːer	c’ː e r	209
+1576	60	neck	Rikvani-D	garu	g a r u	210
+1577	61	new	Rikvani-D	c’iw	c’ i w	213
+1578	62	night	Rikvani-D	reɬo	r e ɬ o	214
+1579	63	nose	Rikvani-D	mahar	m a h a r	215
+1580	64	not	Rikvani-D	sːu	sː u	217
+1581	65	one	Rikvani-D	seb	s e b	220
+1582	66	rain	Rikvani-D	c’ːa	c’ː a	222
+1583	67	red	Rikvani-D	hiri	h i r i	223
+1584	68	road	Rikvani-D	miq’	m i q’	227
+1585	69	root	Rikvani-D	hiʟ’im	h i ʟ’ i m	228
+1586	70	round	Rikvani-D	gurgʷa	g u r gʷ a	231
+1587	71	sand	Rikvani-D	sur	s u r	237
+1588	72	say (V)	Rikvani-D	ruʟdu	r u ʟ d u	239
+1589	73	see (V)	Rikvani-D	haq’du	h a q’ d u	244
+1590	74	seed	Rikvani-D	šen	š e n	250
+1591	75	sit (V)	Rikvani-D	hoʁu wuk’udu	h o ʁ u  w u k’ u d u	230
+1592	77	sleep (V)	Rikvani-D	ʟ’iχinnu	ʟ’ i χ i n n u	251
+1593	78	small	Rikvani-D	mič’i	m i č’ i	267
+1594	79	smoke	Rikvani-D	k’ːʷoj	k’ːʷ o j	272
+1595	80	stand (V)	Rikvani-D	zudi wuʁdu	z u d i  w u ʁ d u	273
+1596	81	star	Rikvani-D	c’ːa	c’ː a	278
+1597	82	stone	Rikvani-D	hinc’o	h i n c’ o	425
+1598	83	sun	Rikvani-D	miɬi	m i ɬ i	282
+1599	84	swim (V)	Rikvani-D	kʷollu	kʷ o l l u	104
+1600	85	tail	Rikvani-D	miʁorč’ːu	m i ʁ o r č’ː u	292
+1601	88	tongue	Rikvani-D	mic’ː	m i c’ː	294
+1602	89	tooth	Rikvani-D	sol	s o l	296
+1603	90	tree	Rikvani-D	ʟ’et’ur	ʟ’ e t’ u r	200
+1604	91	two	Rikvani-D	č’egu	č’ e g u	298
+1605	92	warm	Rikvani-D	unsːa	u n sː a	299
+1606	93	water	Rikvani-D	ɬːen	ɬː e n	300
+1607	94	we	Rikvani-D	išːil 	i šː i l	201
+1608	95	what	Rikvani-D	ibʁo	i b ʁ o	229
+1609	96	white	Rikvani-D	hac’a	h a c’ a	307
+1610	97	who	Rikvani-D	imʁo	i m ʁ o	311
+1611	98	woman	Rikvani-D	ješik’a	j e š i k’ a	319
+1612	99	yellow	Rikvani-D	čakːu	č a kː u	321
+1613	100	you	Rikvani-D	men	m e n	328
+1614	101	far	Rikvani-D	lelola	l e l o l a	330
+1615	102	heavy	Rikvani-D	hok’oru	h o k’ o r u	335
+1616	103	near	Rikvani-D	ɬerχa	ɬ e r χ a	427
+1617	104	salt	Rikvani-D	c’ːon	c’ː o n	342
+1618	105	short	Rikvani-D	bočo	b o č o	343
+1619	106	snake	Rikvani-D	berka	b e r k a	346
+1620	107	thin	Rikvani-D	belˀora	b e lˀ o r a	347
+1621	108	wind	Rikvani-D	moči	m o č i	349
+1622	109	worm	Rikvani-D	žolka	ž o l k a	437
+1623	110	year	Rikvani-D	rešin	r e š i n	357
+1624	2	ashes	Tad_Magitl	tereti	t e r e t i	6
+1625	3	bark	Tad_Magitl	qːali	qː a l i	55
+1626	4	belly	Tad_Magitl	reka	r e k a	10
+1627	5	big	Tad_Magitl	ĩk’a	ĩ k’ a	64
+1628	6	bird	Tad_Magitl	šːakiba	šː a k i b a	19
+1629	7	bite (V)	Tad_Magitl	q’ːeleč’ari	q’ː e l e č’ a r i	27
+1630	8	black	Tad_Magitl	bač’ida	b a č’ i d a	33
+1631	9	blood	Tad_Magitl	hini	h i n i	32
+1632	10	bone	Tad_Magitl	raʟ’ːi	r a ʟ’ː i	34
+1633	11	breast	Tad_Magitl	ʟ’õrak’ʷa	ʟ’ õ r a k’ʷ a	428
+1634	12	burn (V, TR)	Tad_Magitl	č’ari	č’ a r i	43
+1635	13	cloud	Tad_Magitl	hira	h i r a	48
+1636	14	cold	Tad_Magitl	žahuda	ž a h u d a	42
+1637	16	die (V)	Tad_Magitl	wuʟ’ari	w u ʟ’ a r i	61
+1638	17	dog	Tad_Magitl	χʷe	χʷ e	358
+1639	18	drink (V)	Tad_Magitl	c’ːarari	c’ː a r a r i	52
+1640	19	dry	Tad_Magitl	buq’ːada	b u q’ː a d a	2
+1641	20	ear	Tad_Magitl	hande	h a n d e	366
+1642	21	earth	Tad_Magitl	ũsːi	ũ sː i	73
+1643	22	eat (V)	Tad_Magitl	q’ːani	q’ː a n i	74
+1644	23	egg	Tad_Magitl	qanu	q a n u	83
+1645	24	eye	Tad_Magitl	k’eha	k’ e h a	86
+1646	25	fat	Tad_Magitl	hane	h a n e	7
+1647	26	feather	Tad_Magitl	ħuli	ħ u l i	
+1648	27	fire	Tad_Magitl	č’ari	č’ a r i	102
+1649	28	fish	Tad_Magitl	čːuʕa	čː u ʕ a	
+1650	29	fly (V)	Tad_Magitl	bihari	b i h a r i	114
+1651	30	foot	Tad_Magitl	šːũk’a	šː ũ k’ a	115
+1652	31	full	Tad_Magitl	beč’ada	b e č’ a d a	128
+1653	32	give (V)	Tad_Magitl	oxade	o x a d e	4
+1654	33	go (V)	Tad_Magitl	wanu gudi	w a n u  g u d i	20
+1655	34	good	Tad_Magitl	šoda	š o d a	135
+1656	35	green	Tad_Magitl	žomoʟːi	ž o m o ʟː i	136
+1657	36	hair	Tad_Magitl	ʁoso	ʁ o s o	194
+1658	37	hand	Tad_Magitl	reʟ’a	r e ʟ’ a	144
+1659	38	head	Tad_Magitl	mina	m i n a	148
+1660	39	hear (V)	Tad_Magitl	ãʟani	ã ʟ a n i	150
+1661	40	heart	Tad_Magitl	rak’ʷa	r a k’ʷ a	152
+1662	41	horn	Tad_Magitl	ãk’at’i	ã k’ a t’ i	153
+1663	42	I	Tad_Magitl	dene	d e n e	158
+1664	43	kill (V)	Tad_Magitl	ʟ’ːʷarari	ʟ’ːʷ a r a r i	196
+1665	44	knee	Tad_Magitl	muq’u	m u q’ u	165
+1666	45	know (V)	Tad_Magitl	beq’ari	b e q’ a r i	169
+1667	46	leaf	Tad_Magitl	ʟ’ande	ʟ’ a n d e	173
+1668	47	lie (V)	Tad_Magitl	k’ʷani	k’ʷ a n i	178
+1669	48	liver	Tad_Magitl	hinaʟːi	h i n a ʟː i	263
+1670	49	long	Tad_Magitl	baχːada	b a χː a d a	183
+1671	50	louse	Tad_Magitl	nac’ːi	n a c’ː i	185
+1672	51	man	Tad_Magitl	ek’ʷa	e k’ʷ a	187
+1673	53	many	Tad_Magitl	boʁoda	b o ʁ o d a	190
+1674	54	meat	Tad_Magitl	riʟ’ːi	r i ʟ’ː i	192
+1675	55	moon	Tad_Magitl	boc’ːo	b o c’ː o	71
+1676	57	mouth	Tad_Magitl	q’eli	q’ e l i	203
+1677	58	nail	Tad_Magitl	miɬo	m i ɬ o	205
+1678	59	name	Tad_Magitl	c’ːeri	c’ː e r i	209
+1679	60	neck	Tad_Magitl	k’oli	k’ o l i	212
+1680	61	new	Tad_Magitl	č’inda	č’ i n d a	213
+1681	62	night	Tad_Magitl	raʟa	r a ʟ a	214
+1682	63	nose	Tad_Magitl	miʕa	m i ʕ a	215
+1683	64	not	Tad_Magitl	goʟa	g o ʟ a	219
+1684	65	one	Tad_Magitl	čebe	č e b e	220
+1685	66	rain	Tad_Magitl	c’ːa	c’ː a	222
+1686	67	red	Tad_Magitl	hirida	h i r i d a	223
+1687	68	road	Tad_Magitl	miq’ːi	m i q’ː i	227
+1688	69	root	Tad_Magitl	eʟ’ːe	e ʟ’ː e	228
+1689	70	round	Tad_Magitl	gĩgada	g ĩ g a d a	231
+1690	71	sand	Tad_Magitl	sali	s a l i	
+1691	72	say (V)	Tad_Magitl	eʟ’ːada	e ʟ’ː a d a	240
+1692	73	see (V)	Tad_Magitl	harigʷari	h a r i gʷ a r i	246
+1693	74	seed	Tad_Magitl	miʟ’ːara	m i ʟ’ː a r a	252
+1694	75	sit (V)	Tad_Magitl	k’usado	k’ u s a d o	254
+1695	77	sleep (V)	Tad_Magitl	ʟ’ːani	ʟ’ː a n i	251
+1696	78	small	Tad_Magitl	ĩk’ːʷa	ĩ k’ːʷ a	268
+1697	79	smoke	Tad_Magitl	k’ːũj	k’ː ũ j	272
+1698	80	stand (V)	Tad_Magitl	ʟ’inari	ʟ’ i n a r i	276
+1699	81	star	Tad_Magitl	c’ːʷa	c’ːʷ a	278
+1700	82	stone	Tad_Magitl	inč’a	i n č’ a	425
+1701	83	sun	Tad_Magitl	miɬi	m i ɬ i	282
+1702	84	swim (V)	Tad_Magitl	ɬːenʟ’ani	ɬː e n ʟ’ a n i	290
+1703	85	tail	Tad_Magitl	kaʟːi	k a ʟː i	291
+1704	88	tongue	Tad_Magitl	mic’ːi	m i c’ː i	294
+1705	89	tooth	Tad_Magitl	čilo	č i l o	296
+1706	90	tree	Tad_Magitl	ruša	r u š a	297
+1707	91	two	Tad_Magitl	k’eda	k’ e d a	298
+1708	92	warm	Tad_Magitl	ãsːada	ã sː a d a	299
+1709	93	water	Tad_Magitl	ɬːeni	ɬː e n i	300
+1710	94	we	Tad_Magitl	isːi	i sː i	201
+1711	95	what	Tad_Magitl	čubi	č u b i	303
+1712	96	white	Tad_Magitl	bašida	b a š i d a	306
+1713	97	who	Tad_Magitl	čuwi	č u w i	310
+1714	98	woman	Tad_Magitl	ak’ːo	a k’ː o	317
+1715	99	yellow	Tad_Magitl	t’ihoʟːi	t’ i h o ʟː i	323
+1716	100	you	Tad_Magitl	mene	m e n e	328
+1717	101	far	Tad_Magitl	hidiʟere	h i d i ʟ e r e	331
+1718	102	heavy	Tad_Magitl	hok’orada	h o k’ o r a d a	335
+1719	103	near	Tad_Magitl	qinaɬːi	q i n a ɬː i	339
+1720	104	salt	Tad_Magitl	c’ːani	c’ː a n i	342
+1721	105	short	Tad_Magitl	bačada	b a č a d a	343
+1722	106	snake	Tad_Magitl	beka	b e k a	346
+1723	107	thin	Tad_Magitl	baʟ’arada	b a ʟ’ a r a d a	347
+1724	108	wind	Tad_Magitl	ɬʷe	ɬʷ e	348
+1725	109	worm	Tad_Magitl	beka	b e k a	351
+1726	110	year	Tad_Magitl	reše	r e š e	357
+1727	2	ashes	Tindi-D	ʟ’eː	ʟ’ eː	5
+1728	3	bark	Tindi-D	qali	q a l i	55
+1729	4	belly	Tindi-D	χːinta	χː i n t a	14
+1730	5	big	Tindi-D	hik’ʲab	h i k’ʲ a b	64
+1731	6	bird	Tindi-D	šːakʲib	šː a kʲ i b	19
+1732	7	bite (V)	Tindi-D	č’uno	č’ u n o	26
+1733	8	black	Tindi-D	beč’at’ub	b e č’ a t’ u b	33
+1734	9	blood	Tindi-D	heri	h e r i	31
+1735	10	bone	Tindi-D	raʟ’i	r a ʟ’ i	34
+1736	11	breast	Tindi-D	niχi	n i χ i	16
+1737	12	burn (V, TR)	Tindi-D	c’ahaliɬa	c’ a h a l i ɬ a	43
+1738	13	cloud	Tindi-D	hinawu	h i n a w u	50
+1739	14	cold	Tindi-D	sab	s a b	53
+1740	16	die (V)	Tindi-D	wič’o	w i č’ o	60
+1741	17	dog	Tindi-D	χʷaː	χʷ aː	358
+1742	18	drink (V)	Tindi-D	cawo	c a w o	52
+1743	19	dry	Tindi-D	beq’ub	b e q’ u b	2
+1744	20	ear	Tindi-D	hank’ʲit’a	h a n k’ʲ i t’ a	366
+1745	21	earth	Tindi-D	unšːi	u n šː i	73
+1746	22	eat (V)	Tindi-D	q’ano	q’ a n o	74
+1747	23	egg	Tindi-D	k’ʲek’ʲama	k’ʲ e k’ʲ a m a	80
+1748	24	eye	Tindi-D	hak’ʲa	h a k’ʲ a	86
+1749	25	fat	Tindi-D	ɬana	ɬ a n a	94
+1750	26	feather	Tindi-D	ɬiru	ɬ i r u	100
+1751	27	fire	Tindi-D	c’aː	c’ aː	102
+1752	28	fish	Tindi-D	χʷan	χʷ a n	105
+1753	29	fly (V)	Tindi-D	eto	e t o	110
+1754	30	foot	Tindi-D	begʷaʟi	b e gʷ a ʟ i	122
+1755	31	full	Tindi-D	bec’ub	b e c’ u b	128
+1756	32	give (V)	Tindi-D	goː	g oː	126
+1757	33	go (V)	Tindi-D	woʟo	w o ʟ o	39
+1758	35	green	Tindi-D	žimiʟa basejʟa	ž i m i ʟ a  b a s e j ʟ a	35
+1759	36	hair	Tindi-D	kʲara	kʲ a r a	142
+1760	37	hand	Tindi-D	ʁažu	ʁ a ž u	145
+1761	38	head	Tindi-D	ʔʷani	ʔʷ a n i	149
+1762	39	hear (V)	Tindi-D	anɬo	a n ɬ o	150
+1763	40	heart	Tindi-D	rak’ʷa	r a k’ʷ a	152
+1764	41	horn	Tindi-D	k’ʲama	k’ʲ a m a	155
+1765	42	I	Tindi-D	de	d e	158
+1766	43	kill (V)	Tindi-D	wič’aliɬa	w i č’ a l i ɬ a	130
+1767	44	knee	Tindi-D	niku	n i k u	162
+1768	45	know (V)	Tindi-D	bijo	b i j o	169
+1769	46	leaf	Tindi-D	ali	a l i	173
+1770	47	lie (V)	Tindi-D	ʁordo	ʁ o r d o	176
+1771	48	liver	Tindi-D	relaʟ	r e l a ʟ	180
+1772	49	long	Tindi-D	beχːalab	b e χː a l a b	183
+1773	50	louse	Tindi-D	naci	n a c i	185
+1774	51	man	Tindi-D	hek’ʷa	h e k’ʷ a	187
+1775	53	many	Tindi-D	q’ahab	q’ a h a b	30
+1776	54	meat	Tindi-D	riʟ’i	r i ʟ’ i	192
+1777	55	moon	Tindi-D	bocu	b o c u	71
+1778	57	mouth	Tindi-D	sːunk’ʲa	sː u n k’ʲ a	199
+1779	58	nail	Tindi-D	miɬu	m i ɬ u	205
+1780	59	name	Tindi-D	cera	c e r a	209
+1781	60	neck	Tindi-D	gʲaru	gʲ a r u	210
+1782	61	new	Tindi-D	c’ĩhub	c’ ĩ h u b	213
+1783	62	night	Tindi-D	reɬa	r e ɬ a	214
+1784	63	nose	Tindi-D	mijar	m i j a r	215
+1785	65	one	Tindi-D	seb	s e b	220
+1786	66	rain	Tindi-D	caː	c aː	222
+1787	67	red	Tindi-D	čːičːub	čː i čː u b	225
+1788	68	road	Tindi-D	miq’i	m i q’ i	227
+1789	69	root	Tindi-D	heʟ’ab	h e ʟ’ a b	228
+1790	70	round	Tindi-D	k’ork’alub	k’ o r k’ a l u b	233
+1791	71	sand	Tindi-D	bikːʲi	b i kːʲ i	234
+1792	72	say (V)	Tindi-D	hiʟ’o	h i ʟ’ o	240
+1793	73	see (V)	Tindi-D	hãwo	h ã w o	244
+1794	74	seed	Tindi-D	ʟ’et’u	ʟ’ e t’ u	248
+1795	75	sit (V)	Tindi-D	hačːi buk’iɬa	h a čː i  b u k’ i ɬ a	256
+1796	77	sleep (V)	Tindi-D	ʟ’eχõ	ʟ’ e χ õ	251
+1797	78	small	Tindi-D	muk’utub	m u k’ u t u b	267
+1798	79	smoke	Tindi-D	kːʷĩ	kːʷ ĩ	272
+1799	80	stand (V)	Tindi-D	biʁo	b i ʁ o	273
+1800	81	star	Tindi-D	caru	c a r u	278
+1801	82	stone	Tindi-D	hinc’a	h i n c’ a	425
+1802	83	sun	Tindi-D	miɬi	m i ɬ i	282
+1803	85	tail	Tindi-D	miʁa	m i ʁ a	292
+1804	88	tongue	Tindi-D	mici	m i c i	294
+1805	89	tooth	Tindi-D	salu	s a l u	296
+1806	90	tree	Tindi-D	roha	r o h a	297
+1807	91	two	Tindi-D	k’ʲeja	k’ʲ e j a	298
+1808	92	warm	Tindi-D	ãsːab	ã sː a b	299
+1809	93	water	Tindi-D	ɬːẽ	ɬː ẽ	300
+1810	94	we	Tindi-D	išːa	i šː a	201
+1811	95	what	Tindi-D	ela	e l a	202
+1812	96	white	Tindi-D	hac’ab	h a c’ a b	307
+1813	97	who	Tindi-D	imala	i m a l a	311
+1814	98	woman	Tindi-D	hakːuj	h a kː u j	317
+1815	99	yellow	Tindi-D	ačub	a č u b	320
+1816	100	you	Tindi-D	me	m e	328
+1817	101	far	Tindi-D	čːiwu	čː i w u	329
+1818	102	heavy	Tindi-D	hak’ubab	h a k’ u b a b	335
+1819	103	near	Tindi-D	beʟ’araqa	b e ʟ’ a r a q a	336
+1820	104	salt	Tindi-D	cãː	c ãː	342
+1821	105	short	Tindi-D	bečak’ub	b e č a k’ u b	343
+1822	106	snake	Tindi-D	bekʲa	b e kʲ a	346
+1823	107	thin	Tindi-D	beralab	b e r a l a b	347
+1824	108	wind	Tindi-D	muču	m u č u	349
+1825	109	worm	Tindi-D	čːičub bekʲa	čː i č u b  b e kʲ a	351
+1826	110	year	Tindi-D	rehan	r e h a n	357
+1827	2	ashes	Tlibisho	ʟ’ej	ʟ’ e j	5
+1828	3	bark	Tlibisho	qal	q a l	
+1829	4	belly	Tlibisho	bak’ʷal	b a k’ʷ a l	11
+1830	5	big	Tlibisho	heč’ob	h e č’ o b	64
+1831	6	bird	Tlibisho	šakib	š a k i b	19
+1832	7	bite (V)	Tlibisho	q’ʷarigo	q’ʷ a r i g o	22
+1833	8	black	Tlibisho	beč’at’ob	b e č’ a t’ o b	33
+1834	9	blood	Tlibisho	her	h e r	31
+1835	10	bone	Tlibisho	raʟ’a	r a ʟ’ a	34
+1836	11	breast	Tlibisho	rak’ʷa	r a k’ʷ a	40
+1837	12	burn (V, TR)	Tlibisho	c’ahigo	c’ a h i g o	43
+1838	13	cloud	Tlibisho	hera	h e r a	48
+1839	14	cold	Tlibisho	zarob	z a r o b	42
+1840	16	die (V)	Tlibisho	wuč’ago	w u č’ a g o	60
+1841	17	dog	Tlibisho	xʷaj	xʷ a j	358
+1842	18	drink (V)	Tlibisho	c’ːarde idi	c’ː a r d e  i d i	52
+1843	19	dry	Tlibisho	beq’ob	b e q’ o b	2
+1844	20	ear	Tlibisho	hanč’it’a	h a n č’ i t’ a	366
+1845	21	earth	Tlibisho	ũš	ũ š	73
+1846	22	eat (V)	Tlibisho	q’amigo	q’ a m i g o	74
+1847	23	egg	Tlibisho	č’eč’en	č’ e č’ e n	80
+1848	24	eye	Tlibisho	hač’a	h a č’ a	86
+1849	25	fat	Tlibisho	xʷãha	xʷ ã h a	96
+1850	26	feather	Tlibisho	pir	p i r	100
+1851	27	fire	Tlibisho	c’aj	c’ a j	102
+1852	28	fish	Tlibisho	šːʷaʕa	šːʷ a ʕ a	
+1853	29	fly (V)	Tlibisho	ertingo	e r t i n g o	110
+1854	30	foot	Tlibisho	nuk	n u k	120
+1855	31	full	Tlibisho	bec’ob	b e c’ o b	128
+1856	32	give (V)	Tlibisho	bičigo	b i č i g o	4
+1857	33	go (V)	Tlibisho	woʟigo	w o ʟ i g o	39
+1858	34	good	Tlibisho	xow	x o w	135
+1859	35	green	Tlibisho	ʕačob	ʕ a č o b	137
+1860	36	hair	Tlibisho	buhura	b u h u r a	141
+1861	37	hand	Tlibisho	relʲa	r e lʲ a	144
+1862	38	head	Tlibisho	minar	m i n a r	148
+1863	39	hear (V)	Tlibisho	ãɬigo	ã ɬ i g o	150
+1864	40	heart	Tlibisho	rak’ʷa	r a k’ʷ a	152
+1865	41	horn	Tlibisho	bulʲa	b u lʲ a	154
+1866	42	I	Tlibisho	den	d e n	158
+1867	43	kill (V)	Tlibisho	k’obigo	k’ o b i g o	129
+1868	44	knee	Tlibisho	nuk	n u k	162
+1869	45	know (V)	Tlibisho	biʔida	b i ʔ i d a	169
+1870	46	leaf	Tlibisho	al	a l	173
+1871	47	lie (V)	Tlibisho	heligo	h e l i g o	179
+1872	48	liver	Tlibisho	releʟ	r e l e ʟ	180
+1873	49	long	Tlibisho	beχelob	b e χ e l o b	183
+1874	50	louse	Tlibisho	nac’ː	n a c’ː	185
+1875	51	man	Tlibisho	hek’u	h e k’ u	187
+1876	53	many	Tlibisho	hazadan	h a z a d a n	36
+1877	54	meat	Tlibisho	riʟ’	r i ʟ’	192
+1878	55	moon	Tlibisho	boc’ːʷ	b o c’ːʷ	71
+1879	57	mouth	Tlibisho	helʲa	h e lʲ a	203
+1880	58	nail	Tlibisho	muɬ	m u ɬ	205
+1881	59	name	Tlibisho	c’ːer	c’ː e r	209
+1882	60	neck	Tlibisho	žar	ž a r	210
+1883	61	new	Tlibisho	c’inob	c’ i n o b	213
+1884	62	night	Tlibisho	rehedi	r e h e d i	214
+1885	63	nose	Tlibisho	miʕar	m i ʕ a r	215
+1886	64	not	Tlibisho	-č’e	č’ e	218
+1887	65	one	Tlibisho	ceb	c e b	220
+1888	66	rain	Tlibisho	c’aj	c’ a j	222
+1889	67	red	Tlibisho	šišob	š i š o b	225
+1890	68	road	Tlibisho	miq’	m i q’	227
+1891	69	root	Tlibisho	ħerʟ’em	ħ e r ʟ’ e m	228
+1892	70	round	Tlibisho	girgumob	g i r g u m o b	231
+1893	71	sand	Tlibisho	ũšː	ũ šː	238
+1894	72	say (V)	Tlibisho	basːingo	b a sː i n g o	242
+1895	73	see (V)	Tlibisho	haʔĩda	h a ʔ ĩ d a	244
+1896	74	seed	Tlibisho	xũj	x ũ j	250
+1897	75	sit (V)	Tlibisho	k’unigo	k’ u n i g o	261
+1898	77	sleep (V)	Tlibisho	ʟ’ãhe idi	ʟ’ ã h e  i d i	251
+1899	78	small	Tlibisho	mok’ob	m o k’ o b	267
+1900	79	smoke	Tlibisho	k’ːuj	k’ː u j	272
+1901	80	stand (V)	Tlibisho	woʁe idi	w o ʁ e  i d i	273
+1902	81	star	Tlibisho	c’ːʷara	c’ːʷ a r a	278
+1903	82	stone	Tlibisho	anča	a n č a	280
+1904	83	sun	Tlibisho	miɬ	m i ɬ	282
+1905	84	swim (V)	Tlibisho	kʷalago	kʷ a l a g o	104
+1906	85	tail	Tlibisho	miʁa	m i ʁ a	292
+1907	88	tongue	Tlibisho	mac’ː	m a c’ː	294
+1908	89	tooth	Tlibisho	sal	s a l	296
+1909	90	tree	Tlibisho	roša	r o š a	297
+1910	91	two	Tlibisho	č’eda	č’ e d a	298
+1911	92	warm	Tlibisho	ansːab	a n sː a b	299
+1912	93	water	Tlibisho	ɬːẽj	ɬː ẽ j	300
+1913	94	we	Tlibisho	išː	i šː	201
+1914	95	what	Tlibisho	hilʲa	h i lʲ a	202
+1915	96	white	Tlibisho	hac’ab	h a c’ a b	307
+1916	97	who	Tlibisho	hemiga	h e m i g a	311
+1917	98	woman	Tlibisho	jaši	j a š i	319
+1918	99	yellow	Tlibisho	č’eč’eniʟ’erab	č’ e č’ e n i ʟ’ e r a b	325
+1919	100	you	Tlibisho	men	m e n	328
+1920	101	far	Tlibisho	č’ːid	č’ː i d	329
+1921	102	heavy	Tlibisho	hač’ab	h a č’ a b	335
+1922	103	near	Tlibisho	esːeʟi	e sː e ʟ i	312
+1923	104	salt	Tlibisho	c’ːãj	c’ː ã j	342
+1924	105	short	Tlibisho	bačik’ob	b a č i k’ o b	343
+1925	106	snake	Tlibisho	berča	b e r č a	346
+1926	107	thin	Tlibisho	beralʲob	b e r a lʲ o b	347
+1927	108	wind	Tlibisho	muču	m u č u	349
+1928	109	worm	Tlibisho	žužuka	ž u ž u k a	350
+1929	110	year	Tlibisho	rešin	r e š i n	357
+1930	2	ashes	Tukita	ʟ’e	ʟ’ e	5
+1931	3	bark	Tukita	qal	q a l	
+1932	4	belly	Tukita	bak’ʷal	b a k’ʷ a l	11
+1933	5	big	Tukita	hink’ʲaħab	h i n k’ʲ a ħ a b	64
+1934	6	bird	Tukita	šːakiba	šː a k i b a	19
+1935	7	bite (V)	Tukita	ħami	ħ a m i	
+1936	8	black	Tukita	beč’et’irub	b e č’ e t’ i r u b	33
+1937	9	blood	Tukita	hini	h i n i	32
+1938	10	bone	Tukita	raʟ’i	r a ʟ’ i	34
+1939	11	breast	Tukita	kerin	k e r i n	
+1940	12	burn (V, TR)	Tukita	boɬi	b o ɬ i	44
+1941	13	cloud	Tukita	ʟ’erhan	ʟ’ e r h a n	49
+1942	14	cold	Tukita	zariɬub	z a r i ɬ u b	42
+1943	16	die (V)	Tukita	wulʔa	w u l ʔ a	61
+1944	17	dog	Tukita	hoj	h o j	358
+1945	18	drink (V)	Tukita	c’ːali	c’ː a l i	52
+1946	19	dry	Tukita	beq’ub	b e q’ u b	2
+1947	20	ear	Tukita	hant’ik’ʲa	h a n t’ i k’ʲ a	366
+1948	21	earth	Tukita	ʕunšːi	ʕ u n šː i	73
+1949	22	eat (V)	Tukita	q’ame	q’ a m e	74
+1950	23	egg	Tukita	hanu	h a n u	83
+1951	24	eye	Tukita	hark’ʲa	h a r k’ʲ a	86
+1952	25	fat	Tukita	hani	h a n i	7
+1953	27	fire	Tukita	c’e	c’ e	102
+1954	28	fish	Tukita	čːuʕa	čː u ʕ a	
+1955	29	fly (V)	Tukita	ɬabɬabili	ɬ a b ɬ a b i l i	112
+1956	30	foot	Tukita	c’ik’ʲa	c’ i k’ʲ a	116
+1957	31	full	Tukita	bec’ub	b e c’ u b	128
+1958	32	give (V)	Tukita	bixi	b i x i	4
+1959	33	go (V)	Tukita	wũʔa	w ũ ʔ a	20
+1960	34	good	Tukita	xohuw	x o h u w	135
+1961	35	green	Tukita	žumilʟ’eridisː	ž u m i l ʟ’ e r i d i sː	35
+1962	36	hair	Tukita	bohura	b o h u r a	141
+1963	37	hand	Tukita	relʔa	r e l ʔ a	144
+1964	38	head	Tukita	minar	m i n a r	148
+1965	39	hear (V)	Tukita	anɬi	a n ɬ i	150
+1966	40	heart	Tukita	rak’ʷa	r a k’ʷ a	152
+1967	41	horn	Tukita	ʕoni	ʕ o n i	157
+1968	42	I	Tukita	dini	d i n i	158
+1969	43	kill (V)	Tukita	k’ːumi	k’ː u m i	129
+1970	44	knee	Tukita	nuku	n u k u	162
+1971	45	know (V)	Tukita	biʕa	b i ʕ a	169
+1972	46	leaf	Tukita	alʔi	a l ʔ i	173
+1973	47	lie (V)	Tukita	gili	g i l i	174
+1974	48	liver	Tukita	relʔir	r e l ʔ i r	180
+1975	49	long	Tukita	beχːilab	b e χː i l a b	183
+1976	50	louse	Tukita	nac’ːi	n a c’ː i	185
+1977	51	man	Tukita	kunt’aw	k u n t’ a w	188
+1978	53	many	Tukita	ʟ’aniq	ʟ’ a n i q	191
+1979	54	meat	Tukita	riʟ’i	r i ʟ’ i	192
+1980	55	moon	Tukita	purc’ːi	p u r c’ː i	71
+1981	57	mouth	Tukita	sunk’ʲa	s u n k’ʲ a	199
+1982	58	nail	Tukita	muɬu	m u ɬ u	205
+1983	59	name	Tukita	c’er	c’ e r	209
+1984	60	neck	Tukita	geru	g e r u	210
+1985	61	new	Tukita	c’inub	c’ i n u b	213
+1986	62	night	Tukita	reɬa	r e ɬ a	214
+1987	63	nose	Tukita	miʕar	m i ʕ a r	215
+1988	64	not	Tukita	-č’i	č’ i	218
+1989	65	one	Tukita	ceb	c e b	220
+1990	66	rain	Tukita	c’ːoj	c’ː o j	222
+1991	67	red	Tukita	herub	h e r u b	223
+1992	68	road	Tukita	miq’i	m i q’ i	227
+1993	69	root	Tukita	heʟ’ib	h e ʟ’ i b	228
+1994	70	round	Tukita	girgʲamub	g i r gʲ a m u b	231
+1995	71	sand	Tukita	sali	s a l i	
+1996	72	say (V)	Tukita	keʟ’i	k e ʟ’ i	240
+1997	73	see (V)	Tukita	worde	w o r d e	245
+1998	74	seed	Tukita	xun	x u n	250
+1999	75	sit (V)	Tukita	k’usuli	k’ u s u l i	254
+2000	77	sleep (V)	Tukita	ʟ’iha	ʟ’ i h a	251
+2001	78	small	Tukita	muk’ub	m u k’ u b	267
+2002	79	smoke	Tukita	k’ːũj	k’ː ũ j	272
+2003	80	stand (V)	Tukita	iχitili	i χ i t i l i	275
+2004	81	star	Tukita	c’ːoj	c’ː o j	278
+2005	82	stone	Tukita	ʕanča	ʕ a n č a	280
+2006	83	sun	Tukita	miɬi	m i ɬ i	282
+2007	84	swim (V)	Tukita	ɬedili	ɬ e d i l i	286
+2008	85	tail	Tukita	miʁa	m i ʁ a	292
+2009	88	tongue	Tukita	mac’ːi	m a c’ː i	294
+2010	89	tooth	Tukita	sali	s a l i	296
+2011	90	tree	Tukita	ruxʲa	r u xʲ a	297
+2012	91	two	Tukita	k’ek’i	k’ e k’ i	298
+2013	92	warm	Tukita	ansːab	a n sː a b	299
+2014	93	water	Tukita	ɬin	ɬ i n	300
+2015	94	we	Tukita	išːi	i šː i	201
+2016	95	what	Tukita	čuw	č u w	303
+2017	96	white	Tukita	qaħub	q a ħ u b	
+2018	97	who	Tukita	čuw	č u w	310
+2019	98	woman	Tukita	hark’ːuj	h a r k’ː u j	317
+2020	99	yellow	Tukita	ʕačub	ʕ a č u b	320
+2021	100	you	Tukita	mini	m i n i	328
+2022	101	far	Tukita	č’ːidu	č’ː i d u	329
+2023	102	heavy	Tukita	hark’ibab	h a r k’ i b a b	335
+2024	103	near	Tukita	ʟarha	ʟ a r h a	427
+2025	104	salt	Tukita	c’ːan	c’ː a n	342
+2026	105	short	Tukita	bačak’ub	b a č a k’ u b	343
+2027	106	snake	Tukita	berkʲa	b e r kʲ a	346
+2028	107	thin	Tukita	belʔarab	b e l ʔ a r a b	347
+2029	108	wind	Tukita	muču	m u č u	349
+2030	109	worm	Tukita	ʕunšiχir	ʕ u n š i χ i r	354
+2031	110	year	Tukita	rexin	r e x i n	357
+2032	2	ashes	Zilo	ʟ’e	ʟ’ e	5
+2033	3	bark	Zilo	qal	q a l	
+2034	4	belly	Zilo	reka	r e k a	10
+2035	5	big	Zilo	beč’uχa	b e č’ u χ a	15
+2036	6	bird	Zilo	šːekib	šː e k i b	19
+2037	7	bite (V)	Zilo	q’ammeri	q’ a m m e r i	23
+2038	8	black	Zilo	beč’edir	b e č’ e d i r	33
+2039	9	blood	Zilo	hiri	h i r i	31
+2040	10	bone	Zilo	roʟ’i	r o ʟ’ i	34
+2041	11	breast	Zilo	abur	a b u r	428
+2042	12	burn (V, TR)	Zilo	c’ateri	c’ a t e r i	43
+2043	13	cloud	Zilo	hiro	h i r o	48
+2044	14	cold	Zilo	sːodo	sː o d o	53
+2045	16	die (V)	Zilo	wuč’eri	w u č’ e r i	60
+2046	17	dog	Zilo	χʷej	χʷ e j	358
+2047	18	drink (V)	Zilo	c’ːaderi	c’ː a d e r i	52
+2048	19	dry	Zilo	beq’ub	b e q’ u b	2
+2049	20	ear	Zilo	hant’ik’a	h a n t’ i k’ a	366
+2050	21	earth	Zilo	onšː	o n šː	73
+2051	22	eat (V)	Zilo	k’ammir	k’ a m m i r	78
+2052	23	egg	Zilo	k’ork’on	k’ o r k’ o n	80
+2053	24	eye	Zilo	hark’u	h a r k’ u	86
+2054	25	fat	Zilo	čora	č o r a	77
+2055	26	feather	Zilo	ɬiru	ɬ i r u	100
+2056	27	fire	Zilo	c’a	c’ a	102
+2057	28	fish	Zilo	χʷami	χʷ a m i	105
+2058	29	fly (V)	Zilo	bureri	b u r e r i	109
+2059	30	foot	Zilo	čunk’a	č u n k’ a	9
+2060	31	full	Zilo	bic’i	b i c’ i	128
+2061	32	give (V)	Zilo	ičːo	i čː o	4
+2062	33	go (V)	Zilo	woʔinnu	w o ʔ i n n u	20
+2063	34	good	Zilo	šub	š u b	135
+2064	35	green	Zilo	χʷejči	χʷ e j č i	138
+2065	36	hair	Zilo	ɬin	ɬ i n	143
+2066	37	hand	Zilo	reʔa	r e ʔ a	144
+2067	38	head	Zilo	mijar	m i j a r	147
+2068	39	hear (V)	Zilo	anɬeri	a n ɬ e r i	150
+2069	40	heart	Zilo	rok’o	r o k’ o	152
+2070	41	horn	Zilo	ʁʷen	ʁʷ e n	157
+2071	42	I	Zilo	den	d e n	158
+2072	43	kill (V)	Zilo	ӡ̌aberi	ӡ̌ a b e r i	161
+2073	44	knee	Zilo	χink’il	χ i n k’ i l	163
+2074	45	know (V)	Zilo	c’ːinneri	c’ː i n n e r i	166
+2075	46	leaf	Zilo	ɬaχibol	ɬ a χ i b o l	168
+2076	47	lie (V)	Zilo	gireri	g i r e r i	174
+2077	48	liver	Zilo	reʔiʟi	r e ʔ i ʟ i	180
+2078	49	long	Zilo	beχːula	b e χː u l a	183
+2079	50	louse	Zilo	arpa	a r p a	
+2080	51	man	Zilo	kunt’ok’ʷa	k u n t’ o k’ʷ a	188
+2081	53	many	Zilo	biholgu	b i h o l g u	423
+2082	54	meat	Zilo	riʟ’i	r i ʟ’ i	192
+2083	55	moon	Zilo	porc’ːi	p o r c’ː i	71
+2084	57	mouth	Zilo	k’ol	k’ o l	198
+2085	58	nail	Zilo	muɬalol	m u ɬ a l o l	205
+2086	59	name	Zilo	c’ːer	c’ː e r	209
+2087	60	neck	Zilo	q’ʷãq’ʷã	q’ʷ ã q’ʷ ã	197
+2088	61	new	Zilo	c’ĩw	c’ ĩ w	213
+2089	62	night	Zilo	reɬo	r e ɬ o	214
+2090	63	nose	Zilo	mahar	m a h a r	215
+2091	64	not	Zilo	-sːu	sː u	217
+2092	65	one	Zilo	seb	s e b	220
+2093	66	rain	Zilo	c’ːa	c’ː a	222
+2094	67	red	Zilo	hiri	h i r i	223
+2095	68	road	Zilo	miq’i	m i q’ i	227
+2096	69	root	Zilo	hiʟ’im	h i ʟ’ i m	228
+2097	70	round	Zilo	gurguma	g u r g u m a	231
+2098	71	sand	Zilo	sur	s u r	237
+2099	72	say (V)	Zilo	ruʟeri	r u ʟ e r i	239
+2100	73	see (V)	Zilo	haʔor	h a ʔ o r	244
+2101	74	seed	Zilo	šen	š e n	250
+2102	75	sit (V)	Zilo	hojk’ʷeri	h o j k’ʷ e r i	257
+2103	77	sleep (V)	Zilo	ʟ’iχinnu	ʟ’ i χ i n n u	251
+2104	78	small	Zilo	mič’i	m i č’ i	267
+2105	79	smoke	Zilo	k’ːʷej	k’ːʷ e j	272
+2106	80	stand (V)	Zilo	jič’ːeri	j i č’ː e r i	274
+2107	81	star	Zilo	c’ːʷa	c’ːʷ a	278
+2108	82	stone	Zilo	hinc’o	h i n c’ o	425
+2109	83	sun	Zilo	miɬi	m i ɬ i	282
+2110	84	swim (V)	Zilo	koleri	k o l e r i	104
+2111	85	tail	Zilo	moʁorč’u	m o ʁ o r č’ u	292
+2112	88	tongue	Zilo	mic’ːi	m i c’ː i	294
+2113	89	tooth	Zilo	sol	s o l	296
+2114	90	tree	Zilo	reša	r e š a	297
+2115	91	two	Zilo	č’egu	č’ e g u	298
+2116	92	warm	Zilo	unsːa	u n sː a	299
+2117	93	water	Zilo	ɬːen	ɬː e n	300
+2118	94	we	Zilo	išːil	i šː i l	201
+2119	95	what	Zilo	ibʁi	i b ʁ i	229
+2120	96	white	Zilo	hac’a	h a c’ a	307
+2121	97	who	Zilo	imʁi	i m ʁ i	311
+2122	98	woman	Zilo	jošik’ʷa	j o š i k’ʷ a	319
+2123	99	yellow	Zilo	čakːu	č a kː u	321
+2124	100	you	Zilo	men	m e n	328
+2125	101	far	Zilo	elola	e l o l a	330
+2126	102	heavy	Zilo	howk’oru	h o w k’ o r u	335
+2127	103	near	Zilo	ʟeru	ʟ e r u	427
+2128	104	salt	Zilo	c’ːon	c’ː o n	342
+2129	105	short	Zilo	bočo	b o č o	343
+2130	106	snake	Zilo	berka	b e r k a	346
+2131	107	thin	Zilo	beʔora	b e ʔ o r a	347
+2132	108	wind	Zilo	moči	m o č i	349
+2133	109	worm	Zilo	šːiršːil	šː i r šː i l	17
+2134	110	year	Zilo	rešin	r e š i n	357

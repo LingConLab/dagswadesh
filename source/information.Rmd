@@ -2,6 +2,8 @@
 title: "Information"
 output:
   html_document:
+    include:
+       after_body: footer.html
     fig_cap: yes
     highlight: tango
     smooth_scroll: no

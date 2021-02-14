@@ -1,4 +1,6 @@
 name: "DagSwadesh"
+include:
+       after_body: footer.hml
 output_dir: ".."
 navbar:
   title: "DagSwadesh"

@@ -1,4 +1,8 @@
 ---
+output: 
+  html_document:
+    include:
+      after_body: footer.html
 title: Search data
 ---
 
