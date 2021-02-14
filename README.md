@@ -1,5 +1,7 @@
+[![DOI](https://zenodo.org/badge/313318657.svg)](https://zenodo.org/badge/latestdoi/313318657)
+
 # About
-This is the code and the data for DagSwadesh project
+This is the code and the data for DagSwadesh project 
 
 2021-02-14 K. Filatov, M. Daniel & all the contributors
 
@@ -9,7 +11,7 @@ Last version could be found [here](https://github.com/LingConLab/dagswadesh/blob
 # How to cite
 
 In English: 
->Filatov, Konstantin & Michael Daniel (eds.). DagSwadesh: 100 Swadesh lists from Daghestan. An online database of basic vocabulary divergence across neighbour villages. Moscow: Linguistic Convergence Laboratory, HSE University.
+>Filatov, Konstantin & Michael Daniel (eds.). DagSwadesh: 100 Swadesh lists from Daghestan. An online database of basic vocabulary divergence across neighbour villages. Moscow: Linguistic Convergence Laboratory, HSE University. 
 
 In Russian: 
 >К. В. Филатов, Даниэль, М. А. (ред.). DagSwadesh: Стословные списки Сводеша для языков Дагестана. Онлайн-база данных дивергенции базовой лексики близлежащих идиомов. Москва: Международная лаборатория языковой конвергенции, НИУ ВШЭ.
