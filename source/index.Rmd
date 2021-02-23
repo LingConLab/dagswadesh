@@ -13,6 +13,8 @@ title: DagSwadesh
 
 DagSwadesh (Swadesh lists with village granularity) is a database of Swadesh-100 wordlists from the languages of Daghestan. The main aim of the project is to substantiate lexicostatistical classification of the Nakh-Daghestanian idioms by controlling the provenance of the wordlist at the village level, including using data from reliable sources (such as Kibrik & Kodzasov 1990, 1991) and collecting new data ourselves. Our recordings fill gaps in the existing datasets as well as may account for eventual differences between villages speaking what is conventionally seen as one and the same language. As of 2020, the database presents data on 21 village varieties, belonging to the Avar-Andic branch of the Nakh-Daghestanian.
 
+ __The resource was prepared within the framework of the HSE University Basic Research Program.__
+
 ***
 ### How to use DagSwadesh?
 You can browse DagSwadesh in search mode (in case you are interested in investigating a list from a particular idiom or in inspecting a cognate set) or in comparative mode (in case you want to compare concepts across different idioms). All the data are also available for downloading in tsv cldf-compatible format.

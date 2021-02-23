@@ -1,6 +1,6 @@
 name: "DagSwadesh"
 include:
-       after_body: footer.hml
+       after_body: footer.html
 output_dir: ".."
 navbar:
   title: "DagSwadesh"
